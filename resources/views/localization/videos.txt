@@ -1,0 +1,948 @@
+
+
+[
+11 => [
+"short_description" => "Dr. Jose Sergio Almeida, expert from the Integration and Testing Laboratory (LIT) of the National Institute for Space Research (INPE) institute of Brazil gave a lecture for Space Challenges.",
+"short_description_bg" => "",
+"long_description" => "Dr. Jose Sergio Almeida, expert from the Integration and Testing Laboratory (LIT) of the National Institute for Space Research (INPE) institute of Brazil gave a lecture for Space Challenges.",
+"long_description_bg" => "",
+],
+12 => [
+"title" => "Introduction to Spacecraft Technology - Part 2",
+"title_bg" => "",
+],
+13 => [
+"title" => "Introduction to Spacecraft Technology - Part 3",
+"title_bg" => "",
+],
+14 => [
+"title" => "An Introduction to Antennas for Space Applications - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Ing. Marco Lisi, GNSS Services Engineering Manager at ESA, and former Special Advisor of the European Commission on European space policies, speaks with Space Challenges.",
+"short_description_bg" => "",
+"long_description" => "Dr. Ing. Marco Lisi, GNSS Services Engineering Manager at ESA, and former Special Advisor of the European Commission on European space policies, speaks with Space Challenges.",
+"long_description_bg" => "",
+],
+15 => [
+"title" => "An Introduction to Antennas for Space Applications - Part 2",
+"title_bg" => "",
+],
+16 => [
+"title" => "An Introduction to Antennas for Space Applications - Part 3",
+"title_bg" => "",
+],
+17 => [
+"title" => "An Introduction to Antennas for Space Applications - Part 4",
+"title_bg" => "",
+],
+18 => [
+"title" => "Spacecraft Environmental Tests - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Jose Sergio Almeida, expert from the Integration and Testing Laboratory (LIT) of the National Institute for Space Research (INPE) institute of Brazil gave a lecture for Space Challenges",
+"short_description_bg" => "",
+"long_description" => "Dr. Jose Sergio Almeida, expert from the Integration and Testing Laboratory (LIT) of the National Institute for Space Research (INPE) institute of Brazil gave a lecture for Space Challenges",
+"long_description_bg" => "",
+],
+19 => [
+"title" => "Spacecraft Environmental Tests - Part 2",
+"title_bg" => "",
+],
+20 => [
+"title" => "Spacecraft Environmental Tests - Part 3",
+"title_bg" => "",
+],
+21 => [
+"title" => "Spacecraft Environmental Tests - Part 4",
+"title_bg" => "",
+],
+22 => [
+"title" => "Introduction to Spacecraft GN&C - Part 1",
+"title_bg" => "",
+"short_description" => "Steve Ulrich is the Director of the Spacecraft Robotics and Control Laboratory in the Department of Mechanical and Aerospace Engineering at Carleton University.",
+"short_description_bg" => "",
+"long_description" => "Steve Ulrich is the Director of the Spacecraft Robotics and Control Laboratory in the Department of Mechanical and Aerospace Engineering at Carleton University. He received his B.Eng. (2004) and M.A.Sc. (2006) in electrical engineering from the Université de Sherbrooke, and his Ph.D. in aerospace engineering (2012) from Carleton University. From 2006 to 2008, he was Spacecraft GN&C Research Engineer with NGC Aerospace Ltd, where he namely led the development of an innovative attitude perturbation estimation system for the European Space Agency’s PROBA-2 spacecraft. In 2013, he was Postdoctoral Associate with the Space Systems Laboratory at the Massachusetts Institute of Technology, where he contributed to the development and experimental validation of vision-based relative navigation and control aboard the International Space Station during expeditions 34 and 35.",
+"long_description_bg" => "",
+],
+23 => [
+"title" => "Introduction to Spacecraft GN&C - Part 2",
+"title_bg" => "",
+],
+24 => [
+"title" => "Antennas for Space Applications - Part 1",
+"title_bg" => "",
+],
+25 => [
+"title" => "Antennas for Space Applications - Part 2",
+"title_bg" => "",
+],
+26 => [
+"title" => "Antennas for Space Applications - Part 3",
+"title_bg" => "",
+],
+27 => [
+"title" => "Antennas for Space Applications - Part 4",
+"title_bg" => "",
+],
+28 => [
+"title" => "Nanotechnologies For Space Applications - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Alessandro Chiolerio got a PhD in Electron Devices at the Physics Department of Politecnico di Torino with emphasis on nanomagnetism and spintronic devices. During his post-doctoral period he worked on nanostructured materials and inkjet printing techniques.",
+"short_description_bg" => "",
+"long_description" => "Dr. Alessandro Chiolerio got a PhD in Electron Devices at the Physics Department of Politecnico di Torino with emphasis on nanomagnetism and spintronic devices. During his post-doctoral period he worked on nanostructured materials and inkjet printing techniques. Since 2012 he works at the Center for Space Human Robotics, Istituto Italiano di Tecnologia, coordinating research activities for the Smart Materials Platform. A. Chiolerio is coauthor of more than 55 papers on international journals, 14 books /book chapters, 7 patents. In 2008 Alessandro founded a spin-off company, Politronica Inkjet Printing S.r.l., which developed products and patents jointly with Politecnico di Torino and Istituto Italiano di Tecnologia on innovative nanostructured inks for electromagnetic applications.",
+"long_description_bg" => "",
+],
+29 => [
+"title" => "Nanotechnologies For Space Applications - Part 2",
+"title_bg" => "",
+],
+30 => [
+"title" => "Nanotechnologies For Space Applications - Part 3",
+"title_bg" => "",
+],
+31 => [
+"title" => "Newest Trends in Spacecraft Design - Part 1",
+"title_bg" => "",
+"short_description" => "Stuart Eves is currently Lead Mission Concepts Engineer, (or, “an ideas guy”), at Airbus Defence and Space. He also chairs the UKspace Security and Defence Committee.",
+"short_description_bg" => "",
+"long_description" => "Stuart Eves accumulated nearly 30 years’ experience of military satellite system design, (including 16 years with the MOD and 10 years with Surrey Satellite Technology Limited), before joining Airbus Defence and Space in 2014. His career has included work on satellite surveillance, communications, and science missions, including Skynet 4, TopSat, NovaSAR, TDS-1, and CHEOPS. He is currently Lead Mission Concepts Engineer, (or, “an ideas guy”), at Airbus Defence and Space. He also chairs the UKspace Security and Defence Committee.",
+"long_description_bg" => "",
+],
+32 => [
+"title" => "Newest Trends in Spacecraft Design - Part 2",
+"title_bg" => "",
+],
+34 => [
+"title" => "Newest Trends in Spacecraft Design - Part 3",
+"title_bg" => "",
+],
+35 => [
+"title" => "Advanced Satellite Technology - Part 1",
+"title_bg" => "",
+],
+36 => [
+"title" => "Advanced Satellite Technology - Part 2",
+"title_bg" => "",
+],
+37 => [
+"title" => "Advanced Satellite Technology - Part 3",
+"title_bg" => "",
+],
+38 => [
+"title" => "Space Transportation - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Thomas Panozzo is currently the Director of Telematic Solutions Srl. and used to work for CNES and Arianespace. He gives a detailed overview of the European launch vehicles.",
+"short_description_bg" => "",
+"long_description" => "Dr. Thomas Panozzo is currently the Director of Telematic Solutions Srl. and used to work for CNES and Arianespace. He gives a detailed overview of the European launch vehicles.",
+"long_description_bg" => "",
+],
+39 => [
+"title" => "Space Transportation - Part 2",
+"title_bg" => "",
+"short_description" => "Dr. Thomas Panozzo is currently the Director of Telematic Solutions Srl. and used to work for CNES and Arianespace. He describes the Mission Analysis of a rocket launch.",
+"short_description_bg" => "",
+"long_description" => "Dr. Thomas Panozzo is currently the Director of Telematic Solutions Srl. and used to work for CNES and Arianespace. He describes the Mission Analysis of a rocket launch.",
+"long_description_bg" => "",
+],
+40 => [
+"title" => "Space Transportation - Part 3",
+"title_bg" => "",
+],
+41 => [
+"title" => "Space Transportation - Part 4",
+"title_bg" => "",
+],
+42 => [
+"title" => "Space Transportation - Part 5",
+"title_bg" => "",
+],
+43 => [
+"title" => "Space Transportation - Part 6",
+"title_bg" => "",
+"short_description" => "Dr. Thomas Panozzo is currently the Director of Telematic Solutions Srl. and used to work for CNES and Arianespace. He shows how a real launch campaign of Ariane 5 looks in pictures and video.",
+"short_description_bg" => "",
+"long_description" => "Dr. Thomas Panozzo is currently the Director of Telematic Solutions Srl. and used to work for CNES and Arianespace. He shows how a real launch campaign of Ariane 5 looks in pictures and video.",
+"long_description_bg" => "",
+],
+44 => [
+"title" => "The Transformation of Kennedy Space Center - Part 1",
+"title_bg" => "",
+"short_description" => "Robert Hubbard, a Business development manager at Kennedy Space Center, NASA, talks about the transformation that the Center is undergoing in order to become a Multiuser Spaceport.",
+"short_description_bg" => "",
+"long_description" => "Robert Hubbard, a Business development manager at Kennedy Space Center, NASA, talks about the transformation that the Center is undergoing in order to become a Multiuser Spaceport.",
+"long_description_bg" => "",
+],
+45 => [
+"title" => "The Transformation of Kennedy Space Center - Part 2",
+"title_bg" => "",
+],
+46 => [
+"title" => "Introduction to Satellite Systems - Part 1",
+"title_bg" => "",
+"short_description" => "Prof. Paolo Gaudenzi from La Sapienza university in Rome, Italy teaches Aerospace Structures within the Department of Mechanical and Aerospace Engineering and is also the Director of the Ph.D. course in Aerospace Technologies and of the professional Master course in Space Systems and Services there.",
+"short_description_bg" => "",
+"long_description" => "Prof. Paolo Gaudenzi from La Sapienza university in Rome, Italy. Prof. Gaudenzi not only teaches Aerospace Structures within the Department of Mechanical and Aerospace Engineering, but is also the Director of the Ph.D. course in Aerospace Technologies and of the professional Master course in Space Systems and Services at La Sapienza. In addition, he is Founding Faculty Fellow of the Skolkovo Institute of Science and Technology in Skolkovo, Russia.",
+"long_description_bg" => "",
+],
+47 => [
+"title" => "Introduction to Satellite Systems - Part 2",
+"title_bg" => "",
+],
+48 => [
+"title" => "What is Systems Architecture - Part 1",
+"title_bg" => "",
+"short_description" => "Prof. Alessandro Golkar is Assistant Professor at the Skolkovo Institute of Science and Technology.",
+"short_description_bg" => "",
+"long_description" => "Prof. Alessandro Golkar is Assistant Professor at the Skolkovo Institute of Science and Technology.",
+"long_description_bg" => "",
+],
+49 => [
+"title" => "What is Systems Architecture - Part 2",
+"title_bg" => "",
+],
+50 => [
+"title" => "What is Systems Architecture - Part 3",
+"title_bg" => "",
+],
+51 => [
+"title" => "What is Systems Architecture - Part 4",
+"title_bg" => "",
+],
+52 => [
+"title" => "Human Spaceflight Mission Control Operations",
+"title_bg" => "",
+"short_description" => "Antonio Fortunato is the lead EUROCOM, and deputy lead of Crew Operations for the ESA Astronaut Office.",
+"short_description_bg" => "",
+"long_description" => "Antonio Fortunato is the lead EUROCOM, and deputy lead of Crew Operations for the ESA Astronaut Office. EUROCOM is an International Space Station Flight Control Room position, responsible for direct communication with the International Space Station crew. Because only radio communication is available, the communicator needs to have clear communication skills and a solid understanding of the technical issues.",
+"long_description_bg" => "",
+],
+53 => [
+"title" => "Space System Studies in the Concurrent Design Facility",
+"title_bg" => "",
+],
+54 => [
+"title" => "Spacesuit Systems - Part 1",
+"title_bg" => "",
+"short_description" => "Gernot Groemer is president of the Austrian Space Forum and responsible for external relations. He also teaches and does research at the University of Innsbruck.",
+"short_description_bg" => "",
+"long_description" => "Gernot Groemer is president of the Austrian Space Forum and responsible for external relations. He also teaches and does research at the University of Innsbruck. He’s a member of the Space Generation Advisory Council (Board of Mentors), and has carried out various research sojourns in Italy, USA, and Chile. He is an outreach coordinator of the European lunar mission LunarSat, a simulation in Utah of a crewed expedition on Mars. He’s also part of the Program Management Group AustroMars and PolAres.",
+"long_description_bg" => "",
+],
+55 => [
+"title" => "Spacesuit Systems - Part 2",
+"title_bg" => "",
+],
+56 => [
+"title" => "Spacesuit Systems - Part 3",
+"title_bg" => "",
+],
+57 => [
+"title" => "The Moonwalk Project - Part 1",
+"title_bg" => "",
+"short_description" => "Diego Urbina was a member of the the 520-day isolation crew of the Mars500 study, crew member at the Mars Desert Research Station in Utah, USA in January 2010, researching the growth of tropical plants and spacesuit constraints.",
+"short_description_bg" => "",
+"long_description" => "Diego Urbina was a member of the the 520-day isolation crew of the Mars500 study, crew member at the Mars Desert Research Station in Utah, USA in January 2010, researching the growth of tropical plants and spacesuit constraints. Attitude and Orbit Control Systems researcher for the Aramis nanosatellite at the Politecnico di Torino in 2008.",
+"long_description_bg" => "",
+],
+58 => [
+"title" => "The Moonwalk Project - Part 2",
+"title_bg" => "",
+],
+59 => [
+"title" => "Red Sands. White Ice. Mars Analog Expeditions - Part 1",
+"title_bg" => "",
+],
+60 => [
+"title" => "Red Sands. White Ice. Mars Analog Expeditions - Part 2",
+"title_bg" => "",
+],
+61 => [
+"title" => "The Space Biosciences Challenges - Part 1",
+"title_bg" => "",
+"short_description" => "A lecture about the current trends and newest developments in Space Biosciences by Dr. Yuri Griko - Space Biosciences, NASA Ames Research Centre.",
+"short_description_bg" => "",
+"long_description" => "A lecture about the current trends and newest developments in Space Biosciences by Dr. Yuri Griko - Space Biosciences, NASA Ames Research Centre.",
+"long_description_bg" => "",
+],
+62 => [
+"title" => "The Space Biosciences Challenges - Part 2",
+"title_bg" => "",
+],
+63 => [
+"title" => "The Space Biosciences Challenges - Part 3",
+"title_bg" => "",
+],
+64 => [
+"title" => "Space Medicine - ￼Space pharmacology",
+"title_bg" => "",
+"short_description" => "Lecture: Space Medicine - ￼Space pharmacology by Dr. Yuri Griko, Laboratory of Countermeasures Development, Life Sciences Division, NASA Ames Research Center.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Space Medicine - ￼Space pharmacology by Dr. Yuri Griko, Laboratory of Countermeasures Development, Life Sciences Division, NASA Ames Research Center.",
+"long_description_bg" => "",
+],
+65 => [
+"title" => "Space Medicine - Challenges and Countermeasures - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Space Medicine - Challenges and Countermeasures by Dr. Yuri Griko, Laboratory of Countermeasures Development, Life Sciences Division, NASA Ames Research Center.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Space Medicine - Challenges and Countermeasures by Dr. Yuri Griko, Laboratory of Countermeasures Development, Life Sciences Division, NASA Ames Research Center.",
+"long_description_bg" => "",
+],
+66 => [
+"title" => "Space Medicine - Challenges and Countermeasures - Part 2",
+"title_bg" => "",
+],
+67 => [
+"title" => "Introduction to Exoskeleton System",
+"title_bg" => "",
+"short_description" => "Lecture: Introduction to Exoskeleton System by Andree-Anne Parent - PhD Candidate, Universite du Quebec a Montreal.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Introduction to Exoskeleton System by Andree-Anne Parent - PhD Candidate, Universite du Quebec a Montreal.",
+"long_description_bg" => "",
+],
+68 => [
+"title" => "Natural sensors and their contributions - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Exoskeleton project - Natural sensors and their contributions by Dr. Marc Bélanger - Département de Kinanthropologie, Faculté des Sciences, Université du Québec à Montreal.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Exoskeleton project - Natural sensors and their contributions by Dr. Marc Bélanger - Département de Kinanthropologie, Faculté des Sciences, Université du Québec à Montreal.",
+"long_description_bg" => "",
+],
+69 => [
+"title" => "Natural sensors and their contributions - Part 2",
+"title_bg" => "",
+],
+70 => [
+"title" => "Synthetic Biology in Space",
+"title_bg" => "",
+"short_description" => "Lecture: Synthetic Biology in Space by Dr. John Cumbers -- UC Santa Cruz, California US.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Synthetic Biology in Space by Dr. John Cumbers -- UC Santa Cruz, California US.",
+"long_description_bg" => "",
+],
+71 => [
+"title" => "The Future and the Singularity - Part 1",
+"title_bg" => "",
+"short_description" => "A lecture about the future of technology and its merging with humanity by Jose Cordeiro.",
+"short_description_bg" => "",
+"long_description" => "Jose Cordeiro, MBA, PhD (www.cordeiro.org)
+Visiting Research Fellow, IDE-JETRO, Tokyo, Japan (www.ide.go.jp)
+Director, The Millennium Project, Venezuela Node (www.Millennium-Project.org)
+Adjunct Professor, Moscow Institute of Physics and Technology, Russia (www.mipt.ru)
+Founder and President Emeritus, World Future Society, Venezuela Chapter (www.FuturoVenezuela.net)
+Founding Energy Advisor/Faculty, Singularity University, NASA Research Park, California, USA (www.SingularityU.org)",
+"long_description_bg" => "",
+],
+72 => [
+"title" => "The Future and the Singularity - Part 2",
+"title_bg" => "",
+],
+73 => [
+"title" => "100 Years of (Micro)Space - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Rick Fleeter is a small satellite designer and entrepreneur, Adjunct Associate professor of Engineering at Brown University, and Visiting Professor in the faculty of Aerospace Engineering at La Sapienza University.",
+"short_description_bg" => "",
+"long_description" => "Dr. Rick Fleeter is a small satellite designer and entrepreneur, Adjunct Associate professor of Engineering at Brown University, and Visiting Professor in the faculty of Aerospace Engineering at La Sapienza University.",
+"long_description_bg" => "",
+],
+74 => [
+"title" => "100 Years of (Micro)Space - Part 2",
+"title_bg" => "",
+],
+75 => [
+"title" => "100 Years of (Micro)Space - Part 3",
+"title_bg" => "",
+],
+76 => [
+"title" => "100 Years of (Micro)Space - Part 4",
+"title_bg" => "",
+],
+77 => [
+"title" => "The Space Race 2.0 - Part 1",
+"title_bg" => "",
+"short_description" => "José Achache is President of ALTYN, Managing Director of APSwiss and professor at the Institut de Physique du Globe de Paris. He has published numerous scientific papers as well as editorial, interviews and conferences for wider audiences on space and environmental Issues.",
+"short_description_bg" => "",
+"long_description" => "José Achache is President of ALTYN and Managing Director of APSwiss, a joint undertaking of ESA, the European Space Agency, and the Swiss Space Office. He was the Secretariat Director of Global Earth Observation System of Systems from 2005 to 2012. Achache was the first to serve in the position, having taken the post in 2005, when the Group on Earth Observations was established. After 15 years of research in Geophysics, and 15 years of executive management in French and international R&D and space agencies (BRGM, CNES, ESA, GEO), José Achache is now involved in the development of applications and services relying on satellites. He has been a research assistant then professor at the Institut de Physique du Globe de Paris, deputy director of the French Geological Survey\'s research division, the deputy director general of the French space agency and director of Earth observation at the European Space Agency. He is the father of the Sentinel series of satellites of the Copernicus/GMES programme of the European Union and the author of Les Sentinelles de la Terre, an essay on space policy and the applications of space infrastructures. He has published numerous scientific papers as well as editorial, interviews and conferences for wider audiences on space and environmental Issues.",
+"long_description_bg" => "",
+],
+78 => [
+"title" => "The Space Race 2.0 - Part 2",
+"title_bg" => "",
+],
+79 => [
+"title" => "The Space Race 2.0 - Part 3",
+"title_bg" => "",
+],
+80 => [
+"title" => "The Space Race 2.0 - Part 4",
+"title_bg" => "",
+],
+81 => [
+"title" => "The Space Race 2.0 - Part 5",
+"title_bg" => "",
+],
+82 => [
+"title" => "The Space Race 2.0 - Part 6",
+"title_bg" => "",
+],
+83 => [
+"title" => "New vs old space missions and systems",
+"title_bg" => "",
+"short_description" => "Prof. Paolo Gaudenzi from La Sapienza university in Rome, Italy. Prof. Gaudenzi not only teaches Aerospace Structures within the Department of Mechanical and Aerospace Engineering, but is also the Director of the Ph.D. course in Aerospace Technologies and of the professional Master course in Space Systems and Services at La Sapienza.",
+"short_description_bg" => "",
+],
+84 => [
+"title" => "European Global Navigation Infrastructure - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Ing. Marco Lisi is GNSS Services Engineering Manager at the European Space Agency, and a former advisor on GNSS policy to the European Commission. He is responsible for the engineering and exploitation of services based on the European navigation infrastructures, Galileo and EGNOS.",
+"short_description_bg" => "",
+"long_description" => "Dr. Ing. Marco Lisi is GNSS Services Engineering Manager at the European Space Agency, and a former advisor on GNSS policy to the European Commission. He is responsible for the engineering and exploitation of services based on the European navigation infrastructures, Galileo and EGNOS.",
+"long_description_bg" => "",
+],
+85 => [
+"title" => "European Global Navigation Infrastructure - Part 2",
+"title_bg" => "",
+],
+86 => [
+"title" => "Worldwide PNT Infrastructure - Part 1",
+"title_bg" => "",
+"long_description" => "Dr. Ing. Marco Lisi is GNSS Services Engineering Manager at the European Space Agency, and a former advisor on GNSS policy to the European Commission. He is responsible for the engineering and exploitation of services based on the European navigation infrastructures, Galileo and EGNOS. Watch this video to learn more about the limitations and vulnerabilities, ways to ensure non-stop operability and the future of GNSS systems.",
+"long_description_bg" => "",
+],
+87 => [
+"title" => "Worldwide PNT Infrastructure - Part 2",
+"title_bg" => "",
+],
+88 => [
+"title" => "European Geostationary Navigation Overlay Service (EGNOS)",
+"title_bg" => "",
+"short_description" => "Boris Vassilev obtained his MSc in Avionics in High Military School, Bulgaria and was awarded a Ph.D. from Air Force Academy “N. E. Jucovskij”, Moscow, Russia for his work on integration of inertial navigation system with radio navigation systems. He is the winner of the German Aerospace Center (DLR) special prize in European Satellite Navigation Competition (ESNC) for year 2012.",
+"short_description_bg" => "",
+"long_description" => "Boris Vassilev obtained his MSc in Avionics in High Military School, Bulgaria and was awarded a Ph.D. from Air Force Academy “N. E. Jucovskij”, Moscow, Russia for his work on integration of inertial navigation system with radio navigation systems. Since 1996 up to 2014 Dr Vassilev worked as Associate Professor in Technical University of Sofia. Currently he is invited lecturer in the same university. Since 2003 up to 2012, he has been a participant in the working group of the EGNOS monitoring network established by Eurocontrol. Dr Vassilev is winner of the German Aerospace Center (DLR) special prize in European Satellite Navigation Competition (ESNC) for year 2012.",
+"long_description_bg" => "",
+],
+89 => [
+"title" => "Kill The Mission Mindset - Part 1",
+"title_bg" => "",
+"short_description" => "Rick Fleeter is a small satellite designer and entrepreneur, Adjunct Associate professor of Engineering at Brown University, and Visiting Professor in the faculty of Aerospace Engineering at La Sapienza University.",
+"short_description_bg" => "",
+"long_description" => "Rick Fleeter is a small satellite designer and entrepreneur, Adjunct Associate professor of Engineering at Brown University, and Visiting Professor in the faculty of Aerospace Engineering at La Sapienza University.",
+"long_description_bg" => "",
+],
+90 => [
+"title" => "Kill The Mission Mindset - Part 2",
+"title_bg" => "",
+],
+91 => [
+"title" => "Planetary Resources and the mining of asteroids - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Planetary Resources and the mining of asteroids by Chris Lewicki - President of Planetary Resources.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Planetary Resources and the mining of asteroids by Chris Lewicki - President of Planetary Resources.",
+"long_description_bg" => "",
+],
+92 => [
+"title" => "Planetary Resources and the mining of asteroids - Part 2",
+"title_bg" => "",
+],
+93 => [
+"title" => "Project Management Standard for Space Application - Part 1",
+"title_bg" => "",
+"short_description" => "Antonio Sturiale is certified Project Management Professional (PMP®) at Thales Alenia Space, working in Program Management since more than 20 years.",
+"short_description_bg" => "",
+"long_description" => "Antonio Sturiale is certified Project Management Professional (PMP®) at Thales Alenia Space, working in Program Management since more than 20 years. Experienced developer and teacher in Project management knowledge areas and processes with special focus on Risk & Opportunities management, Space products and activities, Program Management, Risk Management, Earned Value Management, Communications within the project team, and other related topics.",
+"long_description_bg" => "",
+],
+94 => [
+"title" => "Project Management Standard for Space Application - Part 2",
+"title_bg" => "",
+],
+95 => [
+"title" => "My approach to entrepreneurship",
+"title_bg" => "",
+"short_description" => "Lecture: My approach to entrepreneurship by Kip Stringfellow - Member of the Board at Special Concepts and lecturer at Space Challenges Program.",
+"short_description_bg" => "",
+"long_description" => "Lecture: My approach to entrepreneurship by Kip Stringfellow - Member of the Board at Special Concepts and lecturer at Space Challenges Program.",
+"long_description_bg" => "",
+],
+96 => [
+"title" => "Project Risk Management for Space Application - Part 1",
+"title_bg" => "",
+],
+97 => [
+"title" => "Project Risk Management for Space Application - Part 2",
+"title_bg" => "",
+],
+98 => [
+"title" => "Project Risk Management for Space Application - Part 3",
+"title_bg" => "",
+],
+99 => [
+"title" => "Concurrent Design For Space Systems - Part 1",
+"title_bg" => "",
+],
+100 => [
+"title" => "Concurrent Design For Space Systems - Part 2",
+"title_bg" => "",
+],
+101 => [
+"title" => "How Did That Happen? - Part 1",
+"title_bg" => "",
+],
+102 => [
+"title" => "How Did That Happen? - Part 2",
+"title_bg" => "",
+],
+103 => [
+"title" => "How Did That Happen? - Part 3",
+"title_bg" => "",
+],
+104 => [
+"title" => "How Did That Happen? - Part 4",
+"title_bg" => "",
+],
+105 => [
+"title" => "Spacecraft Robotics - Part 1",
+"title_bg" => "",
+],
+106 => [
+"title" => "Spacecraft Robotics - Part 2",
+"title_bg" => "",
+],
+107 => [
+"title" => "Spacecraft Robotics - Part 3",
+"title_bg" => "",
+],
+108 => [
+"title" => "Robotic Systems for Orbital Manipulation - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Robotic Systems for Orbital Manipulation by Prof. Kazuya Yoshida - Space Robotics Lab, Department of Aerospace Engineering Tohoku University, Japan.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Robotic Systems for Orbital Manipulation by Prof. Kazuya Yoshida - Space Robotics Lab, Department of Aerospace Engineering Tohoku University, Japan.",
+"long_description_bg" => "",
+],
+109 => [
+"title" => "Robotic Systems for Orbital Manipulation - Part 2",
+"title_bg" => "",
+],
+110 => [
+"title" => "Robotic Systems for Orbital Manipulation - Part 3",
+"title_bg" => "",
+],
+111 => [
+"title" => "Spacecraft Adaptive Attitude Control - Part 1",
+"title_bg" => "",
+"short_description" => "Steve Ulrich is the Director of the Spacecraft Robotics and Control Laboratory in the Department of Mechanical and Aerospace Engineering at Carleton University. He received his B.Eng. (2004) and M.A.Sc. (2006) in electrical engineering from the Université de Sherbrooke, and his Ph.D. in aerospace engineering (2012) from Carleton University.",
+"short_description_bg" => "",
+],
+112 => [
+"title" => "Spacecraft Adaptive Attitude Control - Part 2",
+"title_bg" => "",
+],
+113 => [
+"title" => "Robotic Systems for Space Exploration - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Robotic Systems for Space Exploration by Prof. Kazuya Yoshida - Space Robotics Lab, Department of Aerospace Engineering Tohoku University, Japan.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Robotic Systems for Space Exploration by Prof. Kazuya Yoshida - Space Robotics Lab, Department of Aerospace Engineering Tohoku University, Japan.",
+"long_description_bg" => "",
+],
+114 => [
+"title" => "Robotic Systems for Space Exploration - Part 2",
+"title_bg" => "",
+],
+115 => [
+"title" => "Robotic Systems for Space Exploration - Part 3",
+"title_bg" => "",
+],
+116 => [
+"title" => "Robotic Systems for Space Exploration - Part 4",
+"title_bg" => "",
+],
+117 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 1",
+"title_bg" => "",
+"short_description" => "Giorgio Metta is director of the iCub Facility department at the Istituto Italiano di Tecnologia (Italian Institute of Technology) where he coordinates the development of the iCub robotic platform/project.",
+"short_description_bg" => "",
+"long_description" => "Giorgio Metta is director of the iCub Facility department at the Istituto Italiano di Tecnologia (Italian Institute of Technology) where he coordinates the development of the iCub robotic platform/project. He holds an MSc cum laude (1994) and PhD (2000) in electronic engineering both from the University of Genoa. From 2001 to 2002 he was postdoctoral associate at the MIT AI-Lab. He was previously with the University of Genoa and since 2012 Professor of Cognitive Robotics at the University of Plymouth (UK). He is deputy director of IIT delegate to the international relations and external funding. In this role he is member of the board of directors of euRobotics aisbl., the European reference organization for robotics research. Giorgio Metta research activities are in the fields of biologically motivated and humanoid robotics and, in particular, in developing humanoid robots that can adapt and learn from experience. His research developed in collaboration with leading European and international scientists from different disciplines like neuroscience, psychology, computer science and robotics. Giorgio Metta is author of approximately 250 publications. He has been working as principal investigator and research scientist in about a dozen international projects.",
+"long_description_bg" => "",
+],
+118 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 2",
+"title_bg" => "",
+],
+119 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 3",
+"title_bg" => "",
+],
+120 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 4",
+"title_bg" => "",
+],
+121 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 5",
+"title_bg" => "",
+],
+122 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 6",
+"title_bg" => "",
+],
+123 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 7",
+"title_bg" => "",
+],
+124 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 8",
+"title_bg" => "",
+],
+125 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 9",
+"title_bg" => "",
+],
+126 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 10",
+"title_bg" => "",
+],
+127 => [
+"title" => "iCub A Shared Platform For Research In Robotics & AI - Part 11",
+"title_bg" => "",
+],
+128 => [
+"title" => "Soviet Russian Space History - Part 1",
+"title_bg" => "",
+"short_description" => "Acad. Mikhail Marov of the Vernadsky Institute of the Russian Academy of Sciences.",
+"short_description_bg" => "",
+"long_description" => "Acad. Mikhail Marov of the Vernadsky Institute of the Russian Academy of Sciences.",
+"long_description_bg" => "",
+],
+129 => [
+"title" => "Soviet Russian Space History - Part 2",
+"title_bg" => "",
+],
+130 => [
+"title" => "Soviet Russian Space History - Part 3",
+"title_bg" => "",
+],
+131 => [
+"title" => "Soviet Russian Space History - Part 4",
+"title_bg" => "",
+],
+132 => [
+"title" => "Soviet Russian Space History - Part 5",
+"title_bg" => "",
+],
+133 => [
+"title" => "A Short History of Navigation Technologies - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Ing. Marco Lisi is GNSS Services Engineering Manager at the European Space Agency, and a former advisor on GNSS policy to the European Commission.",
+"short_description_bg" => "",
+],
+134 => [
+"title" => "A Short History of Navigation Technologies - Part 2",
+"title_bg" => "",
+],
+135 => [
+"title" => "Paolo Nespoli - My Space Flight Experience - Part 1",
+"title_bg" => "",
+"short_description" => "Paolo Nespoli is an Italian astronaut of the European Space Agency.",
+"short_description_bg" => "",
+"long_description" => "Paolo Nespoli is an Italian astronaut of the European Space Agency. In 2007, he first traveled into space aboard the Space Shuttle Discovery as a mission specialist of STS-120. In December 2010 he again traveled into space aboard the Soyuz TMA-20 spacecraft as an Expedition 26/27 flight engineer.",
+"long_description_bg" => "",
+],
+136 => [
+"title" => "Paolo Nespoli - My Space Flight Experience - Part 2",
+"title_bg" => "",
+],
+137 => [
+"title" => "A Journey Beyond The Sky - Umberto Guidoni",
+"title_bg" => "",
+"short_description" => "Umberto Guidoni is an Italian astrophysicist, science writer and a former ESA astronaut, being the first European to visit the International Space Station.",
+"short_description_bg" => "",
+"long_description" => "Umberto Guidoni is an Italian astrophysicist, science writer and a former ESA astronaut, being the first European to visit the International Space Station. He is a veteran of two NASA space shuttle missions. He was also a Member of the European Parliament (MEP) from 2004 to 2009.",
+"long_description_bg" => "",
+],
+138 => [
+"title" => "The European Experience on the international Space Station - Part 1",
+"title_bg" => "",
+],
+139 => [
+"title" => "The European Experience on the international Space Station - Part 2",
+"title_bg" => "",
+],
+140 => [
+"title" => "Astronaut Training - Paolo Nespoli",
+"title_bg" => "",
+],
+141 => [
+"title" => "Astronaut Selection Process - Part 1",
+"title_bg" => "",
+"short_description" => "Geoff Steeves is a professor in the Department of Physics and Astronomy at the University of Victoria, he is a faculty member at the International Space University and was a top 16 finalist in the Canadian Space Agency 2008/09 astronaut selection process.",
+"short_description_bg" => "",
+"long_description" => "Geoff Steeves is a professor in the Department of Physics and Astronomy at the University of Victoria, he is a faculty member at the International Space University and was a top 16 finalist in the Canadian Space Agency 2008/09 astronaut selection process.",
+"long_description_bg" => "",
+],
+142 => [
+"title" => "Astronaut Selection Process - Part 2",
+"title_bg" => "",
+],
+143 => [
+"title" => "The Lunar Reconnaissance Orbiter - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Andrew Jordan is a Researcher at the University of New Hampshire, working on solar energetic particles, cosmic rays, and their signatures on the Moon. He talks about NASA\'s Lunar Reconnaissance Orbiter mission and its technical and scientific results.",
+"short_description_bg" => "",
+"long_description" => "Dr. Andrew Jordan is a Researcher at the University of New Hampshire, working on solar energetic particles, cosmic rays, and their signatures on the Moon. He talks about NASA\'s Lunar Reconnaissance Orbiter mission and its technical and scientific results.",
+"long_description_bg" => "",
+],
+144 => [
+"title" => "The Lunar Reconnaissance Orbiter - Part 2",
+"title_bg" => "",
+],
+145 => [
+"title" => "Characterization of the Habitability of Mars - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Characterization of the Habitability of Mars: Rational, Methods, and Technology by Lauren Fletcher -- University of Oxford - AOPP/ NASA Ames Research Center.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Characterization of the Habitability of Mars: Rational, Methods, and Technology by Lauren Fletcher -- University of Oxford - AOPP/ NASA Ames Research Center.",
+"long_description_bg" => "",
+],
+146 => [
+"title" => "Characterization of the Habitability of Mars - Part 2",
+"title_bg" => "",
+],
+147 => [
+"title" => "Characterization of the Habitability of Mars - Part 3",
+"title_bg" => "",
+],
+148 => [
+"title" => "Characterization of the Habitability of Mars - Part 4",
+"title_bg" => "",
+],
+149 => [
+"title" => "Earth, Moon and Mars: Destinations for Human and Robotic Exploration - Part 1",
+"title_bg" => "",
+"short_description" => "James W. Head III is the Louis and Elizabeth Scherck Distinguished Professor of Geological Sciences at Brown University. He studies the roles of volcanism in planetary crusts as well as the geological evolution of Mars, and has served as the investigator on many major international planetary investigation missions.",
+"short_description_bg" => "",
+"long_description" => "James W. Head III is the Louis and Elizabeth Scherck Distinguished Professor of Geological Sciences at Brown University. He studies the roles of volcanism in planetary crusts as well as the geological evolution of Mars, and has served as the investigator on many major international planetary investigation missions.",
+"long_description_bg" => "",
+],
+150 => [
+"title" => "Earth, Moon and Mars: Destinations for Human and Robotic Exploration - Part 2",
+"title_bg" => "",
+],
+151 => [
+"title" => "Earth, Moon and Mars: Destinations for Human and Robotic Exploration - Part 3",
+"title_bg" => "",
+],
+152 => [
+"title" => "Rosetta: A Journey to Our Origins - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Raymond Hoofs, Science ground segment manager at the European Space Agency, Science Operations Engineer for the Bepi Colombo Mission and Rosetta Science Operation Advisor at ESA gave a talk on Rosetta mission for Space Challenges.",
+"short_description_bg" => "",
+"long_description" => "Dr. Raymond Hoofs, Science ground segment manager at the European Space Agency, Science Operations Engineer for the Bepi Colombo Mission and Rosetta Science Operation Advisor at ESA gave a talk on Rosetta mission for Space Challenges.",
+"long_description_bg" => "",
+],
+153 => [
+"title" => "Rosetta: A Journey to Our Origins - Part 2",
+"title_bg" => "",
+],
+154 => [
+"title" => "Orbits and Their Properties - Part 1",
+"title_bg" => "",
+"short_description" => "Castronuovo is currently the Program Manager and System Engineer at ASI - Italian Space Agency. He is also a lecturer at University of Rome \"La Sapienza\".",
+"short_description_bg" => "",
+"long_description" => "Castronuovo is currently the Program Manager and System Engineer at ASI - Italian Space Agency. He is also a lecturer at University of Rome \"La Sapienza\". He was PM and SE in the Ground Segment and Operational Bases Unit at ASI - Italian Space Agency and Space Mission Analyst at European Space Agency.",
+"long_description_bg" => "",
+],
+155 => [
+"title" => "Orbits and Their Properties - Part 2",
+"title_bg" => "",
+],
+156 => [
+"title" => "Orbits and Their Properties - Part 3",
+"title_bg" => "",
+],
+158 => [
+"title" => "Orbits and Their Properties - Part 4",
+"title_bg" => "",
+],
+159 => [
+"title" => "Orbits and Their Properties - Part 5",
+"title_bg" => "",
+],
+160 => [
+"title" => "Orbits and Their Properties - Part 6",
+"title_bg" => "",
+],
+161 => [
+"title" => "Orbits and Their Properties - Part 7",
+"title_bg" => "",
+],
+162 => [
+"title" => "Orbits and Their Properties - Part 8",
+"title_bg" => "",
+],
+163 => [
+"title" => "Orbits and Their Properties - Part 9",
+"title_bg" => "",
+],
+164 => [
+"title" => "Orbits and Their Properties - Part 10",
+"title_bg" => "",
+],
+165 => [
+"title" => "Orbits and Their Properties - Part 11",
+"title_bg" => "",
+],
+166 => [
+"title" => "Orbits and Their Properties - Part 12",
+"title_bg" => "",
+],
+167 => [
+"title" => "Orbits and Their Properties - Part 13",
+"title_bg" => "",
+],
+168 => [
+"title" => "Orbits and Their Properties - Part 14",
+"title_bg" => "",
+],
+169 => [
+"title" => "Exoplanets and the Search for Life - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Exoplanets and the Search for Life by Prof. Dimitar Sasselov - Harvard University.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Exoplanets and the Search for Life by Prof. Dimitar Sasselov - Harvard University.",
+"long_description_bg" => "",
+],
+170 => [
+"title" => "Exoplanets and the Search for Life - Part 2",
+"title_bg" => "",
+],
+171 => [
+"title" => "Space Weather - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Space Weather: Understanding how the Sun affects what we do by Prof. W. Jeffrey Hughes - Boston University, US.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Space Weather: Understanding how the Sun affects what we do by Prof. W. Jeffrey Hughes - Boston University, US.",
+"long_description_bg" => "",
+],
+172 => [
+"title" => "Space Weather - Part 2",
+"title_bg" => "",
+],
+173 => [
+"title" => "Origin and Fate of the Universe - Part 1",
+"title_bg" => "",
+],
+174 => [
+"title" => "Origin and Fate of the Universe - Part 2",
+"title_bg" => "",
+],
+175 => [
+"title" => "Origin and Fate of the Universe - Part 3",
+"title_bg" => "",
+],
+176 => [
+"title" => "Origin and Fate of the Universe - Part 4",
+"title_bg" => "",
+],
+177 => [
+"title" => "Energetic Particles in the Heliosphere - Part 1",
+"title_bg" => "",
+"short_description" => "Dr. Kamen Kozarev is a researcher at the Harvard-Smithsonian Center for Astrophysics. He studies the physics of solar eruptions and how they can accelerate charged particles to high energies.",
+"short_description_bg" => "",
+"long_description" => "Dr. Kamen Kozarev is a researcher at the Harvard-Smithsonian Center for Astrophysics. He studies the physics of solar eruptions and how they can accelerate charged particles to high energies.",
+"long_description_bg" => "",
+],
+178 => [
+"title" => "Energetic Particles in the Heliosphere - Part 2",
+"title_bg" => "",
+],
+179 => [
+"title" => "Energetic Particles in the Heliosphere - Part 3",
+"title_bg" => "",
+],
+180 => [
+"title" => "Atmospheric Escape in the Solar System - Part 1",
+"title_bg" => "",
+"short_description" => "Atmospheric Escape in Our Solar System by Dr. Carl Schmidt - University of Virginia.",
+"short_description_bg" => "",
+"long_description" => "Atmospheric Escape in Our Solar System by Dr. Carl Schmidt - University of Virginia.",
+"long_description_bg" => "",
+],
+181 => [
+"title" => "Atmospheric Escape in the Solar System - Part 2",
+"title_bg" => "",
+],
+182 => [
+"title" => "Nuclear Fusion: Engine of the Stars and Energy of the Future - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Nuclear Fusion: Engine of the Stars and Energy of the Future by Clayton Myers - Princeton Plasma Physics Lab.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Nuclear Fusion: Engine of the Stars and Energy of the Future by Clayton Myers - Princeton Plasma Physics Lab.",
+"long_description_bg" => "",
+],
+183 => [
+"title" => "Nuclear Fusion: Engine of the Stars and Energy of the Future - Part 2",
+"title_bg" => "",
+],
+184 => [
+"title" => "Information Management in Space - Part 1",
+"title_bg" => "",
+"short_description" => "Arturo Intelisano is Avionic Expert and Satellite Product Line Manager in the Domain Earth Observation in Thales Alenia Space Italy . He is author of various papers in the field of Avionics, Microsatellites and Navigation.",
+"short_description_bg" => "",
+"long_description" => "Arturo Intelisano is Avionic Expert and Satellite Product Line Manager in the Domain Earth Observation in Thales Alenia Space Italy . He is author of various papers in the field of Avionics, Microsatellites and Navigation. He has been Head of the Avionics Department of the Domain Telecommunication in Thales Alenia Space Italy, in charge of Attitude and Orbit Control, Electrical Power subsystem, Data Handling and On Board Software.",
+"long_description_bg" => "",
+],
+186 => [
+"title" => "Information Management in Space - Part 2",
+"title_bg" => "",
+],
+187 => [
+"title" => "Information Management in Space - Part 3",
+"title_bg" => "",
+],
+188 => [
+"title" => "Information Management in Space - Part 4",
+"title_bg" => "",
+],
+189 => [
+"title" => "Information Management in Space - Part 5",
+"title_bg" => "",
+],
+190 => [
+"title" => "Information Management in Space - Part 6",
+"title_bg" => "",
+],
+191 => [
+"title" => "Information Management in Space - Part 7",
+"title_bg" => "",
+],
+192 => [
+"title" => "Information Management in Space - Part 8",
+"title_bg" => "",
+],
+193 => [
+"title" => "Life in Space",
+"title_bg" => "",
+],
+194 => [
+"title" => "3 Short Stories in Astrobiology",
+"title_bg" => "",
+"short_description" => "3 Short Stories in Astrobiology by Dr. Chris McKay - NASA Ames Research Center.",
+"short_description_bg" => "",
+"long_description" => "3 Short Stories in Astrobiology by Dr. Chris McKay - NASA Ames Research Center.",
+"long_description_bg" => "",
+],
+195 => [
+"title" => "Space BioSciences - Part 1",
+"title_bg" => "",
+"short_description" => "Lecture: Space BioSciences by Dr. Yuri Griko - Laboratory of Countermeasures Development, Life Sciences Division, NASA Ames Research Center.",
+"short_description_bg" => "",
+"long_description" => "Lecture: Space BioSciences by Dr. Yuri Griko - Laboratory of Countermeasures Development, Life Sciences Division, NASA Ames Research Center.",
+"long_description_bg" => "",
+],
+196 => [
+"title" => "Space BioSciences - Part 2",
+"title_bg" => "",
+],
+]
+

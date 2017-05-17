@@ -1,0 +1,32 @@
+[
+2 => [
+"name" => "Chief Scientist",
+"name_bg" => "",
+"description" => "Fundamental science is essential in Space since it aims to discover the principles that the Universe follows, providing Engineering and all other branches with the required tools to solve their respective problems and progress. If you have knowledge about the physics of Space - how the Universe works, what are the orbital laws that all satellites and bodies follow and how do we detect particles from huge cosmic events, then you deserve the title of Chief Scientist!",
+"description_bg" => "",
+],
+3 => [
+"name" => "Galactic Explorer",
+"name_bg" => "",
+"description" => "It is in humanity’s nature to explore further, to try to find out as much as possible, to be curious. If you are curious about how astronauts and robots explore space, what have they found so far and how will that effort continue in the future, then this is the field for you. By finding out more about exploration, you yourself can claim the title of Galactic Explorer!",
+"description_bg" => "",
+],
+4 => [
+"name" => "Space Architect",
+"name_bg" => "",
+"description" => "Scientists study the world as it is but engineers create a world that never was. In this field, you must learn about the engineering, construction and even operations of spacecraft and their systems. To do that you will have to pass through all the different aspects - the spaceship itself but also the launcher and the ground segment and all of the modern robotic systems that go along with them. Only after learning about all of this, will you be worthy of the title Space Architect!",
+"description_bg" => "",
+],
+5 => [
+"name" => "Terraformer",
+"name_bg" => "",
+"description" => "Biology in Space has become important today and will be absolutely crucial for our future there. For that reason, you must learn about the different challenges with life in Space and how to handle them, about the different environments in Space and what life may inhabit them, and also about our future survival on Mars and other worlds, before being granted the title of Terraformer!",
+"description_bg" => "",
+],
+6 => [
+"name" => "Space Commander",
+"name_bg" => "",
+"description" => "To become a commander you must, while not being an expert in every topic, at least have sufficient knowledge to see the whole picture. For that reason, only the most patient and determined can reach that here - only by completing all of our other challenges will you earn the rank of Space Commander!",
+"description_bg" => "",
+],
+]

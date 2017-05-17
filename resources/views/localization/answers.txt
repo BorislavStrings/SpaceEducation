@@ -1,0 +1,5905 @@
+
+
+[
+68 => [
+"name" => "It depends on the masses of the ball and the Earth.",
+"name_bg" => "",
+],
+69 => [
+"name" => "It depends only on the mass of the ball.",
+"name_bg" => "",
+],
+70 => [
+"name" => "It depends only on the mass of the Earth.",
+"name_bg" => "",
+],
+71 => [
+"name" => "It depends on the shape of the ball.",
+"name_bg" => "",
+],
+84 => [
+"name" => "They are what is left of old stars that may give us information about those stars.",
+"name_bg" => "",
+],
+85 => [
+"name" => "They are what is left of the formation of the Solar System and can give us information about it.",
+"name_bg" => "",
+],
+86 => [
+"name" => "They have natural propulsion system with their tails, which is of interest to scientists.",
+"name_bg" => "",
+],
+87 => [
+"name" => "They are not really relevant to science.",
+"name_bg" => "",
+],
+88 => [
+"name" => "They may be carrying some of the building blocks of life and have a role in the development of life here on Earth.",
+"name_bg" => "",
+],
+89 => [
+"name" => "Because of the lifeforms we have discovered on comets.",
+"name_bg" => "",
+],
+90 => [
+"name" => "Because they were formed from debris primarily from the Earth and Mars.",
+"name_bg" => "",
+],
+91 => [
+"name" => "5 million",
+"name_bg" => "",
+],
+92 => [
+"name" => "15 million",
+"name_bg" => "",
+],
+93 => [
+"name" => "5 billion",
+"name_bg" => "",
+],
+94 => [
+"name" => "15 billion",
+"name_bg" => "",
+],
+95 => [
+"name" => "50 million",
+"name_bg" => "",
+],
+96 => [
+"name" => "50 billion",
+"name_bg" => "",
+],
+97 => [
+"name" => "Because of the very bright sun.",
+"name_bg" => "",
+],
+98 => [
+"name" => "Because of the dust particles emitted from the comet.",
+"name_bg" => "",
+],
+99 => [
+"name" => "Because of the very bright tail.",
+"name_bg" => "",
+],
+100 => [
+"name" => "Because of the stronger gravitational field.",
+"name_bg" => "",
+],
+101 => [
+"name" => "Because of the stronger electromagnetic field.",
+"name_bg" => "",
+],
+102 => [
+"name" => "It depends only on the shape of the ball.",
+"name_bg" => "",
+],
+103 => [
+"name" => "It depends on the mass of of the Earth and the shape of the ball.",
+"name_bg" => "",
+],
+104 => [
+"name" => "5.20 years",
+"name_bg" => "",
+],
+105 => [
+"name" => "11.85 years",
+"name_bg" => "",
+],
+106 => [
+"name" => "27.04 years",
+"name_bg" => "",
+],
+107 => [
+"name" => "12.06 years",
+"name_bg" => "",
+],
+108 => [
+"name" => "11.03 years",
+"name_bg" => "",
+],
+109 => [
+"name" => "12.56 years",
+"name_bg" => "",
+],
+110 => [
+"name" => "15.20 years",
+"name_bg" => "",
+],
+111 => [
+"name" => "Inversely proportional to the square root of r.",
+"name_bg" => "",
+],
+112 => [
+"name" => "Proportional to the square root of r.",
+"name_bg" => "",
+],
+113 => [
+"name" => "Inversely proportional to r.",
+"name_bg" => "",
+],
+114 => [
+"name" => "Proportional to r.",
+"name_bg" => "",
+],
+115 => [
+"name" => "Inversely proportional to the third power of r.",
+"name_bg" => "",
+],
+116 => [
+"name" => "Inversely proportional to the second power of r.",
+"name_bg" => "",
+],
+117 => [
+"name" => "2",
+"name_bg" => "",
+],
+118 => [
+"name" => "3",
+"name_bg" => "",
+],
+119 => [
+"name" => "4",
+"name_bg" => "",
+],
+120 => [
+"name" => "5",
+"name_bg" => "",
+],
+121 => [
+"name" => "6",
+"name_bg" => "",
+],
+122 => [
+"name" => "7",
+"name_bg" => "",
+],
+123 => [
+"name" => "Drag force",
+"name_bg" => "",
+],
+124 => [
+"name" => "Solar radiation pressure",
+"name_bg" => "",
+],
+125 => [
+"name" => "Non-spherical Earth",
+"name_bg" => "",
+],
+126 => [
+"name" => "Jupiter perturbations",
+"name_bg" => "",
+],
+127 => [
+"name" => "J2 equatorial bulge",
+"name_bg" => "",
+],
+128 => [
+"name" => "Yes",
+"name_bg" => "",
+],
+129 => [
+"name" => "No",
+"name_bg" => "",
+],
+130 => [
+"name" => "Depends on its radius",
+"name_bg" => "",
+],
+131 => [
+"name" => "Depends on its period of rotation",
+"name_bg" => "",
+],
+132 => [
+"name" => "Depends on its density",
+"name_bg" => "",
+],
+133 => [
+"name" => "It makes them even more elliptical.",
+"name_bg" => "",
+],
+134 => [
+"name" => "It increases their eccentricity.",
+"name_bg" => "",
+],
+135 => [
+"name" => "It circularizes them.",
+"name_bg" => "",
+],
+136 => [
+"name" => "It depends on the inclination.",
+"name_bg" => "",
+],
+137 => [
+"name" => "It makes their eccentricity 1.",
+"name_bg" => "",
+],
+138 => [
+"name" => "Drag does not affect elliptical orbits.",
+"name_bg" => "",
+],
+139 => [
+"name" => "No, light has no mass and thus cannot be used as fuel.",
+"name_bg" => "",
+],
+140 => [
+"name" => "Yes, light has effective mass and produces thrust when emitted.",
+"name_bg" => "",
+],
+141 => [
+"name" => "No, radiation pressure is caused by energetic plasma, not light.",
+"name_bg" => "",
+],
+142 => [
+"name" => "Yes, but only if that light heats actual propellent.",
+"name_bg" => "",
+],
+143 => [
+"name" => "Yes, although the thrust produced by visible light is incredibly low.",
+"name_bg" => "",
+],
+144 => [
+"name" => "Yes, some of our current rockets use light propellent.",
+"name_bg" => "",
+],
+145 => [
+"name" => "No, light has no momentum and thus cannot be used for propulsion.",
+"name_bg" => "",
+],
+146 => [
+"name" => "The shape of the Earth",
+"name_bg" => "",
+],
+147 => [
+"name" => "The Moon",
+"name_bg" => "",
+],
+148 => [
+"name" => "Solar radiation",
+"name_bg" => "",
+],
+149 => [
+"name" => "Non-homogeneous mass distribution of the Earth",
+"name_bg" => "",
+],
+150 => [
+"name" => "All of the rest",
+"name_bg" => "",
+],
+151 => [
+"name" => "One that is closed (elliptic or circular).",
+"name_bg" => "",
+],
+152 => [
+"name" => "One which repeats itself once a year.",
+"name_bg" => "",
+],
+153 => [
+"name" => "One which has an irrational displacement of its ground track.",
+"name_bg" => "",
+],
+154 => [
+"name" => "One that repeats itself with respect to the Earth-centered rotating reference frame.",
+"name_bg" => "",
+],
+155 => [
+"name" => "One that repeats itself with respect to the Sun-centered rotating reference frame.",
+"name_bg" => "",
+],
+156 => [
+"name" => "One that repeats itself with respect to the Earth-centered inertial reference frame.",
+"name_bg" => "",
+],
+157 => [
+"name" => "The orbit will become elliptical and your current position will be the apoapsis.",
+"name_bg" => "",
+],
+158 => [
+"name" => "The orbit will become elliptical and your current position will be the periapsis.",
+"name_bg" => "",
+],
+159 => [
+"name" => "You will change the inclination of the orbit but it will remain circular.",
+"name_bg" => "",
+],
+160 => [
+"name" => "You will change the argument of periapsis of the orbit but it will remain circular.",
+"name_bg" => "",
+],
+161 => [
+"name" => "The orbit will become parabolic and your current position will be the periapsis.",
+"name_bg" => "",
+],
+162 => [
+"name" => "You will change the position of the ascending node but it will remain circular.",
+"name_bg" => "",
+],
+163 => [
+"name" => "v",
+"name_bg" => "",
+],
+164 => [
+"name" => "2v",
+"name_bg" => "",
+],
+165 => [
+"name" => "V",
+"name_bg" => "",
+],
+166 => [
+"name" => "2V",
+"name_bg" => "",
+],
+167 => [
+"name" => "3V",
+"name_bg" => "",
+],
+168 => [
+"name" => "3v",
+"name_bg" => "",
+],
+169 => [
+"name" => "By scanning with telescopes and looking for them directly.",
+"name_bg" => "",
+],
+170 => [
+"name" => "By looking for fluctuations in the luminosity of stars which may be caused by a passing planet.",
+"name_bg" => "",
+],
+171 => [
+"name" => "By scanning the gravitational field of stars for fluctuations.",
+"name_bg" => "",
+],
+172 => [
+"name" => "By the radar signals of the spacecraft we have sent to look for planets.",
+"name_bg" => "",
+],
+173 => [
+"name" => "By scanning with radio telescopes and looking for them directly.",
+"name_bg" => "",
+],
+174 => [
+"name" => "By sending spacecraft to other star systems for observations.",
+"name_bg" => "",
+],
+175 => [
+"name" => "Because larger planets are easier to find.",
+"name_bg" => "",
+],
+176 => [
+"name" => "Because larger planets are most likely more abundant.",
+"name_bg" => "",
+],
+177 => [
+"name" => "Because larger planets are generally brighter.",
+"name_bg" => "",
+],
+178 => [
+"name" => "Because smaller planets are most likely more abundant.",
+"name_bg" => "",
+],
+179 => [
+"name" => "Because we are only interested in large planets.",
+"name_bg" => "",
+],
+180 => [
+"name" => "Because large planets are the only ones we can find right now.",
+"name_bg" => "",
+],
+181 => [
+"name" => "Small red dwarf stars",
+"name_bg" => "",
+],
+182 => [
+"name" => "Sun-like G class stars",
+"name_bg" => "",
+],
+183 => [
+"name" => "Large O and B class stars",
+"name_bg" => "",
+],
+184 => [
+"name" => "All of those are equally common",
+"name_bg" => "",
+],
+185 => [
+"name" => "The bigger the star, the higher the possibility of habitable planets around it.",
+"name_bg" => "",
+],
+186 => [
+"name" => "Sun-like G class stars and larger.",
+"name_bg" => "",
+],
+187 => [
+"name" => "about 1 year",
+"name_bg" => "",
+],
+188 => [
+"name" => "about 3 years",
+"name_bg" => "",
+],
+189 => [
+"name" => "about 6 years",
+"name_bg" => "",
+],
+190 => [
+"name" => "about 11 years",
+"name_bg" => "",
+],
+191 => [
+"name" => "about 5 years",
+"name_bg" => "",
+],
+192 => [
+"name" => "about 9 years",
+"name_bg" => "",
+],
+193 => [
+"name" => "No, there is no known connection.",
+"name_bg" => "",
+],
+194 => [
+"name" => "Yes, regions with solar spots are usually more active.",
+"name_bg" => "",
+],
+195 => [
+"name" => "Yes, regions with solar spots are usually less active.",
+"name_bg" => "",
+],
+196 => [
+"name" => "It is still unknown.",
+"name_bg" => "",
+],
+197 => [
+"name" => "It is the surface through which induced electrical current flows.",
+"name_bg" => "",
+],
+198 => [
+"name" => "It is one of the hot regions within the Sun which emits photons.",
+"name_bg" => "",
+],
+199 => [
+"name" => "It is a surface formed around the Solar poles that creates the magnetic field.",
+"name_bg" => "",
+],
+200 => [
+"name" => "It is the surface along which plasma is leaked, formed between opposite direction field lines.",
+"name_bg" => "",
+],
+201 => [
+"name" => "It is a surface formed by plasma which surrounds the Sun.",
+"name_bg" => "",
+],
+202 => [
+"name" => "It is the border between the magnetic fields of the Sun and the Earth.",
+"name_bg" => "",
+],
+213 => [
+"name" => "There is no connection between energetic particles flux and solar activity.",
+"name_bg" => "",
+],
+214 => [
+"name" => "The energetic particles flux is higher near the maximum of the solar cycle.",
+"name_bg" => "",
+],
+215 => [
+"name" => "The energetic particles flux is lower near the maximum of the solar cycle.",
+"name_bg" => "",
+],
+216 => [
+"name" => "The energetic particle flux has no correlation with the amount of sunspots.",
+"name_bg" => "",
+],
+217 => [
+"name" => "High energetic particles flux causes more sunspots.",
+"name_bg" => "",
+],
+218 => [
+"name" => "High energetic particles flux always means that the Sun is near a solar maximum.",
+"name_bg" => "",
+],
+219 => [
+"name" => "about 8 000 times",
+"name_bg" => "",
+],
+220 => [
+"name" => "about 80 000 times",
+"name_bg" => "",
+],
+221 => [
+"name" => "about 800 000 times",
+"name_bg" => "",
+],
+222 => [
+"name" => "about 8 000 000 times",
+"name_bg" => "",
+],
+223 => [
+"name" => "about 800 times",
+"name_bg" => "",
+],
+224 => [
+"name" => "about 80 000 000 times",
+"name_bg" => "",
+],
+225 => [
+"name" => "Milk poured in coffee",
+"name_bg" => "",
+],
+226 => [
+"name" => "An iron cube dropped in water",
+"name_bg" => "",
+],
+227 => [
+"name" => "A cosmic ray interacting with magnetic field",
+"name_bg" => "",
+],
+228 => [
+"name" => "A drop of ink",
+"name_bg" => "",
+],
+229 => [
+"name" => "An iron cube within another iron cube",
+"name_bg" => "",
+],
+230 => [
+"name" => "A drop of water",
+"name_bg" => "",
+],
+231 => [
+"name" => "+/-20 steps from 0",
+"name_bg" => "",
+],
+232 => [
+"name" => "+/-10 steps from 0",
+"name_bg" => "",
+],
+233 => [
+"name" => "+/-5 steps from 0",
+"name_bg" => "",
+],
+234 => [
+"name" => "Still at 0",
+"name_bg" => "",
+],
+235 => [
+"name" => "+/-15 steps from 0",
+"name_bg" => "",
+],
+236 => [
+"name" => "+/- 8 steps from 0",
+"name_bg" => "",
+],
+237 => [
+"name" => "+/- 18 steps from 0",
+"name_bg" => "",
+],
+238 => [
+"name" => "Strong electric fields near the surface of the Sun.",
+"name_bg" => "",
+],
+239 => [
+"name" => "Strong magnetic fields near the surface of the Sun.",
+"name_bg" => "",
+],
+240 => [
+"name" => "Magnetic field lines recombination.",
+"name_bg" => "",
+],
+241 => [
+"name" => "Electric-magnetic field lines recombination.",
+"name_bg" => "",
+],
+242 => [
+"name" => "Gravitational interaction between the magnetic field lines.",
+"name_bg" => "",
+],
+243 => [
+"name" => "Electric-gravitational field lines recombination.",
+"name_bg" => "",
+],
+244 => [
+"name" => "The shockwave front.",
+"name_bg" => "",
+],
+245 => [
+"name" => "The points in space that have the same phase at a given point of time.",
+"name_bg" => "",
+],
+246 => [
+"name" => "The interface between the corona and the solar wind.",
+"name_bg" => "",
+],
+247 => [
+"name" => "The interface between the solar wind and the planetary environments.",
+"name_bg" => "",
+],
+248 => [
+"name" => "The interface between any two magnetic fields.",
+"name_bg" => "",
+],
+249 => [
+"name" => "The points in space that have zeroth phase at a given point of time.",
+"name_bg" => "",
+],
+250 => [
+"name" => "as logarithm of h",
+"name_bg" => "",
+],
+251 => [
+"name" => "inversely proportional to h",
+"name_bg" => "",
+],
+252 => [
+"name" => "proportional to the cube of h",
+"name_bg" => "",
+],
+253 => [
+"name" => "inversely exponential to h",
+"name_bg" => "",
+],
+254 => [
+"name" => "As the inverse of the logarithm of h",
+"name_bg" => "",
+],
+255 => [
+"name" => "Inversely proportional to the cube of h",
+"name_bg" => "",
+],
+256 => [
+"name" => "Exponential to h",
+"name_bg" => "",
+],
+257 => [
+"name" => "2759 times",
+"name_bg" => "",
+],
+258 => [
+"name" => "27594 times",
+"name_bg" => "",
+],
+259 => [
+"name" => "275940 times",
+"name_bg" => "",
+],
+260 => [
+"name" => "2759408 times",
+"name_bg" => "",
+],
+261 => [
+"name" => "275 times",
+"name_bg" => "",
+],
+262 => [
+"name" => "27594083 times",
+"name_bg" => "",
+],
+263 => [
+"name" => "It is completely homogenous.",
+"name_bg" => "",
+],
+264 => [
+"name" => "No, it has the structure of a sponge with empty regions and high density regions.",
+"name_bg" => "",
+],
+265 => [
+"name" => "It is homogenous in some parts of the observable universe and not homogenous in others.",
+"name_bg" => "",
+],
+266 => [
+"name" => "The large scale distribution is still unknown.",
+"name_bg" => "",
+],
+267 => [
+"name" => "We have never had a chance to observe the cosmic structure on such scales.",
+"name_bg" => "",
+],
+268 => [
+"name" => "It is mostly homogenous except for a few anomalous regions.",
+"name_bg" => "",
+],
+269 => [
+"name" => "The more distant a galaxy is, the faster it is moving away from us.",
+"name_bg" => "",
+],
+270 => [
+"name" => "The more distant a galaxy is, the slower it is moving away from us.",
+"name_bg" => "",
+],
+271 => [
+"name" => "A galaxy which is more distant will appear bluer.",
+"name_bg" => "",
+],
+272 => [
+"name" => "A galaxy which is more distant will appear redder.",
+"name_bg" => "",
+],
+273 => [
+"name" => "Hubble’s constant depends on where you are in the universe.",
+"name_bg" => "",
+],
+274 => [
+"name" => "The more distant a galaxy is, the faster it is moving towards us.",
+"name_bg" => "",
+],
+275 => [
+"name" => "Something is making galaxies further away to move faster than the ones nearby.",
+"name_bg" => "",
+],
+276 => [
+"name" => "p > pcrit",
+"name_bg" => "",
+],
+277 => [
+"name" => "p = pcrit",
+"name_bg" => "",
+],
+278 => [
+"name" => "p < pcrit",
+"name_bg" => "",
+],
+279 => [
+"name" => "p > pcrit or p < pcrit (either of the two)",
+"name_bg" => "",
+],
+280 => [
+"name" => "It is the energy released at the creation of the Universe which still permeates it.",
+"name_bg" => "",
+],
+281 => [
+"name" => "It is the energy released when a supermassive black hole absorbed a star in a distant galaxy.",
+"name_bg" => "",
+],
+282 => [
+"name" => "It is caused by imperfections in our measuring tools and does not come from the Cosmos.",
+"name_bg" => "",
+],
+283 => [
+"name" => "It is the energy released when protons and electrons joined for the first time to form atoms.",
+"name_bg" => "",
+],
+284 => [
+"name" => "It is the energy released when protons and electrons join together and form atoms.",
+"name_bg" => "",
+],
+285 => [
+"name" => "It is the energy released when our galaxy was still forming by the central black hole.",
+"name_bg" => "",
+],
+286 => [
+"name" => "The Universe is most likely infinite in terms of both time and space.",
+"name_bg" => "",
+],
+287 => [
+"name" => "If a source of light is moving towards you, you will tend to see the light bluer.",
+"name_bg" => "",
+],
+288 => [
+"name" => "We cannot see before the Cosmic Microwave Background, because when it was emitted, the Universe was being created.",
+"name_bg" => "",
+],
+289 => [
+"name" => "We cannot see before the Cosmic Microwave Background, because before it was emitted, the Universe was too hot for atoms to form and thus emit.",
+"name_bg" => "",
+],
+290 => [
+"name" => "If a source of light is moving towards you, you will tend to see the light redder.",
+"name_bg" => "",
+],
+291 => [
+"name" => "If a source of light is moving away from you, you will tend to see the light bluer.",
+"name_bg" => "",
+],
+292 => [
+"name" => "The Cosmic Microwave Background was emitted at the creation of the Universe.",
+"name_bg" => "",
+],
+293 => [
+"name" => "4%",
+"name_bg" => "",
+],
+294 => [
+"name" => "14%",
+"name_bg" => "",
+],
+295 => [
+"name" => "40%",
+"name_bg" => "",
+],
+296 => [
+"name" => "44%",
+"name_bg" => "",
+],
+297 => [
+"name" => "24%",
+"name_bg" => "",
+],
+298 => [
+"name" => "0.4%",
+"name_bg" => "",
+],
+299 => [
+"name" => "34%",
+"name_bg" => "",
+],
+300 => [
+"name" => "Weak force",
+"name_bg" => "",
+],
+301 => [
+"name" => "Strong force",
+"name_bg" => "",
+],
+302 => [
+"name" => "Gravity",
+"name_bg" => "",
+],
+303 => [
+"name" => "Electromagnetism",
+"name_bg" => "",
+],
+304 => [
+"name" => "The particles arriving from cosmic rays.",
+"name_bg" => "",
+],
+305 => [
+"name" => "The fraction of particles that undergo collisions in the upper atmosphere.",
+"name_bg" => "",
+],
+306 => [
+"name" => "he fraction of particles that reach escape velocity in the upper atmosphere.",
+"name_bg" => "",
+],
+307 => [
+"name" => "The amount of jeans people purchase for a year.",
+"name_bg" => "",
+],
+308 => [
+"name" => "The fraction of particles that are captured by the Earth in the upper atmosphere.",
+"name_bg" => "",
+],
+309 => [
+"name" => "The fraction of particles that arrive per unit area in the upper atmosphere from cosmic rays.",
+"name_bg" => "",
+],
+310 => [
+"name" => "Mercury has a Sodium tail due to its closeness to the Sun.",
+"name_bg" => "",
+],
+311 => [
+"name" => "More massive planets generally lose more atmosphere.",
+"name_bg" => "",
+],
+312 => [
+"name" => "Mars and Venus have similar atmospheres.",
+"name_bg" => "",
+],
+313 => [
+"name" => "The Earth doesn’t lose any atmosphere due to its magnetic field.",
+"name_bg" => "",
+],
+314 => [
+"name" => "All planets have Sodium tails due to their interaction with the Sun.",
+"name_bg" => "",
+],
+315 => [
+"name" => "All planets will eventually lose their atmospheres due to their interaction with the Sun.",
+"name_bg" => "",
+],
+316 => [
+"name" => "Helix",
+"name_bg" => "",
+],
+317 => [
+"name" => "Ellipse",
+"name_bg" => "",
+],
+318 => [
+"name" => "Circle",
+"name_bg" => "",
+],
+319 => [
+"name" => "Spiral",
+"name_bg" => "",
+],
+320 => [
+"name" => "Parabola",
+"name_bg" => "",
+],
+321 => [
+"name" => "Hyperbola",
+"name_bg" => "",
+],
+322 => [
+"name" => "Plasma is charged on large scale.",
+"name_bg" => "",
+],
+323 => [
+"name" => "Plasma is not charged on large scale.",
+"name_bg" => "",
+],
+324 => [
+"name" => "Plasma does not interact with electric fields.",
+"name_bg" => "",
+],
+325 => [
+"name" => "Plasma interacts with both electric and magnetic fields.",
+"name_bg" => "",
+],
+326 => [
+"name" => "Plasma interacts only with magnetic fields.",
+"name_bg" => "",
+],
+327 => [
+"name" => "Plasma has no rest mass.",
+"name_bg" => "",
+],
+328 => [
+"name" => "Plasma can only be created from hydrogen and helium.",
+"name_bg" => "",
+],
+329 => [
+"name" => "Plasma is a liquid.",
+"name_bg" => "",
+],
+330 => [
+"name" => "Comets",
+"name_bg" => "",
+],
+331 => [
+"name" => "Planets",
+"name_bg" => "",
+],
+332 => [
+"name" => "Stars",
+"name_bg" => "",
+],
+333 => [
+"name" => "Black holes",
+"name_bg" => "",
+],
+334 => [
+"name" => "Asteroids",
+"name_bg" => "",
+],
+335 => [
+"name" => "Nebulas",
+"name_bg" => "",
+],
+336 => [
+"name" => "Yes, with very good physical devices.",
+"name_bg" => "",
+],
+337 => [
+"name" => "Yes, but our technology does not allow it yet.",
+"name_bg" => "",
+],
+338 => [
+"name" => "No, information is always lost or modified by imperfections.",
+"name_bg" => "",
+],
+339 => [
+"name" => "No, despite the fact that our instruments are perfect.",
+"name_bg" => "",
+],
+340 => [
+"name" => "Because the conditions there make Earth electronics slower.",
+"name_bg" => "",
+],
+341 => [
+"name" => "Because the reliability requirements are much higher.",
+"name_bg" => "",
+],
+342 => [
+"name" => "Because the conditions there make Earth electronics fail very quickly.",
+"name_bg" => "",
+],
+343 => [
+"name" => "Because electronics transmit information slower in vacuum.",
+"name_bg" => "",
+],
+344 => [
+"name" => "Because electronics in space are still a new field.",
+"name_bg" => "",
+],
+345 => [
+"name" => "Because conductors are a problem in space.",
+"name_bg" => "",
+],
+346 => [
+"name" => "Because the concept is still new and poorly tested.",
+"name_bg" => "",
+],
+347 => [
+"name" => "They are used as a good approximation of reality to follow.",
+"name_bg" => "",
+],
+348 => [
+"name" => "They give exact solutions to follow,",
+"name_bg" => "",
+],
+349 => [
+"name" => "They are generally distrusted and rarely used.",
+"name_bg" => "",
+],
+350 => [
+"name" => "They are used to check solutions given by other means.",
+"name_bg" => "",
+],
+351 => [
+"name" => "They are used to give a precise model of reality.",
+"name_bg" => "",
+],
+352 => [
+"name" => "They are used only as a preliminary tool for basic modelling.",
+"name_bg" => "",
+],
+353 => [
+"name" => "The measurable quantities involved must be complex as well.",
+"name_bg" => "",
+],
+354 => [
+"name" => "The complex formalism is an abstraction, yet the measurable quantities are complex themselves.",
+"name_bg" => "",
+],
+355 => [
+"name" => "The measurable quantities are real numbers and the complex formalism is just an abstraction that may simplify the problem.",
+"name_bg" => "",
+],
+356 => [
+"name" => "The measurable quantities are quaternions.",
+"name_bg" => "",
+],
+357 => [
+"name" => "Qualitative methods.",
+"name_bg" => "",
+],
+358 => [
+"name" => "Analytical quantitative methods.",
+"name_bg" => "",
+],
+359 => [
+"name" => "Numerical quantitative methods.",
+"name_bg" => "",
+],
+360 => [
+"name" => "Numerical qualitative methods.",
+"name_bg" => "",
+],
+361 => [
+"name" => "By running it for many different situations and comparing the results.",
+"name_bg" => "",
+],
+362 => [
+"name" => "By running it for an observed situation and comparing the results.",
+"name_bg" => "",
+],
+363 => [
+"name" => "By running it with many different parameters and comparing the results.",
+"name_bg" => "",
+],
+364 => [
+"name" => "Models cannot be verified.",
+"name_bg" => "",
+],
+365 => [
+"name" => "By running it for two similar situations and comparing the results.",
+"name_bg" => "",
+],
+366 => [
+"name" => "By running it for two completely different situations and comparing the results.",
+"name_bg" => "",
+],
+367 => [
+"name" => "It is the concept of building superior components.",
+"name_bg" => "",
+],
+368 => [
+"name" => "It is the concept of building more components.",
+"name_bg" => "",
+],
+369 => [
+"name" => "It is the concept of giving a system several ways of completing the same task.",
+"name_bg" => "",
+],
+370 => [
+"name" => "It is the concept of giving a system the ability to complete many tasks.",
+"name_bg" => "",
+],
+371 => [
+"name" => "It is the concept of building more cheaper components instead of less more expensive ones.",
+"name_bg" => "",
+],
+372 => [
+"name" => "It is the concept of creating more reliable systems.",
+"name_bg" => "",
+],
+373 => [
+"name" => "There is no difference - they are the same.",
+"name_bg" => "",
+],
+374 => [
+"name" => "The Bayesian approach uses constant parameters in the distributions while the frequentist approach modifies those parameters all the time.",
+"name_bg" => "",
+],
+375 => [
+"name" => "The frequentist approach uses constant parameters in the distributions while the Bayesian approach modifies those parameters all the time.",
+"name_bg" => "",
+],
+376 => [
+"name" => "The Bayesian approach uses probability density functions while the frequentist approach uses probability distributions.",
+"name_bg" => "",
+],
+377 => [
+"name" => "To determine the topology of the network.",
+"name_bg" => "",
+],
+378 => [
+"name" => "To choose a distribution for the data.",
+"name_bg" => "",
+],
+379 => [
+"name" => "To norm the distribution of the data.",
+"name_bg" => "",
+],
+380 => [
+"name" => "To collect statistical data for verification.",
+"name_bg" => "",
+],
+381 => [
+"name" => "To determine how much statistical data is required.",
+"name_bg" => "",
+],
+382 => [
+"name" => "To determine the distribution before gathering the data.",
+"name_bg" => "",
+],
+383 => [
+"name" => "Absolutely impossible",
+"name_bg" => "",
+],
+384 => [
+"name" => "Possible but very, very unlikely",
+"name_bg" => "",
+],
+385 => [
+"name" => "Perhaps as likely as life within the habitability zone",
+"name_bg" => "",
+],
+386 => [
+"name" => "Probably the only life that exists (since we are living on Earth).",
+"name_bg" => "",
+],
+387 => [
+"name" => "The precession of its axis.",
+"name_bg" => "",
+],
+388 => [
+"name" => "The periodic change in solar activity.",
+"name_bg" => "",
+],
+389 => [
+"name" => "It is unknown.",
+"name_bg" => "",
+],
+390 => [
+"name" => "The products of life.",
+"name_bg" => "",
+],
+391 => [
+"name" => "The nutation of its axis.",
+"name_bg" => "",
+],
+392 => [
+"name" => "The periodic variation of its orbit.",
+"name_bg" => "",
+],
+393 => [
+"name" => "We are unlikely to find life away from Earth.",
+"name_bg" => "",
+],
+394 => [
+"name" => "We are going to recognize life as soon as we find it.",
+"name_bg" => "",
+],
+395 => [
+"name" => "It will probably take some time to recognize life and it will most likely be in the form of a strange animal.",
+"name_bg" => "",
+],
+396 => [
+"name" => "It will probably take some time to recognize life and it will most likely be a microorganism.",
+"name_bg" => "",
+],
+397 => [
+"name" => "We are unlikely to ever recognize other life.",
+"name_bg" => "",
+],
+398 => [
+"name" => "There isn’t sufficient information for a meaningful answer",
+"name_bg" => "",
+],
+399 => [
+"name" => "Already confirmed",
+"name_bg" => "",
+],
+400 => [
+"name" => "The crater most likely never had water.",
+"name_bg" => "",
+],
+401 => [
+"name" => "It was formed recently by a meteor impact (just a few million years ago).",
+"name_bg" => "",
+],
+402 => [
+"name" => "It was most likely a lake earlier in the history of Mars.",
+"name_bg" => "",
+],
+403 => [
+"name" => "It was formed with the formation of the planet by natural geological processes.",
+"name_bg" => "",
+],
+404 => [
+"name" => "It has limited supplies of liquid water at the moment.",
+"name_bg" => "",
+],
+405 => [
+"name" => "It is mostly covered in water ice at the moment.",
+"name_bg" => "",
+],
+406 => [
+"name" => "No, the experiment aims to prove that.",
+"name_bg" => "",
+],
+407 => [
+"name" => "Yes, the experiment aims to disprove that.",
+"name_bg" => "",
+],
+408 => [
+"name" => "No, the experiment aims to monitor their attempt.",
+"name_bg" => "",
+],
+409 => [
+"name" => "Yes, the experiment aims to monitor the growth.",
+"name_bg" => "",
+],
+410 => [
+"name" => "No, there can be no liquid water outside of the habitable zone.",
+"name_bg" => "",
+],
+411 => [
+"name" => "Yes, subsurface liquid water may still exist for such bodies.",
+"name_bg" => "",
+],
+412 => [
+"name" => "Yes, the type of life we have observed on moons does not require liquid water.",
+"name_bg" => "",
+],
+413 => [
+"name" => "No, there is too little solar energy outside of the habitable zone.",
+"name_bg" => "",
+],
+414 => [
+"name" => "Liquid water",
+"name_bg" => "",
+],
+415 => [
+"name" => "Liquid solvent",
+"name_bg" => "",
+],
+416 => [
+"name" => "Water in any of its forms",
+"name_bg" => "",
+],
+417 => [
+],
+418 => [
+"name" => "Solar energy",
+"name_bg" => "",
+],
+419 => [
+"name" => "Water ice",
+"name_bg" => "",
+],
+420 => [
+"name" => "Absolutely no!",
+"name_bg" => "",
+],
+421 => [
+"name" => "Most organisms would survive.",
+"name_bg" => "",
+],
+422 => [
+"name" => "Yes, we have found life on comets already.",
+"name_bg" => "",
+],
+423 => [
+"name" => "Some extremophiles are likely to survive.",
+"name_bg" => "",
+],
+424 => [
+"name" => "Yes, although no known organism could.",
+"name_bg" => "",
+],
+425 => [
+"name" => "No, it is physiologically impossible for any lifeform.",
+"name_bg" => "",
+],
+426 => [
+"name" => "It grows much slower",
+"name_bg" => "",
+],
+427 => [
+"name" => "It grows much faster",
+"name_bg" => "",
+],
+428 => [
+"name" => "It cannot replicate",
+"name_bg" => "",
+],
+429 => [
+"name" => "It goes into stasis",
+"name_bg" => "",
+],
+430 => [
+"name" => "We have never observed bacteria in such environment.",
+"name_bg" => "",
+],
+431 => [
+"name" => "No changes have been observed for bacteria in such environment.",
+"name_bg" => "",
+],
+432 => [
+"name" => "It is a state in which the metabolism is much slower.",
+"name_bg" => "",
+],
+433 => [
+"name" => "It is a state in which metabolism is much faster.",
+"name_bg" => "",
+],
+434 => [
+"name" => "It is a medically - induced state, which causes metabolism to slow down.",
+"name_bg" => "",
+],
+435 => [
+"name" => "It is an experiment that aims to make humans more resistant to space.",
+"name_bg" => "",
+],
+436 => [
+"name" => "It is a state of brain death which is irreversible.",
+"name_bg" => "",
+],
+437 => [
+"name" => "It is a state in which metabolism experiences many fluctuations.",
+"name_bg" => "",
+],
+438 => [
+"name" => "Yes, we are utilising gamma rays with new species of fungi.",
+"name_bg" => "",
+],
+439 => [
+"name" => "No, it causes mutations and destroys life.",
+"name_bg" => "",
+],
+440 => [
+"name" => "Yes, but such life would not evolve and degrade with time.",
+"name_bg" => "",
+],
+441 => [
+"name" => "No, higher frequency radiation is not visible.",
+"name_bg" => "",
+],
+442 => [
+"name" => "Less travel time.",
+"name_bg" => "",
+],
+443 => [
+"name" => "Less resources needed.",
+"name_bg" => "",
+],
+444 => [
+"name" => "Less delta v budget.",
+"name_bg" => "",
+],
+445 => [
+"name" => "Less acceleration on the body.",
+"name_bg" => "",
+],
+446 => [
+"name" => "Less problems associated with high velocity.",
+"name_bg" => "",
+],
+447 => [
+"name" => "Less time needed for the acceleration.",
+"name_bg" => "",
+],
+448 => [
+"name" => "Poor understanding of orbital dynamics.",
+"name_bg" => "",
+],
+449 => [
+"name" => "Poor understanding of the bodies\\\\\\\' properties (eg. pressure, atmosphere).",
+"name_bg" => "",
+],
+450 => [
+"name" => "High radiation during the interplanetary flight.",
+"name_bg" => "",
+],
+451 => [
+"name" => "Sabotage of satellites in space from the other side.",
+"name_bg" => "",
+],
+452 => [
+"name" => "Loss of signal due to high velocity of the spacecraft.",
+"name_bg" => "",
+],
+453 => [
+"name" => "Unexpected gravitational interactions with unknown bodies.",
+"name_bg" => "",
+],
+454 => [
+"name" => "Poor engineering in the field of space.",
+"name_bg" => "",
+],
+455 => [
+"name" => "Yes, it was expected that it has an atmosphere quite similar to that of the Earth.",
+"name_bg" => "",
+],
+456 => [
+"name" => "No, it was expected that it has an atmosphere quite similar to that of the Earth.",
+"name_bg" => "",
+],
+457 => [
+"name" => "Yes, it was expected that it has an atmosphere quite different from that of the Earth.",
+"name_bg" => "",
+],
+458 => [
+"name" => "No, it was expected that it has an atmosphere quite different from that of the Earth.",
+"name_bg" => "",
+],
+459 => [
+"name" => "The electronics used were of poor quality.",
+"name_bg" => "",
+],
+460 => [
+"name" => "They did not produce powerful enough rockets.",
+"name_bg" => "",
+],
+461 => [
+"name" => "They did not have expertise in engineering and design.",
+"name_bg" => "",
+],
+462 => [
+"name" => "They lacked engineers capable in dealing with the propulsion systems needed.",
+"name_bg" => "",
+],
+463 => [
+"name" => "They did not have reliable vehicles until the 1970s.",
+"name_bg" => "",
+],
+464 => [
+"name" => "Mercury",
+"name_bg" => "",
+],
+465 => [
+"name" => "Venus",
+"name_bg" => "",
+],
+466 => [
+],
+467 => [
+"name" => "Ceres",
+"name_bg" => "",
+],
+468 => [
+"name" => "Jupiter",
+"name_bg" => "",
+],
+469 => [
+"name" => "Vesta",
+"name_bg" => "",
+],
+470 => [
+"name" => "To study the effect of the martian moons on the planet.",
+"name_bg" => "",
+],
+471 => [
+"name" => "To study martian climate from orbit and from the surface.",
+"name_bg" => "",
+],
+472 => [
+"name" => "To search for signs of life (both past and present) on Mars.",
+"name_bg" => "",
+],
+473 => [
+"name" => "To study the martian magnetic field.",
+"name_bg" => "",
+],
+474 => [
+"name" => "To study the possibility of human breathing on Mars.",
+"name_bg" => "",
+],
+475 => [
+"name" => "To study the gravitational field of Mars.",
+"name_bg" => "",
+],
+476 => [
+"name" => "To study the survivability of terrestrial plants in martian climate.",
+"name_bg" => "",
+],
+477 => [
+"name" => "It is no longer capable of competing with other Space Programs.",
+"name_bg" => "",
+],
+478 => [
+"name" => "The primary focus is to provide supplies for the ISS.",
+"name_bg" => "",
+],
+479 => [
+"name" => "The primary focus is a manned mission to the Moon in the near future.",
+"name_bg" => "",
+],
+480 => [
+"name" => "There are big plans for the future and many missions to come.",
+"name_bg" => "",
+],
+481 => [
+"name" => "The primary focus is a manned mission to Mars in the near future.",
+"name_bg" => "",
+],
+482 => [
+"name" => "The primary focus is the construction of a new space station.",
+"name_bg" => "",
+],
+483 => [
+"name" => "It only became applicable after the invention of GPS.",
+"name_bg" => "",
+],
+484 => [
+"name" => "It has been used at least for a few centuries.",
+"name_bg" => "",
+],
+485 => [
+"name" => "It has been used at least for a thousand years.",
+"name_bg" => "",
+],
+486 => [
+"name" => "It has been used for thousands of years.",
+"name_bg" => "",
+],
+487 => [
+"name" => "While it had been proposed hundreds of years ago, it only became useful recently.",
+"name_bg" => "",
+],
+488 => [
+"name" => "While it had been proposed thousands of years ago, it only became useful recently.",
+"name_bg" => "",
+],
+489 => [
+"name" => "It cannot be determined",
+"name_bg" => "",
+],
+490 => [
+"name" => "44 degrees South",
+"name_bg" => "",
+],
+491 => [
+"name" => "46 degrees North",
+"name_bg" => "",
+],
+492 => [
+"name" => "34 degrees North",
+"name_bg" => "",
+],
+493 => [
+"name" => "44 degrees West",
+"name_bg" => "",
+],
+494 => [
+"name" => "46 degrees East",
+"name_bg" => "",
+],
+495 => [
+"name" => "An accurate sextant.",
+"name_bg" => "",
+],
+496 => [
+"name" => "A reflector telescope.",
+"name_bg" => "",
+],
+497 => [
+"name" => "An accurate clock.",
+"name_bg" => "",
+],
+498 => [
+"name" => "A refractor telescope.",
+"name_bg" => "",
+],
+499 => [
+"name" => "An accurate octant.",
+"name_bg" => "",
+],
+500 => [
+"name" => "An accurate pendulum clock.",
+"name_bg" => "",
+],
+501 => [
+"name" => "Almost like flying in an airplane - you just sit back and relax.",
+"name_bg" => "",
+],
+502 => [
+"name" => "Nothing like flying in an airplane - you have to calculate the trajectory.",
+"name_bg" => "",
+],
+503 => [
+"name" => "Almost like flying in an airplane - very dull with little to do.",
+"name_bg" => "",
+],
+504 => [
+"name" => "Nothing like flying in an airplane - you have to fly the shuttle.",
+"name_bg" => "",
+],
+505 => [
+"name" => "4 minutes",
+"name_bg" => "",
+],
+506 => [
+"name" => "8 minutes",
+"name_bg" => "",
+],
+507 => [
+"name" => "16 minutes",
+"name_bg" => "",
+],
+508 => [
+"name" => "32 minutes",
+"name_bg" => "",
+],
+509 => [
+"name" => "2 minutes",
+"name_bg" => "",
+],
+510 => [
+"name" => "24 minutes",
+"name_bg" => "",
+],
+511 => [
+"name" => "12 minutes",
+"name_bg" => "",
+],
+512 => [
+"name" => "A Space Shuttle mission is like a marathon and an ISS mission is like a sprint.",
+"name_bg" => "",
+],
+513 => [
+"name" => "A Space Shuttle mission is like a sprint and an ISS mission is like a marathon.",
+"name_bg" => "",
+],
+514 => [
+"name" => "Both Space Shuttle and ISS missions are like a sprint.",
+"name_bg" => "",
+],
+515 => [
+"name" => "Both Space Shuttle and ISS missions are like a marathon.",
+"name_bg" => "",
+],
+516 => [
+"name" => "The Astronauts are not allowed to drink liquids the day before launch.",
+"name_bg" => "",
+],
+517 => [
+"name" => "The Astronauts are not allowed to eat during the day of the launch.",
+"name_bg" => "",
+],
+518 => [
+"name" => "The Astronauts are quarantined for a week before the launch.",
+"name_bg" => "",
+],
+519 => [
+"name" => "The Astronauts are not allowed to sleep before the launch.",
+"name_bg" => "",
+],
+520 => [
+"name" => "The Astronauts are not allowed to eat the day before launch.",
+"name_bg" => "",
+],
+521 => [
+"name" => "The Astronauts are not allowed to drink liquids during the day of the launch.",
+"name_bg" => "",
+],
+522 => [
+"name" => "No, the thermal protection is not absolutely necessary for reentry.",
+"name_bg" => "",
+],
+523 => [
+"name" => "Yes, the thermal protection is absolutely necessary for reentry.",
+"name_bg" => "",
+],
+524 => [
+"name" => "If only a few of the pieces are damaged the effects will be minimal.",
+"name_bg" => "",
+],
+525 => [
+"name" => "Yes, if even a few pieces are damaged, the Shuttle will disintegrate even without reentering!",
+"name_bg" => "",
+],
+526 => [
+"name" => "No, the focus is now on capsules and not on winged spacecraft.",
+"name_bg" => "",
+],
+527 => [
+"name" => "Yes, the incredible success of the Shuttle has made winged spacecraft preferred.",
+"name_bg" => "",
+],
+528 => [
+"name" => "No, the new generation is both winged and capsule-like.",
+"name_bg" => "",
+],
+529 => [
+"name" => "Yes, but the details of this new generation are still unknown.",
+"name_bg" => "",
+],
+530 => [
+"name" => "0.5 years",
+"name_bg" => "",
+],
+531 => [
+"name" => "2 years",
+"name_bg" => "",
+],
+532 => [
+"name" => "3.5 years",
+"name_bg" => "",
+],
+533 => [
+"name" => "5 years",
+"name_bg" => "",
+],
+534 => [
+"name" => "1 year",
+"name_bg" => "",
+],
+535 => [
+"name" => "2.5 years",
+"name_bg" => "",
+],
+536 => [
+"name" => "The size of a basketball field.",
+"name_bg" => "",
+],
+537 => [
+"name" => "The size of a football field.",
+"name_bg" => "",
+],
+538 => [
+"name" => "The size of an olympic stadium.",
+"name_bg" => "",
+],
+539 => [
+"name" => "The size of a small city.",
+"name_bg" => "",
+],
+540 => [
+"name" => "The size of an average bus.",
+"name_bg" => "",
+],
+541 => [
+"name" => "The size of a tennis court.",
+"name_bg" => "",
+],
+542 => [
+"name" => "To allow astronauts to view Earth.",
+"name_bg" => "",
+],
+543 => [
+"name" => "Thermal control.",
+"name_bg" => "",
+],
+544 => [
+"name" => "To allow astronauts to take pictures of the Earth.",
+"name_bg" => "",
+],
+545 => [
+"name" => "To allow astronauts to view robotic operations in progress.",
+"name_bg" => "",
+],
+546 => [
+"name" => "To allow astronauts to gather weather forecasting data.",
+"name_bg" => "",
+],
+547 => [
+"name" => "To allow astronauts to observe incoming space vehicles.",
+"name_bg" => "",
+],
+548 => [
+"name" => "Each astronaut is only trained for a specific mission.",
+"name_bg" => "",
+],
+549 => [
+"name" => "Each astronaut receives specific training for each mission.",
+"name_bg" => "",
+],
+550 => [
+"name" => "Astronauts go through different basic training depending on their mission.",
+"name_bg" => "",
+],
+551 => [
+"name" => "All astronauts complete at least one spaceflight after basic training.",
+"name_bg" => "",
+],
+552 => [
+"name" => "Astronauts must have at least one space mission per 3 years.",
+"name_bg" => "",
+],
+553 => [
+"name" => "Astronauts perform at least one space walk on each mission.",
+"name_bg" => "",
+],
+554 => [
+"name" => "Because normally many problems arise in spaceflight.",
+"name_bg" => "",
+],
+555 => [
+"name" => "Because of problems that were arising in the early days of the space program.",
+"name_bg" => "",
+],
+556 => [
+"name" => "Because the risk of problems has been increasing due to the fact, that the Soyuz is an old spacecraft.",
+"name_bg" => "",
+],
+557 => [
+"name" => "Because they should be prepared even if normally, not many problems arise in spaceflight.",
+"name_bg" => "",
+],
+558 => [
+"name" => "Because spaceflight has become increasingly more dangerous due to space debris.",
+"name_bg" => "",
+],
+559 => [
+"name" => "Because of many recent incidents on space missions.",
+"name_bg" => "",
+],
+560 => [
+"name" => "Astronauts spend most of their career in space.",
+"name_bg" => "",
+],
+561 => [
+"name" => "Astronauts spend only a small fraction of their career in space.",
+"name_bg" => "",
+],
+562 => [
+"name" => "Every astronaut is assigned with a space mission regularly.",
+"name_bg" => "",
+],
+563 => [
+"name" => "Astronauts are not allowed to go to space more than twice.",
+"name_bg" => "",
+],
+564 => [
+],
+565 => [
+"name" => "Astronauts rarely receive additional training for a specific mission.",
+"name_bg" => "",
+],
+566 => [
+"name" => "You should come from a military background to apply for an astronaut.",
+"name_bg" => "",
+],
+567 => [
+"name" => "The more qualifications you have, the more likely you are to be a good applicant for an astronaut.",
+"name_bg" => "",
+],
+568 => [
+"name" => "You should be a certified pilot to apply for an astronaut.",
+"name_bg" => "",
+],
+569 => [
+"name" => "The more specialized you are in a single field, the more likely you are to be a good applicant for an astronaut.",
+"name_bg" => "",
+],
+570 => [
+"name" => "There are no necessary skills to become an astronaut.",
+"name_bg" => "",
+],
+571 => [
+"name" => "Astronauts are only chosen from active military personnel.",
+"name_bg" => "",
+],
+572 => [
+"name" => "Lack of knowledge in the field of Astrophysics.",
+"name_bg" => "",
+],
+573 => [
+"name" => "Lack of piloting or driving abilities.",
+"name_bg" => "",
+],
+574 => [
+"name" => "Eye problems.",
+"name_bg" => "",
+],
+575 => [
+"name" => "Lack of medical skills.",
+"name_bg" => "",
+],
+576 => [
+],
+577 => [
+"name" => "Lack of previous experience in the space sector.",
+"name_bg" => "",
+],
+578 => [
+"name" => "About 0.4%",
+"name_bg" => "",
+],
+579 => [
+"name" => "About 0.04%",
+"name_bg" => "",
+],
+580 => [
+"name" => "About 0.004%",
+"name_bg" => "",
+],
+581 => [
+"name" => "About 0.0004%",
+"name_bg" => "",
+],
+582 => [
+"name" => "About 4%",
+"name_bg" => "",
+],
+583 => [
+"name" => "There may be water ice on the Moon.",
+"name_bg" => "",
+],
+584 => [
+"name" => "There is water ice on the Moon.",
+"name_bg" => "",
+],
+585 => [
+"name" => "The Moon is on average the coldest body in the Solar System.",
+"name_bg" => "",
+],
+586 => [
+"name" => "There cannot be water ice on the Moon.",
+"name_bg" => "",
+],
+587 => [
+"name" => "There may be liquid water on the Moon.",
+"name_bg" => "",
+],
+588 => [
+"name" => "There is liquid water on the Moon.",
+"name_bg" => "",
+],
+589 => [
+"name" => "Cosmic protons are buried deeper than the electrons.",
+"name_bg" => "",
+],
+590 => [
+"name" => "Cosmic electrons are buried deeper than the protons.",
+"name_bg" => "",
+],
+591 => [
+"name" => "The Moon\'s magnetic field separates the protons from the electrons in the crust.",
+"name_bg" => "",
+],
+592 => [
+"name" => "The regolith\'s own radioactivity causes alpha particles (positively charged) to pile up in the crust and that creates the capacitor-like field.",
+"name_bg" => "",
+],
+593 => [
+"name" => "Small amounts of anti-matter released by beta decay in the Lunar crust are causing electrons to pile up in it and that create the capacitor-like field.",
+"name_bg" => "",
+],
+594 => [
+"name" => "The Moon’s gravity interacts with electrons in a different way, causing them to go deeper than the protons.",
+"name_bg" => "",
+],
+595 => [
+"name" => "The Moon is not geologically active.",
+"name_bg" => "",
+],
+596 => [
+"name" => "There are regions on the Moon which are permanently shadowed and very cold.",
+"name_bg" => "",
+],
+597 => [
+"name" => "The Moon has a residual magnetic field which is very weak.",
+"name_bg" => "",
+],
+598 => [
+"name" => "The sparking events in the soil are happening almost all the time.",
+"name_bg" => "",
+],
+599 => [
+"name" => "The lowest naturally occurring temperature was measured on the Moon.",
+"name_bg" => "",
+],
+600 => [
+"name" => "The Moon was most likely formed from the remains of a collision between a Mars-sized object and Earth in the past.",
+"name_bg" => "",
+],
+601 => [
+"name" => "Given enough time in primordial conditions, life will be formed.",
+"name_bg" => "",
+],
+602 => [
+"name" => "Given enough time in primordial conditions, complex molecules will be formed.",
+"name_bg" => "",
+],
+603 => [
+"name" => "Life was already present in the primordial conditions.",
+"name_bg" => "",
+],
+604 => [
+"name" => "No matter how much time you wait, life cannot emerge out of the primordial conditions.",
+"name_bg" => "",
+],
+605 => [
+"name" => "Life most certainly cannot have originated spontaneously.",
+"name_bg" => "",
+],
+606 => [
+"name" => "Complex molecules cannot be formed from simpler ones without very specifically controlled conditions.",
+"name_bg" => "",
+],
+607 => [
+"name" => "Yes, if they are within the habitable zone.",
+"name_bg" => "",
+],
+608 => [
+"name" => "No, comets cannot support complex molecules.",
+"name_bg" => "",
+],
+609 => [
+"name" => "Yes, comets have the necessary conditions.",
+"name_bg" => "",
+],
+610 => [
+"name" => "No, they lack the basic building blocks like Carbon and Nitrogen.",
+"name_bg" => "",
+],
+611 => [
+"name" => "Its inhomogeneous structure",
+"name_bg" => "",
+],
+612 => [
+"name" => "Its lower surface gravity",
+"name_bg" => "",
+],
+613 => [
+"name" => "Its unusually strong magnetic field",
+"name_bg" => "",
+],
+614 => [
+"name" => "Its interactions with Jupiter",
+"name_bg" => "",
+],
+615 => [
+"name" => "Its lack of plate tectonics",
+"name_bg" => "",
+],
+616 => [
+"name" => "Its moons",
+"name_bg" => "",
+],
+617 => [
+"name" => "The large amounts of oxygen there",
+"name_bg" => "",
+],
+618 => [
+],
+619 => [
+],
+620 => [
+],
+621 => [
+],
+622 => [
+"name" => "The periodic change of its semi-major axis.",
+"name_bg" => "",
+],
+623 => [
+"name" => "The periodic change of its orbital inclination.",
+"name_bg" => "",
+],
+624 => [
+"name" => "the evaporation rate",
+"name_bg" => "",
+],
+625 => [
+"name" => "the texture",
+"name_bg" => "",
+],
+626 => [
+"name" => "the slight difference in coloration",
+"name_bg" => "",
+],
+627 => [
+"name" => "the region in which they are",
+"name_bg" => "",
+],
+628 => [
+],
+629 => [
+],
+630 => [
+"name" => "Energy source",
+"name_bg" => "",
+],
+631 => [
+],
+632 => [
+"name" => "Magnetic field",
+"name_bg" => "",
+],
+633 => [
+"name" => "Oxygen atmosphere",
+"name_bg" => "",
+],
+634 => [
+],
+635 => [
+"name" => "Some features closely resemble those on other planets.",
+"name_bg" => "",
+],
+636 => [
+"name" => "They allow us to understand better how to terraform other planets.",
+"name_bg" => "",
+],
+637 => [
+"name" => "Some terrain features are changing so rapidly, that expeditions there allow us to adapt better.",
+"name_bg" => "",
+],
+638 => [
+"name" => "It allows us to subject life to more severe regions where it doesn’t naturally occur.",
+"name_bg" => "",
+],
+639 => [
+"name" => "They are not that important for space but are more of a sport.",
+"name_bg" => "",
+],
+640 => [
+"name" => "The Sun",
+"name_bg" => "",
+],
+641 => [
+"name" => "Earth",
+"name_bg" => "",
+],
+642 => [
+],
+643 => [
+"name" => "Mars",
+"name_bg" => "",
+],
+644 => [
+],
+645 => [
+"name" => "It most likely formed from small nearby asteroids.",
+"name_bg" => "",
+],
+646 => [
+"name" => "It has an average size for a rocky planet satellite.",
+"name_bg" => "",
+],
+647 => [
+"name" => "It most likely formed from the debris of a collision between the Earth and a Mars-sized object.",
+"name_bg" => "",
+],
+648 => [
+"name" => "It had active geology in the past.",
+"name_bg" => "",
+],
+649 => [
+"name" => "It is a relatively small natural satellite for a planet like Earth.",
+"name_bg" => "",
+],
+650 => [
+"name" => "It was most likely a separate body that Earth captured long ago.",
+"name_bg" => "",
+],
+651 => [
+],
+652 => [
+],
+653 => [
+],
+654 => [
+],
+655 => [
+],
+656 => [
+"name" => "Just one",
+"name_bg" => "",
+],
+657 => [
+"name" => "active geology in the present",
+"name_bg" => "",
+],
+658 => [
+"name" => "frequent meteor impacts",
+"name_bg" => "",
+],
+659 => [
+"name" => "liquid water in the past(present)",
+"name_bg" => "",
+],
+660 => [
+"name" => "thriving biosphere",
+"name_bg" => "",
+],
+661 => [
+"name" => "no chance of habitability in the past or present conditions",
+"name_bg" => "",
+],
+662 => [
+"name" => "Major differences in the composition of the atmosphere.",
+"name_bg" => "",
+],
+663 => [
+"name" => "Lack of strong magnetic field.",
+"name_bg" => "",
+],
+664 => [
+"name" => "Lack of life.",
+"name_bg" => "",
+],
+665 => [
+"name" => "Higher solar flux at its distance from the Sun.",
+"name_bg" => "",
+],
+666 => [
+"name" => "Lower solar flux at its distance from the Sun.",
+"name_bg" => "",
+],
+667 => [
+"name" => "Higher frequency of meteor impacts at its distance from the Sun.",
+"name_bg" => "",
+],
+668 => [
+"name" => "The more similar the two images are, the closer the object is.",
+"name_bg" => "",
+],
+669 => [
+"name" => "The more similar the two images are, the further the object is.",
+"name_bg" => "",
+],
+670 => [
+"name" => "The more different the images are, the closer the object is.",
+"name_bg" => "",
+],
+671 => [
+"name" => "The more different the images are, the further the object is.",
+"name_bg" => "",
+],
+672 => [
+"name" => "Capturing a body with unknown properties.",
+"name_bg" => "",
+],
+673 => [
+"name" => "Capturing a small asteroid.",
+"name_bg" => "",
+],
+674 => [
+"name" => "Docking with a body with known properties.",
+"name_bg" => "",
+],
+675 => [
+"name" => "Docking with a body with poorly known properties.",
+"name_bg" => "",
+],
+676 => [
+"name" => "Docking with a body with unknown properties.",
+"name_bg" => "",
+],
+677 => [
+"name" => "Capturing an unknown uncooperative target.",
+"name_bg" => "",
+],
+678 => [
+"name" => "Orbital change.",
+"name_bg" => "",
+],
+679 => [
+"name" => "Attitude keeping with respect to an absolute frame.",
+"name_bg" => "",
+],
+680 => [
+"name" => "Relative orientation keeping.",
+"name_bg" => "",
+],
+681 => [
+"name" => "Antenna pointing.",
+"name_bg" => "",
+],
+682 => [
+"name" => "Attitude keeping with respect to the Earth",
+"name_bg" => "",
+],
+683 => [
+"name" => "Orientation change maneuvers",
+"name_bg" => "",
+],
+684 => [
+"name" => "Acceleration in the direction of the other object.",
+"name_bg" => "",
+],
+685 => [
+"name" => "Acceleration in the opposite direction of the other object.",
+"name_bg" => "",
+],
+686 => [
+"name" => "Rotation around an axis which is parallel to the tether line.",
+"name_bg" => "",
+],
+687 => [
+"name" => "Higher orbital speed of both objects.",
+"name_bg" => "",
+],
+688 => [
+"name" => "Lower orbital speed of both objects.",
+"name_bg" => "",
+],
+689 => [
+"name" => "Acceleration in a direction perpendicular to the tether line.",
+"name_bg" => "",
+],
+690 => [
+"name" => "There is no formal difference.",
+"name_bg" => "",
+],
+691 => [
+"name" => "The sub-optimal trajectory is not as good as the optimal one but takes less time to compute.",
+"name_bg" => "",
+],
+692 => [
+"name" => "They are both optimal trajectories but for orbital and suborbital flight.",
+"name_bg" => "",
+],
+693 => [
+"name" => "The optimal trajectory is not as good as the suboptimal one, but takes less time to compute.",
+"name_bg" => "",
+],
+694 => [
+"name" => "They are both optimal trajectories but for closed and open trajectories.",
+"name_bg" => "",
+],
+695 => [
+"name" => "They are better in off-nominal conditions, but not better in nominal conditions.",
+"name_bg" => "",
+],
+696 => [
+"name" => "They are better in nominal conditions but not better in off-nominal conditions.",
+"name_bg" => "",
+],
+697 => [
+"name" => "They are much better in both off-nominal and nominal conditions.",
+"name_bg" => "",
+],
+698 => [
+"name" => "They are pretty much the same in nominal conditions but better in off-nominal conditions.",
+"name_bg" => "",
+],
+699 => [
+"name" => "Docking between spacecraft.",
+"name_bg" => "",
+],
+700 => [
+"name" => "Landing on comets and asteroids.",
+"name_bg" => "",
+],
+701 => [
+"name" => "Repairing old satellites.",
+"name_bg" => "",
+],
+702 => [
+"name" => "Deorbiting working satellites.",
+"name_bg" => "",
+],
+703 => [
+"name" => "Docking with cooperative targets.",
+"name_bg" => "",
+],
+704 => [
+"name" => "Unloading cargo on the ISS.",
+"name_bg" => "",
+],
+705 => [
+"name" => "You will begin spinning in the same direction as well.",
+"name_bg" => "",
+],
+706 => [
+"name" => "You will begin spinning but in the opposite direction.",
+"name_bg" => "",
+],
+707 => [
+"name" => "You will not experience any rotary motion.",
+"name_bg" => "",
+],
+708 => [
+"name" => "Depending on your orbital direction, either may be true.",
+"name_bg" => "",
+],
+709 => [
+"name" => "You will experience small orbital change.",
+"name_bg" => "",
+],
+710 => [
+"name" => "You will not experience any additional forces.",
+"name_bg" => "",
+],
+711 => [
+"name" => "The Wronskian matrix.",
+"name_bg" => "",
+],
+712 => [
+"name" => "The Jacobian matrix.",
+"name_bg" => "",
+],
+713 => [
+"name" => "The Cartesian matrix.",
+"name_bg" => "",
+],
+714 => [
+"name" => "The Gaussian matrix.",
+"name_bg" => "",
+],
+715 => [
+"name" => "The Hamiltonian matrix.",
+"name_bg" => "",
+],
+716 => [
+"name" => "The inverse Gaussian matrix.",
+"name_bg" => "",
+],
+717 => [
+"name" => "Generally, bodies have certain stable axes around which they can rotate.",
+"name_bg" => "",
+],
+718 => [
+"name" => "Generally, bodies can rotate around any axis.",
+"name_bg" => "",
+],
+719 => [
+"name" => "Generally, bodies cannot change their axis of rotation.",
+"name_bg" => "",
+],
+720 => [
+"name" => "Generally, bodies can switch between major axes of rotation spontaneously.",
+"name_bg" => "",
+],
+721 => [
+"name" => "Generally, bodies can rotate around an axis that passes close to their center of mass.",
+"name_bg" => "",
+],
+722 => [
+"name" => "Generally, the orientation of a body in space requires two parameters to specify.",
+"name_bg" => "",
+],
+723 => [
+"name" => "The Space Station will also start spinning in the same direction.",
+"name_bg" => "",
+],
+724 => [
+"name" => "The Space Station will start spinning in a direction opposite of his.",
+"name_bg" => "",
+],
+725 => [
+"name" => "The Space Station will experience a force opposite of his angular velocity vector.",
+"name_bg" => "",
+],
+726 => [
+"name" => "The Space Station will experience a force along his angular velocity vector.",
+"name_bg" => "",
+],
+727 => [
+"name" => "A spacecraft robot can be seen as a special case of a robot on Earth, but with very large base mass.",
+"name_bg" => "",
+],
+728 => [
+"name" => "A robot on Earth can be seen as a special case of a spacecraft robot, but with very large base mass.",
+"name_bg" => "",
+],
+729 => [
+"name" => "Motion on the surface of the Earth does not affect its rotation.",
+"name_bg" => "",
+],
+730 => [
+"name" => "Motion of the joints of a free-flier robot does not affect the rotation of the base.",
+"name_bg" => "",
+],
+731 => [
+"name" => "The dynamics of a free-flier robot are given by a completely different equation than those of a robot on Earth.",
+"name_bg" => "",
+],
+732 => [
+"name" => "Free flier robots may change their orbit by activating their joints and so they are hard to operate.",
+"name_bg" => "",
+],
+733 => [
+"name" => "While the direct approach estimates the parameters for a spacecraft model of the target, the indirect approach adapts in real time.",
+"name_bg" => "",
+],
+734 => [
+"name" => "While the indirect approach estimates the parameters for a spacecraft model of the target, the direct approach adapts in real time.",
+"name_bg" => "",
+],
+735 => [
+"name" => "While for the direct approach, computations are made on board the spacecraft, for the indirect approach they are made on Earth and relayed back.",
+"name_bg" => "",
+],
+736 => [
+"name" => "While for the indirect approach, computations are made on board the spacecraft, for the direct approach they are made on Earth and relayed back.",
+"name_bg" => "",
+],
+737 => [
+"name" => "Because current systems have large errors most of the time.",
+"name_bg" => "",
+],
+738 => [
+"name" => "Because current systems can only work for known spacecraft parameters.",
+"name_bg" => "",
+],
+739 => [
+"name" => "Because current systems are too slow.",
+"name_bg" => "",
+],
+740 => [
+"name" => "Because current systems are not well understood either.",
+"name_bg" => "",
+],
+741 => [
+"name" => "Because current systems do not handle misalignments well.",
+"name_bg" => "",
+],
+742 => [
+"name" => "Because current systems require a ground-based computer for calculations.",
+"name_bg" => "",
+],
+743 => [
+"name" => "Because current systems are adapting slowly to unknown properties.",
+"name_bg" => "",
+],
+744 => [
+"name" => "At least 1000 steps.",
+"name_bg" => "",
+],
+745 => [
+"name" => "At least 10000 steps.",
+"name_bg" => "",
+],
+746 => [
+"name" => "An infinite amount of steps.",
+"name_bg" => "",
+],
+747 => [
+"name" => "At least 100 steps.",
+"name_bg" => "",
+],
+748 => [
+"name" => "At least 10 steps.",
+"name_bg" => "",
+],
+749 => [
+"name" => "The permanently shadowed regions of craters.",
+"name_bg" => "",
+],
+750 => [
+"name" => "The hot equatorial regions.",
+"name_bg" => "",
+],
+751 => [
+"name" => "The permanently lit polar regions.",
+"name_bg" => "",
+],
+752 => [
+"name" => "The cold equatorial regions.",
+"name_bg" => "",
+],
+753 => [
+"name" => "The permanently shadowed regions of the dark side.",
+"name_bg" => "",
+],
+754 => [
+"name" => "The moderate regions around 45 degrees latitude.",
+"name_bg" => "",
+],
+755 => [
+"name" => "Multibody dynamics with static base and no contact points.",
+"name_bg" => "",
+],
+756 => [
+"name" => "Multibody dynamics with mobile base and no contact points.",
+"name_bg" => "",
+],
+757 => [
+"name" => "Multibody dynamics with static base and multiple contact points.",
+"name_bg" => "",
+],
+758 => [
+"name" => "Multibody dynamics with mobile base and multiple contact points.",
+"name_bg" => "",
+],
+759 => [
+"name" => "Description of a free-flier robot with modelling of contact forces.",
+"name_bg" => "",
+],
+760 => [
+"name" => "Description of a ground based robot with modelling of contact forces.",
+"name_bg" => "",
+],
+761 => [
+"name" => "Description of a free-flier robot with modelling of gravity forces.",
+"name_bg" => "",
+],
+762 => [
+"name" => "Description of a ground robot with modelling of gravity forces.",
+"name_bg" => "",
+],
+763 => [
+"name" => "Skid",
+"name_bg" => "",
+],
+764 => [
+"name" => "Slip",
+"name_bg" => "",
+],
+765 => [
+"name" => "Roll",
+"name_bg" => "",
+],
+766 => [
+"name" => "Pitch",
+"name_bg" => "",
+],
+767 => [
+"name" => "Yaw",
+"name_bg" => "",
+],
+768 => [
+"name" => "Lift",
+"name_bg" => "",
+],
+769 => [
+"name" => "Discrete method - approximating soil as finite number of small particles.",
+"name_bg" => "",
+],
+770 => [
+"name" => "Angle method - approximating soil reaction with respect to body angle.",
+"name_bg" => "",
+],
+771 => [
+"name" => "Semi - continuous method - approximating soil as discrete points with liquid in between.",
+"name_bg" => "",
+],
+772 => [
+"name" => "Continuous method - approximating soil as a continuous manifold.",
+"name_bg" => "",
+],
+773 => [
+"name" => "Reaction method - approximating soil as discrete number of force applying objects.",
+"name_bg" => "",
+],
+774 => [
+"name" => "Laser scanner",
+"name_bg" => "",
+],
+775 => [
+"name" => "Radar",
+"name_bg" => "",
+],
+776 => [
+"name" => "Satellite images",
+"name_bg" => "",
+],
+777 => [
+"name" => "Sonar",
+"name_bg" => "",
+],
+778 => [
+"name" => "Infrared sensors",
+"name_bg" => "",
+],
+779 => [
+"name" => "Deployable camera images",
+"name_bg" => "",
+],
+780 => [
+"name" => "They can interact like humans.",
+"name_bg" => "",
+],
+781 => [
+"name" => "The human shape is the most superior.",
+"name_bg" => "",
+],
+782 => [
+"name" => "They are fun to build.",
+"name_bg" => "",
+],
+783 => [
+"name" => "They can be used as soldiers.",
+"name_bg" => "",
+],
+784 => [
+"name" => "They are best suited to replace humans.",
+"name_bg" => "",
+],
+785 => [
+"name" => "Most robots in sci-fi were humanoid.",
+"name_bg" => "",
+],
+786 => [
+"name" => "The radar.",
+"name_bg" => "",
+],
+787 => [
+"name" => "The sonar.",
+"name_bg" => "",
+],
+788 => [
+"name" => "The eye.",
+"name_bg" => "",
+],
+789 => [
+"name" => "The laser scanner.",
+"name_bg" => "",
+],
+790 => [
+],
+791 => [
+],
+792 => [
+],
+793 => [
+],
+794 => [
+],
+795 => [
+"name" => "The inverse Wronskian matrix.",
+"name_bg" => "",
+],
+796 => [
+"name" => "Small cameras",
+"name_bg" => "",
+],
+797 => [
+"name" => "Piezoelectric effect",
+"name_bg" => "",
+],
+798 => [
+"name" => "Normal touchscreen",
+"name_bg" => "",
+],
+799 => [
+"name" => "Stress resistor",
+"name_bg" => "",
+],
+800 => [
+"name" => "Infrared scanners",
+"name_bg" => "",
+],
+801 => [
+"name" => "Accelerometers",
+"name_bg" => "",
+],
+802 => [
+"name" => "The computational time increases linearly with data points.",
+"name_bg" => "",
+],
+803 => [
+"name" => "The computational time increases exponentially with data points.",
+"name_bg" => "",
+],
+804 => [
+"name" => "The computational time decreases linearly with data points.",
+"name_bg" => "",
+],
+805 => [
+"name" => "The computational time stays the same after a certain number of data points.",
+"name_bg" => "",
+],
+806 => [
+"name" => "The computational time decreases logarithmically with data points.",
+"name_bg" => "",
+],
+807 => [
+"name" => "The computational time decreases exponentially with data points.",
+"name_bg" => "",
+],
+808 => [
+"name" => "No, the mass distribution must be known a priori.",
+"name_bg" => "",
+],
+809 => [
+"name" => "Yes, the algorithm can be adaptive.",
+"name_bg" => "",
+],
+810 => [
+"name" => "No, not with a regular computer.",
+"name_bg" => "",
+],
+811 => [
+"name" => "Yes, although it has not been done yet.",
+"name_bg" => "",
+],
+812 => [
+"name" => "Object features are recorded and based on them a classification is made.",
+"name_bg" => "",
+],
+813 => [
+"name" => "Object features are mapped onto vectors and based on their elements a classification is made.",
+"name_bg" => "",
+],
+814 => [
+"name" => "Object features are seen and kept in the memory to be compared with all the previous object features visually.",
+"name_bg" => "",
+],
+815 => [
+"name" => "The process merges images of many different objects and looks for the same structure in coloration and pixel density.",
+"name_bg" => "",
+],
+816 => [
+"name" => "Seeing more objects of the same type increases success.",
+"name_bg" => "",
+],
+817 => [
+"name" => "Seeing more objects of the same type decreases success.",
+"name_bg" => "",
+],
+818 => [
+"name" => "Seeing more objects of different types increases success.",
+"name_bg" => "",
+],
+819 => [
+"name" => "Seeing more objects of different types decreases success.",
+"name_bg" => "",
+],
+820 => [
+"name" => "After the first 5 different objects there is no difference.",
+"name_bg" => "",
+],
+821 => [
+"name" => "After the first 10 different objects there is no difference.",
+"name_bg" => "",
+],
+822 => [
+"name" => "As the number of objects increases the difference in success rate tends to zero.",
+"name_bg" => "",
+],
+823 => [
+"name" => "It can discover some geometrical properties of objects and how to use them.",
+"name_bg" => "",
+],
+824 => [
+"name" => "It can already recognize and differentiate between hundreds of classes of objects.",
+"name_bg" => "",
+],
+825 => [
+"name" => "It can discover some geometrical properties of objects only by seeing them from afar.",
+"name_bg" => "",
+],
+826 => [
+"name" => "Its recognition software is still theoretical and has not been tested.",
+"name_bg" => "",
+],
+827 => [
+"name" => "The grasping accuracy is quite good thanks to sensors in the robot skin which measure the forces that the robot applies to objects.",
+"name_bg" => "",
+],
+828 => [
+"name" => "The grasping accuracy is quite good despite of the lack of forces measurement from the robot skin, placed on the hands.",
+"name_bg" => "",
+],
+829 => [
+"name" => "The grasping accuracy is not very good despite of the forces measurement from the robot skin, placed on the hands.",
+"name_bg" => "",
+],
+830 => [
+"name" => "The grasping accuracy is quite bad due to the lack of forces measurement from the robot skin, placed on the hands.",
+"name_bg" => "",
+],
+831 => [
+"name" => "Comparison with desired -> Sensors -> Actuators -> Sensors",
+"name_bg" => "",
+],
+832 => [
+"name" => "Sensors -> Comparison with desired -> Actuators -> Sensors",
+"name_bg" => "",
+],
+833 => [
+"name" => "Sensors -> Comparison with desired -> Sensors -> Actuators",
+"name_bg" => "",
+],
+834 => [
+"name" => "Sensors -> Actuators -> Sensors -> Comparison with desired",
+"name_bg" => "",
+],
+835 => [
+"name" => "The iCub can calibrate its sensors by its own touch.",
+"name_bg" => "",
+],
+836 => [
+"name" => "The iCub can recognise gender.",
+"name_bg" => "",
+],
+837 => [
+"name" => "The iCub can walk faster than most humans.",
+"name_bg" => "",
+],
+838 => [
+"name" => "The iCub can manipulate human tools.",
+"name_bg" => "",
+],
+839 => [
+"name" => "The iCub can counter external torque and balance itself.",
+"name_bg" => "",
+],
+840 => [
+"name" => "The iCub can recognize age.",
+"name_bg" => "",
+],
+841 => [
+"name" => "By the time they are completed, the technology used is already too old.",
+"name_bg" => "",
+],
+842 => [
+"name" => "The technology used is very old due to old contracts.",
+"name_bg" => "",
+],
+843 => [
+"name" => "By the time a spacecraft is completed, the public has already lost interest in the mission.",
+"name_bg" => "",
+],
+844 => [
+"name" => "Fundamental science does not describe orbital dynamics well enough.",
+"name_bg" => "",
+],
+845 => [
+"name" => "There are no innovations in the fields of engineering and we use the same old spacecraft.",
+"name_bg" => "",
+],
+846 => [
+"name" => "We have lost too much information on engineering from the past generations and are unable to build spacecraft as well.",
+"name_bg" => "",
+],
+847 => [
+"name" => "Physiological changes in zero gravity.",
+"name_bg" => "",
+],
+848 => [
+"name" => "High velocity sickness.",
+"name_bg" => "",
+],
+849 => [
+"name" => "Radiation",
+"name_bg" => "",
+],
+850 => [
+"name" => "Bone strength reduction.",
+"name_bg" => "",
+],
+851 => [
+"name" => "Micro-asteroids impacts.",
+"name_bg" => "",
+],
+852 => [
+"name" => "Improved radiation resistance.",
+"name_bg" => "",
+],
+853 => [
+"name" => "Fewer resources required.",
+"name_bg" => "",
+],
+854 => [
+"name" => "Fewer psychological problems for the astronauts.",
+"name_bg" => "",
+],
+855 => [
+"name" => "Less time needed for the spacecraft to arrive at its destination.",
+"name_bg" => "",
+],
+856 => [
+"name" => "Lack of sickness due to high velocity.",
+"name_bg" => "",
+],
+857 => [
+"name" => "Less time needed to accelerate to a given velocity.",
+"name_bg" => "",
+],
+858 => [
+"name" => "Less time needed for orbital maneuvers.",
+"name_bg" => "",
+],
+859 => [
+"name" => "Electromagnetically induced gravitation.",
+"name_bg" => "",
+],
+860 => [
+"name" => "Magnetic confinement gravitation.",
+"name_bg" => "",
+],
+861 => [
+"name" => "Rotation.",
+"name_bg" => "",
+],
+862 => [
+"name" => "Velocity equal to Earth’s gravitational acceleration.",
+"name_bg" => "",
+],
+863 => [
+"name" => "Magnetic boots .",
+"name_bg" => "",
+],
+864 => [
+"name" => "Currently, scientists cannot put organisms under induced hibernation.",
+"name_bg" => "",
+],
+865 => [
+"name" => "Scientists can induce hibernation but the after-hibernation recovery remains a significant problem.",
+"name_bg" => "",
+],
+866 => [
+"name" => "With today’s understanding of hibernation, one can use it successfully on astronauts.",
+"name_bg" => "",
+],
+867 => [
+"name" => "Induced hibernation is most likely not achievable for organisms which are not naturally hibernating.",
+"name_bg" => "",
+],
+868 => [
+"name" => "Induced hibernation is no longer of any interest to the space sector.",
+"name_bg" => "",
+],
+869 => [
+"name" => "Hibernation is most likely not achievable in the conceivable future.",
+"name_bg" => "",
+],
+870 => [
+"name" => "By introducing new type of food.",
+"name_bg" => "",
+],
+871 => [
+"name" => "By consuming more liquids.",
+"name_bg" => "",
+],
+872 => [
+"name" => "By modifying the genetic structure of the organism.",
+"name_bg" => "",
+],
+873 => [
+"name" => "By growing the organism with specific radiation conditions.",
+"name_bg" => "",
+],
+874 => [
+"name" => "By implanting certain glands from hibernating animals.",
+"name_bg" => "",
+],
+875 => [
+"name" => "By dehydrating the bodies prior to them entering hibernation state.",
+"name_bg" => "",
+],
+876 => [
+"name" => "Physical degradation",
+"name_bg" => "",
+],
+877 => [
+"name" => "Dilution",
+"name_bg" => "",
+],
+878 => [
+"name" => "Recrystallization",
+"name_bg" => "",
+],
+879 => [
+"name" => "Chemical degradation",
+"name_bg" => "",
+],
+880 => [
+],
+881 => [
+],
+882 => [
+"name" => "It has not been tested yet.",
+"name_bg" => "",
+],
+883 => [
+"name" => "Only if the vibrations are in low gravity environment.",
+"name_bg" => "",
+],
+884 => [
+"name" => "Because they are especially sensitive to radiation.",
+"name_bg" => "",
+],
+885 => [
+"name" => "Because they are especially sensitive to low gravity.",
+"name_bg" => "",
+],
+886 => [
+"name" => "Because they are especially sensitive to low illumination.",
+"name_bg" => "",
+],
+887 => [
+"name" => "Because they are especially sensitive to vibration.",
+"name_bg" => "",
+],
+888 => [
+"name" => "Because they are especially sensitive to acceleration.",
+"name_bg" => "",
+],
+889 => [
+"name" => "Because of the possibility of a catastrophic event.",
+"name_bg" => "",
+],
+890 => [
+"name" => "Because of our natural need to explore.",
+"name_bg" => "",
+],
+891 => [
+"name" => "Because of the current overpopulation of the Earth.",
+"name_bg" => "",
+],
+892 => [
+"name" => "Because of the expansion of the Sun.",
+"name_bg" => "",
+],
+893 => [
+"name" => "Because of the loss of the Earth’s atmosphere.",
+"name_bg" => "",
+],
+894 => [
+"name" => "Because of commercial uses of other planets.",
+"name_bg" => "",
+],
+895 => [
+],
+896 => [
+],
+897 => [
+],
+898 => [
+],
+899 => [
+"name" => "Magnetic boots.",
+"name_bg" => "",
+],
+900 => [
+"name" => "Concentration (active compound, degradation products).",
+"name_bg" => "",
+],
+901 => [
+"name" => "Loss of formulation uniformity.",
+"name_bg" => "",
+],
+902 => [
+"name" => "Alteration in dissolution/disintegration.",
+"name_bg" => "",
+],
+903 => [
+"name" => "None of these.",
+"name_bg" => "",
+],
+904 => [
+"name" => "In the zero gravity environment on the spacecraft.",
+"name_bg" => "",
+],
+905 => [
+"name" => "During hibernation on the surface.",
+"name_bg" => "",
+],
+906 => [
+"name" => "While lifting heavy objects on the spacecraft.",
+"name_bg" => "",
+],
+907 => [
+"name" => "During the landing procedure.",
+"name_bg" => "",
+],
+908 => [
+"name" => "During a small correction maneuver while in the spacecraft.",
+"name_bg" => "",
+],
+909 => [
+"name" => "EMG can be used for Exoskeleton control, but there are difficulties in interpretation of the signals.",
+"name_bg" => "",
+],
+910 => [
+"name" => "Exoskeletons can be used only on other planets with low gravity, as they are supposed to be very heavy on Earth.",
+"name_bg" => "",
+],
+911 => [
+"name" => "Electromyography signal for muscle contraction (EMG) can’t be used for Exoskeleton control, because it is too weak.",
+"name_bg" => "",
+],
+912 => [
+"name" => "In some designs, control methods include pressure sensors, which transmit signals to the exoskeleton with contraction of the muscles.",
+"name_bg" => "",
+],
+913 => [
+"name" => "Exoskeletons are still in the concept phase and will not be used soon.",
+"name_bg" => "",
+],
+914 => [
+"name" => "Exoskeletons are operational at the moment but more improvements are needed.",
+"name_bg" => "",
+],
+915 => [
+"name" => "Exoskeletons are already well integrated in everyday life.",
+"name_bg" => "",
+],
+916 => [
+"name" => "Exoskeletons are most likely not feasible in the conceivable future.",
+"name_bg" => "",
+],
+917 => [
+"name" => "In dynamic situation, cameras are proper and best receptors for exoskeleton system.",
+"name_bg" => "",
+],
+918 => [
+"name" => "In dynamic situation, ongoing feedback is essential for control.",
+"name_bg" => "",
+],
+919 => [
+"name" => "The superficial receptors cover very limited area and you need less of them to cover whole area.",
+"name_bg" => "",
+],
+920 => [
+"name" => "Proprioception gives information for orientation of the movement of the body in space and for relative positions of the limbs.",
+"name_bg" => "",
+],
+921 => [
+"name" => "Rapidly adapting receptors.",
+"name_bg" => "",
+],
+922 => [
+"name" => "Slowly adapting receptors.",
+"name_bg" => "",
+],
+923 => [
+"name" => "None of them because the cup may be with body temperature.",
+"name_bg" => "",
+],
+924 => [
+"name" => "It depends on your gender.",
+"name_bg" => "",
+],
+925 => [
+"name" => "It depends on your age.",
+"name_bg" => "",
+],
+926 => [
+"name" => "All reflexes are controlled by the brain.",
+"name_bg" => "",
+],
+927 => [
+"name" => "Spinal response is a protective mechanism and is faster than voluntary response.",
+"name_bg" => "",
+],
+928 => [
+"name" => "Body reflexes can be used in exoskeleton control also as a tool to enhance movement force by triggering the reflex response.",
+"name_bg" => "",
+],
+929 => [
+"name" => "Reflexes are not adapting to the other types of movements.",
+"name_bg" => "",
+],
+930 => [
+"name" => "They can repair tissue.",
+"name_bg" => "",
+],
+931 => [
+"name" => "They can work with humans.",
+"name_bg" => "",
+],
+932 => [
+"name" => "They are self-replicating.",
+"name_bg" => "",
+],
+933 => [
+"name" => "They are microscopic.",
+"name_bg" => "",
+],
+934 => [
+"name" => "They are built in large numbers.",
+"name_bg" => "",
+],
+935 => [
+"name" => "They are built from living cells.",
+"name_bg" => "",
+],
+936 => [
+"name" => "Biology provides flexible, low mass, self-replicating systems.",
+"name_bg" => "",
+],
+937 => [
+"name" => "The launch cost of Carbon dioxide is very high and that’s why CO 2 is produced from water by electrophoresis.",
+"name_bg" => "",
+],
+938 => [
+"name" => "All of the food on ISS is recycled.",
+"name_bg" => "",
+],
+939 => [
+"name" => "The Methane which people produce on ISS is vented out and the Carbon is lost.",
+"name_bg" => "",
+],
+940 => [
+"name" => "Closed systems on spacecraft are most likely impossible.",
+"name_bg" => "",
+],
+941 => [
+"name" => "Currently bioscience provides the water recycling systems on the ISS.",
+"name_bg" => "",
+],
+942 => [
+"name" => "No, biotechnology has no such potential.",
+"name_bg" => "",
+],
+943 => [
+"name" => "Yes, but only on much larger scales.",
+"name_bg" => "",
+],
+944 => [
+"name" => "No, but it can provide it in the distant future.",
+"name_bg" => "",
+],
+945 => [
+"name" => "Yes, and it will be used on the first colonies.",
+"name_bg" => "",
+],
+946 => [
+"name" => "linear - 200, exponential - 1024",
+"name_bg" => "",
+],
+947 => [
+"name" => "linear - 20, exponential - 1024",
+"name_bg" => "",
+],
+948 => [
+"name" => "linear - 2000, exponential - 102.4",
+"name_bg" => "",
+],
+949 => [
+"name" => "linear - 2, exponential - 2048",
+"name_bg" => "",
+],
+950 => [
+"name" => "linear - 20, exponential - 512",
+"name_bg" => "",
+],
+951 => [
+"name" => "linear - 2, exponential - 1024",
+"name_bg" => "",
+],
+952 => [
+"name" => "Because it is inhumane.",
+"name_bg" => "",
+],
+953 => [
+"name" => "Because downloading and uploading them is hard.",
+"name_bg" => "",
+],
+954 => [
+"name" => "Because those 3GBs only hold the \"software\" of humans and the hardware takes much more space.",
+"name_bg" => "",
+],
+955 => [
+"name" => "Because those 3GBs only hold the \"hardware\" of humans and the software takes much more space.",
+"name_bg" => "",
+],
+956 => [
+"name" => "Black hole",
+"name_bg" => "",
+],
+957 => [
+"name" => "A point where a function is discontinuous.",
+"name_bg" => "",
+],
+958 => [
+"name" => "The merging of machines with humans.",
+"name_bg" => "",
+],
+959 => [
+"name" => "A function which is defined in a single point.",
+"name_bg" => "",
+],
+960 => [
+"name" => "A point in which a function is not analytical.",
+"name_bg" => "",
+],
+961 => [
+"name" => "The new internet that will connect more machines.",
+"name_bg" => "",
+],
+962 => [
+"name" => "They were more or less what we call conventional satellites - large and reliable.",
+"name_bg" => "",
+],
+963 => [
+"name" => "They were like the conventional satellites - large but were not as reliable.",
+"name_bg" => "",
+],
+964 => [
+"name" => "They were small satellites and were not very reliable.",
+"name_bg" => "",
+],
+965 => [
+"name" => "They were small satellites but were much more reliable than the small satellites today.",
+"name_bg" => "",
+],
+966 => [
+"name" => "The larger the craft the lower the cost.",
+"name_bg" => "",
+],
+967 => [
+"name" => "The larger the craft the higher the cost.",
+"name_bg" => "",
+],
+968 => [
+"name" => "Cost increases with size for seacraft but decreases with size for spacecraft.",
+"name_bg" => "",
+],
+969 => [
+"name" => "Cost decreases with size for seacraft but increases with size for spacecraft.",
+"name_bg" => "",
+],
+970 => [
+"name" => "They are mostly used for missions that are similar to those performed by satellites in the past.",
+"name_bg" => "",
+],
+971 => [
+"name" => "They are not used at all and are seen as toys.",
+"name_bg" => "",
+],
+972 => [
+"name" => "They are about to replace traditional satellites in all missions.",
+"name_bg" => "",
+],
+973 => [
+"name" => "They are quite useful for new types of missions but are normally not very good in dealing with traditional ones.",
+"name_bg" => "",
+],
+974 => [
+"name" => "Smaller satellites require less solar panels relative to their size.",
+"name_bg" => "",
+],
+975 => [
+"name" => "Larger satellites require less solar panels relative to their size.",
+"name_bg" => "",
+],
+976 => [
+"name" => "The requirement of solar panel surface relative to size does not depend on the satellite size itself.",
+"name_bg" => "",
+],
+977 => [
+"name" => "The requirement of solar panel surface relative to size becomes constant after a certain satellite size.",
+"name_bg" => "",
+],
+978 => [
+"name" => "Satellite A is more reliable.",
+"name_bg" => "",
+],
+979 => [
+"name" => "Satellite B is more reliable.",
+"name_bg" => "",
+],
+980 => [
+"name" => "Both satellites are roughly equally reliable.",
+"name_bg" => "",
+],
+981 => [
+"name" => "There isn’t sufficient data to answer.",
+"name_bg" => "",
+],
+982 => [
+"name" => "More money should be given to the space agencies for popularisation of space.",
+"name_bg" => "",
+],
+983 => [
+"name" => "People should be allowed to use space technology for their own purposes so the space sector can grow like all the others.",
+"name_bg" => "",
+],
+984 => [
+"name" => "Space has become too commercial and space agencies should take it back.",
+"name_bg" => "",
+],
+985 => [
+"name" => "All people should become acquainted with space science and help in the development of technologies for space.",
+"name_bg" => "",
+],
+986 => [
+"name" => "The space sector is strictly government property and commercial spaceflight will should not be allowed.",
+"name_bg" => "",
+],
+987 => [
+"name" => "People who have no information about space should be managing the space sector.",
+"name_bg" => "",
+],
+988 => [
+"name" => "Satellites are becoming an integral part of way of life.",
+"name_bg" => "",
+],
+989 => [
+"name" => "Satellites are already an integral part of our way of life.",
+"name_bg" => "",
+],
+990 => [
+"name" => "In the future, satellites may become an integral part of our lives.",
+"name_bg" => "",
+],
+991 => [
+"name" => "Satellites will never be important for our way of life.",
+"name_bg" => "",
+],
+992 => [
+"name" => "Satellites used to be an important part of our lives.",
+"name_bg" => "",
+],
+993 => [
+"name" => "Weather Forecasting",
+"name_bg" => "",
+],
+994 => [
+"name" => "Earth Observation",
+"name_bg" => "",
+],
+995 => [
+"name" => "Global Internet Broadcast",
+"name_bg" => "",
+],
+996 => [
+"name" => "Deep Space Observations",
+"name_bg" => "",
+],
+997 => [
+"name" => "Interplanetary exploration",
+"name_bg" => "",
+],
+998 => [
+"name" => "Solar Observation",
+"name_bg" => "",
+],
+999 => [
+"name" => "Ground deformation",
+"name_bg" => "",
+],
+1000 => [
+"name" => "Oil spills",
+"name_bg" => "",
+],
+1001 => [
+"name" => "Marinecraft movement",
+"name_bg" => "",
+],
+1002 => [
+"name" => "Individuals movement",
+"name_bg" => "",
+],
+1003 => [
+"name" => "Satellites have improved weather forecasting tremendously.",
+"name_bg" => "",
+],
+1004 => [
+"name" => "Weather forecasting relies solely on satellites.",
+"name_bg" => "",
+],
+1005 => [
+"name" => "Weather forecasting is older than satellites but has truly become accurate mostly because of them.",
+"name_bg" => "",
+],
+1006 => [
+"name" => "Reliability of weather forecasting for near future (a few days) has reached more than 90% in recent years.",
+"name_bg" => "",
+],
+1007 => [
+"name" => "Before satellites, weather forecasting was much better for the Northern hemisphere.",
+"name_bg" => "",
+],
+1008 => [
+"name" => "Before satellites, weather forecasting was not nearly as reliable as it is today.",
+"name_bg" => "",
+],
+1009 => [
+"name" => "By acquiring more data closer to the surface.",
+"name_bg" => "",
+],
+1010 => [
+"name" => "By acquiring more data in space above the surface.",
+"name_bg" => "",
+],
+1011 => [
+"name" => "By building fewer but larger satellites.",
+"name_bg" => "",
+],
+1012 => [
+"name" => "By using local satellites.",
+"name_bg" => "",
+],
+1013 => [
+"name" => "By acquiring more data globally.",
+"name_bg" => "",
+],
+1014 => [
+"name" => "By using faster satellites.",
+"name_bg" => "",
+],
+1015 => [
+"name" => "A constellation of large satellites.",
+"name_bg" => "",
+],
+1016 => [
+"name" => "A single large satellite.",
+"name_bg" => "",
+],
+1017 => [
+"name" => "A constellation of small satellites.",
+"name_bg" => "",
+],
+1018 => [
+"name" => "A single small satellite.",
+"name_bg" => "",
+],
+1019 => [
+"name" => "It is better but less reliable",
+"name_bg" => "",
+],
+1020 => [
+"name" => "It is better and more reliable",
+"name_bg" => "",
+],
+1021 => [
+"name" => "It is worse and less reliable",
+"name_bg" => "",
+],
+1022 => [
+"name" => "It is worse but more reliable",
+"name_bg" => "",
+],
+1023 => [
+"name" => "It is mostly the same in terms of both reliability and quality.",
+"name_bg" => "",
+],
+1024 => [
+"name" => "No, even theoretically it is an impossibility due to volume/surface ratios involved.",
+"name_bg" => "",
+],
+1025 => [
+"name" => "Yes in theory, but the technology needed is still a few years away.",
+"name_bg" => "",
+],
+1026 => [
+"name" => "No, theoretically it is possible but the technology required is hundreds of years away.",
+"name_bg" => "",
+],
+1027 => [
+"name" => "Yes, there are such vehicles even now.",
+"name_bg" => "",
+],
+1028 => [
+"name" => "They can be used as cheap small satellites.",
+"name_bg" => "",
+],
+1029 => [
+"name" => "They can provide additional information that satellites cannot.",
+"name_bg" => "",
+],
+1030 => [
+"name" => "They do not have many applications besides being expensive toys.",
+"name_bg" => "",
+],
+1031 => [
+"name" => "The information they provide is global and so they can complement local satellite data for better accuracy.",
+"name_bg" => "",
+],
+1032 => [
+"name" => "The information they provide is local and so they can complement global satellite data for better accuracy.",
+"name_bg" => "",
+],
+1033 => [
+"name" => "Reshaped by used demand.",
+"name_bg" => "",
+],
+1034 => [
+"name" => "Latest technology used.",
+"name_bg" => "",
+],
+1035 => [
+"name" => "Only qualified technology used.",
+"name_bg" => "",
+],
+1036 => [
+"name" => "Focus on system performance.",
+"name_bg" => "",
+],
+1037 => [
+"name" => "Focus on individual spacecraft performance.",
+"name_bg" => "",
+],
+1038 => [
+"name" => "Funded by the needs of the market.",
+"name_bg" => "",
+],
+1039 => [
+"name" => "Long time interval from concept phase to realization.",
+"name_bg" => "",
+],
+1040 => [
+"name" => "“Rigid” launch strategies.",
+"name_bg" => "",
+],
+1041 => [
+],
+1042 => [
+],
+1043 => [
+],
+1044 => [
+],
+1045 => [
+"name" => "At least 2 but 3 are required in practice.",
+"name_bg" => "",
+],
+1046 => [
+"name" => "At least 2 but 4 are required in practice.",
+"name_bg" => "",
+],
+1047 => [
+"name" => "At least 3 but 4 are required in practice.",
+"name_bg" => "",
+],
+1048 => [
+"name" => "At least 4 but 5 are required in practice.",
+"name_bg" => "",
+],
+1049 => [
+"name" => "At least 3 but 5 are required in practice.",
+"name_bg" => "",
+],
+1050 => [
+"name" => "GPS",
+"name_bg" => "",
+],
+1051 => [
+"name" => "Galileo",
+"name_bg" => "",
+],
+1052 => [
+"name" => "EGNOS",
+"name_bg" => "",
+],
+1053 => [
+"name" => "GLONASS",
+"name_bg" => "",
+],
+1054 => [
+"name" => "Its size has been steadily increasing and is soon going to decrease.",
+"name_bg" => "",
+],
+1055 => [
+"name" => "Its size has been increasing and will continue to increase even faster.",
+"name_bg" => "",
+],
+1056 => [
+"name" => "Its size has been steadily decreasing, but is soon going to increase.",
+"name_bg" => "",
+],
+1057 => [
+"name" => "Its size has been increasing and will soon reach a maximum.",
+"name_bg" => "",
+],
+1058 => [
+"name" => "No, satellites are an essential component.",
+"name_bg" => "",
+],
+1059 => [
+"name" => "Yes, but such are normally used only as a backup.",
+"name_bg" => "",
+],
+1060 => [
+"name" => "No, the required ground transmission technology is too complicated.",
+"name_bg" => "",
+],
+1061 => [
+"name" => "Yes, but people are not considering them.",
+"name_bg" => "",
+],
+1062 => [
+"name" => "Jamming is simply dampening signal, while spoofing is feeding wrong signals.",
+"name_bg" => "",
+],
+1063 => [
+"name" => "Spoofing is simply dampening signal, while jamming is feeding wrong signals.",
+"name_bg" => "",
+],
+1064 => [
+"name" => "There is virtually no difference.",
+"name_bg" => "",
+],
+1065 => [
+"name" => "Jamming is dampening caused intentionally, while spoofing is loss of signal.",
+"name_bg" => "",
+],
+1066 => [
+"name" => "Poor availability of existing GNSS infrastructure in Europe.",
+"name_bg" => "",
+],
+1067 => [
+"name" => "Strictly military use of existing GNSS infrastructure in Europe.",
+"name_bg" => "",
+],
+1068 => [
+"name" => "Desire to reduce reliability on foreign GNSS infrastructure.",
+"name_bg" => "",
+],
+1069 => [
+"name" => "Frequent downtime for existing GNSS infrastructure.",
+"name_bg" => "",
+],
+1070 => [
+],
+1071 => [
+"name" => "Augmentation systems are more advanced GPS systems.",
+"name_bg" => "",
+],
+1072 => [
+"name" => "Augmentation systems provide higher accuracy for existing systems.",
+"name_bg" => "",
+],
+1073 => [
+"name" => "Augmentation systems use several constellations of GPS systems.",
+"name_bg" => "",
+],
+1074 => [
+"name" => "Augmentation systems use more satellites.",
+"name_bg" => "",
+],
+1075 => [
+"name" => "Augmentation systems use less satellites.",
+"name_bg" => "",
+],
+1076 => [
+"name" => "EGNOS will allow pilots in Europe to land using the system.",
+"name_bg" => "",
+],
+1077 => [
+"name" => "EGNOS will allow pilots in Europe and in the US to land using the system.",
+"name_bg" => "",
+],
+1078 => [
+"name" => "EGNOS will allow pilots in Europe to land on certain airports using the system.",
+"name_bg" => "",
+],
+1079 => [
+"name" => "EGNOS will completely take the role of GPS in Europe.",
+"name_bg" => "",
+],
+1080 => [
+"name" => "EGNOS will allow pilots in the world to land using the system.",
+"name_bg" => "",
+],
+1081 => [
+"name" => "EGNOS will make pilots unnecessary at take off and landing.",
+"name_bg" => "",
+],
+1082 => [
+"name" => "A situation where the Position Error exceeds the Alert Limit without warning the user.",
+"name_bg" => "",
+],
+1083 => [
+"name" => "A situation where the Position Error exceeds the Alert Limit regardless of the knowledge of the user.",
+"name_bg" => "",
+],
+1084 => [
+"name" => "A situation where the Position Error exceeds the Alert Limit but the user is warned.",
+"name_bg" => "",
+],
+1085 => [
+"name" => "A situation where the Position Error is about to cross the Alert Limit.",
+"name_bg" => "",
+],
+1086 => [
+"name" => "Larger and more complex missions should be undertaken in space.",
+"name_bg" => "",
+],
+1087 => [
+"name" => "More infrastructure should be built in space to make it more available.",
+"name_bg" => "",
+],
+1088 => [
+"name" => "Missions are the only way we can continue developing the Space Sector.",
+"name_bg" => "",
+],
+1089 => [
+"name" => "Building infrastructure will make space cheaper and must be avoided.",
+"name_bg" => "",
+],
+1090 => [
+"name" => "Space is a highly specialized field and should not be made readily available.",
+"name_bg" => "",
+],
+1091 => [
+"name" => "Space infrastructure may cause the downfall of the space sector by making everything cheaper.",
+"name_bg" => "",
+],
+1092 => [
+"name" => "Stop science missions since they have little return value.",
+"name_bg" => "",
+],
+1093 => [
+"name" => "Completely commercialize space to increase income.",
+"name_bg" => "",
+],
+1094 => [
+"name" => "Forbid the commercialization of space as it has a negative effect.",
+"name_bg" => "",
+],
+1095 => [
+"name" => "Start making space more available to the average person.",
+"name_bg" => "",
+],
+1096 => [
+"name" => "Replace engineers and qualified personnel in the space sector.",
+"name_bg" => "",
+],
+1097 => [
+"name" => "Train a new generation of engineers who think more like people who are not a part of the space sector.",
+"name_bg" => "",
+],
+1098 => [
+"name" => "It gives people false hopes and does not help real science and technology.",
+"name_bg" => "",
+],
+1099 => [
+"name" => "It makes people dream and pursue new technologies and knowledge and thus helps the Space Sector.",
+"name_bg" => "",
+],
+1100 => [
+"name" => "It has mostly negative effect because it makes the public expect too much of the Space Sector.",
+"name_bg" => "",
+],
+1101 => [
+"name" => "It has mostly positive effect because it depicts the real situation in space and gets people interested.",
+"name_bg" => "",
+],
+1102 => [
+"name" => "It has primarily negative effect since it makes everything look easy.",
+"name_bg" => "",
+],
+1103 => [
+"name" => "They have low surface gravity.",
+"name_bg" => "",
+],
+1104 => [
+"name" => "Some of them have high abundance of useful materials.",
+"name_bg" => "",
+],
+1105 => [
+"name" => "They are generally not very close to Earth.",
+"name_bg" => "",
+],
+1106 => [
+"name" => "There is a huge amount of asteroids in the Solar System.",
+"name_bg" => "",
+],
+1107 => [
+"name" => "No, changing the orbital radius depends only on the difference between the initial and the final radius.",
+"name_bg" => "",
+],
+1108 => [
+"name" => "Yes, changing the orbital radius with the same amount further from the Earth takes less energy.",
+"name_bg" => "",
+],
+1109 => [
+"name" => "No, changing the orbital radius with the same amount further from the Earth takes more energy.",
+"name_bg" => "",
+],
+1110 => [
+"name" => "Yes, beyond MEO orbital maneuvers take the same amount of fuel no matter the radius change.",
+"name_bg" => "",
+],
+1111 => [
+"name" => "Outside the atmosphere large telescopes perform worse than small telescopes because of the lack of physical medium.",
+"name_bg" => "",
+],
+1112 => [
+"name" => "They are more reliable this way since failure of one will not affect the others.",
+"name_bg" => "",
+],
+1113 => [
+"name" => "They cost less because paying for several launches has a discount.",
+"name_bg" => "",
+],
+1114 => [
+"name" => "Outside the atmosphere after a certain size of the telescope there isn\\\'t much improvement in image for larger ones.",
+"name_bg" => "",
+],
+1115 => [
+"name" => "They can track a larger portion of the sky at the same time.",
+"name_bg" => "",
+],
+1116 => [
+"name" => "Deep activity fragmentation",
+"name_bg" => "",
+],
+1117 => [
+"name" => "Deep activity integration",
+"name_bg" => "",
+],
+1118 => [
+"name" => "Low level of involved technologies",
+"name_bg" => "",
+],
+1119 => [
+"name" => "Average level of involved technologies",
+"name_bg" => "",
+],
+1120 => [
+"name" => "None of the listed",
+"name_bg" => "",
+],
+1121 => [
+"name" => "What activities should be done",
+"name_bg" => "",
+],
+1122 => [
+"name" => "Who should do the activities",
+"name_bg" => "",
+],
+1123 => [
+"name" => "When should the activities be done",
+"name_bg" => "",
+],
+1124 => [
+"name" => "How much will the activities cost",
+"name_bg" => "",
+],
+1125 => [
+"name" => "How should the activities be done",
+"name_bg" => "",
+],
+1126 => [
+"name" => "It is a subjective analytical tool and it is not always reliable.",
+"name_bg" => "",
+],
+1127 => [
+"name" => "It is a purely objective analytical tool that is always reliable.",
+"name_bg" => "",
+],
+1128 => [
+"name" => "It is a subjective analytical tool which is generally unreliable.",
+"name_bg" => "",
+],
+1129 => [
+"name" => "It is a purely objective analytical tool but it is not always reliable.",
+"name_bg" => "",
+],
+1130 => [
+"name" => "None of the listed.",
+"name_bg" => "",
+],
+1131 => [
+"name" => "Working alone is always better than working in a team.",
+"name_bg" => "",
+],
+1132 => [
+"name" => "Working in a team is usually better than working alone.",
+"name_bg" => "",
+],
+1133 => [
+"name" => "Working alone allows you to make better choices faster.",
+"name_bg" => "",
+],
+1134 => [
+"name" => "Working in a team limits your ideas and inhibits you.",
+"name_bg" => "",
+],
+1135 => [
+"name" => "Large teams always work better and make for better companies.",
+"name_bg" => "",
+],
+1136 => [
+"name" => "Small teams always work better and make for better companies.",
+"name_bg" => "",
+],
+1137 => [
+"name" => "Large teams are far more capable than smaller ones simply because of the many people involved.",
+"name_bg" => "",
+],
+1138 => [
+"name" => "Small teams allow better communication and generally are the more motivated and determined.",
+"name_bg" => "",
+],
+1139 => [
+"name" => "Entrepreneurship has had a huge role to play but its importance is now diminishing.",
+"name_bg" => "",
+],
+1140 => [
+"name" => "Entrepreneurship has had a huge role to play and is more important now than ever.",
+"name_bg" => "",
+],
+1141 => [
+"name" => "Entrepreneurship has been seen as mostly useless but has recently been recognized for its huge importance.",
+"name_bg" => "",
+],
+1142 => [
+"name" => "Entrepreneurship is still new and its future is uncertain.",
+"name_bg" => "",
+],
+1143 => [
+"name" => "Identify, Assess, Plan, Implement",
+"name_bg" => "",
+],
+1144 => [
+"name" => "Assess,Identify, Plan, Implement",
+"name_bg" => "",
+],
+1145 => [
+"name" => "Plan, Assess,Identify, Implement",
+"name_bg" => "",
+],
+1146 => [
+"name" => "Identify, Plan, Assess, Implement",
+"name_bg" => "",
+],
+1147 => [
+"name" => "Probability and timeline",
+"name_bg" => "",
+],
+1148 => [
+"name" => "Probability and impact",
+"name_bg" => "",
+],
+1149 => [
+"name" => "Probability and time for action",
+"name_bg" => "",
+],
+1150 => [
+"name" => "Probability and gain",
+"name_bg" => "",
+],
+1151 => [
+"name" => "Probability and prediction",
+"name_bg" => "",
+],
+1152 => [
+"name" => "Probability and loss",
+"name_bg" => "",
+],
+1153 => [
+"name" => "20/50",
+"name_bg" => "",
+],
+1154 => [
+"name" => "30/50",
+"name_bg" => "",
+],
+1155 => [
+"name" => "20/60",
+"name_bg" => "",
+],
+1156 => [
+"name" => "30/60",
+"name_bg" => "",
+],
+1157 => [
+],
+1158 => [
+"name" => "30/70",
+"name_bg" => "",
+],
+1159 => [
+"name" => "The more of the expertise that is assigned, the higher the risk.",
+"name_bg" => "",
+],
+1160 => [
+"name" => "The less of the expertise that is assigned, the higher the risk.",
+"name_bg" => "",
+],
+1161 => [
+"name" => "It depends on the analytical tools used.",
+"name_bg" => "",
+],
+1162 => [
+"name" => "The two are completely unrelated.",
+"name_bg" => "",
+],
+1163 => [
+"name" => "Watchlist for low priority risks.",
+"name_bg" => "",
+],
+1164 => [
+"name" => "Sorting of ranking based on the qualitative results.",
+"name_bg" => "",
+],
+1165 => [
+"name" => "Schedule Development.",
+"name_bg" => "",
+],
+1166 => [
+"name" => "Trends of qualitative analysis results.",
+"name_bg" => "",
+],
+1167 => [
+"name" => "Cost Estimating.",
+"name_bg" => "",
+],
+1168 => [
+"name" => "Activity duration estimating.",
+"name_bg" => "",
+],
+1169 => [
+],
+1170 => [
+"name" => "Plan contracting.",
+"name_bg" => "",
+],
+1171 => [
+"name" => "Grouping of risks,",
+"name_bg" => "",
+],
+1172 => [
+"name" => "Selecting sellers,",
+"name_bg" => "",
+],
+1173 => [
+"name" => "The parameters of the product are chosen by all the members in the very beginning based on customer needs.",
+"name_bg" => "",
+],
+1174 => [
+"name" => "The parameters of the product are strictly chosen by the coordinator at each step, evolving the product.",
+"name_bg" => "",
+],
+1175 => [
+"name" => "Many teams work in parallel but a single coordinator makes the decisions.",
+"name_bg" => "",
+],
+1176 => [
+"name" => "A coordinator works with many teams and gives them problems depending on their expertise.",
+"name_bg" => "",
+],
+1177 => [
+"name" => "Many teams work in parallel and all contribute to the decision making process.",
+"name_bg" => "",
+],
+1178 => [
+"name" => "All those related to the propulsion and avionics require inputs, the rest require outputs.",
+"name_bg" => "",
+],
+1179 => [
+"name" => "All those related to the propulsion and avionics require outputs, the rest require inputs.",
+"name_bg" => "",
+],
+1180 => [
+"name" => "All of them require both.",
+"name_bg" => "",
+],
+1181 => [
+"name" => "All of them require either of the two.",
+"name_bg" => "",
+],
+1182 => [
+"name" => "Spreadsheets",
+"name_bg" => "",
+],
+1183 => [
+"name" => "Email",
+"name_bg" => "",
+],
+1184 => [
+"name" => "Weekly meetings",
+"name_bg" => "",
+],
+1185 => [
+"name" => "It is not shared",
+"name_bg" => "",
+],
+1186 => [
+"name" => "Social networks",
+"name_bg" => "",
+],
+1187 => [
+"name" => "Specialized programs",
+"name_bg" => "",
+],
+1188 => [
+"name" => "Space was dominated by big companies and small satellites were regarded as toys.",
+"name_bg" => "",
+],
+1189 => [
+"name" => "Innovation was beginning to change the space sector into a more commercial field.",
+"name_bg" => "",
+],
+1190 => [
+"name" => "Engineers were generally absent in the Space Sector and thus quite needed.",
+"name_bg" => "",
+],
+1191 => [
+"name" => "Space was dominated by private companies which gradually dropped in numbers.",
+"name_bg" => "",
+],
+1192 => [
+"name" => "Space should only be used for scientific missions.",
+"name_bg" => "",
+],
+1193 => [
+"name" => "Space should primarily be used for entertainment.",
+"name_bg" => "",
+],
+1194 => [
+"name" => "Space, like all other sectors should be defined by user demands.",
+"name_bg" => "",
+],
+1195 => [
+"name" => "Space should be used according to the plans of the big companies.",
+"name_bg" => "",
+],
+1196 => [
+"name" => "Space is currently not used to entertainment.",
+"name_bg" => "",
+],
+1197 => [
+"name" => "Space is used for entertainment too much.",
+"name_bg" => "",
+],
+1198 => [
+],
+1199 => [
+],
+1200 => [
+],
+1201 => [
+],
+1202 => [
+"name" => "Each employee should strictly work on the workplace and acquaintances are not necessary.",
+"name_bg" => "",
+],
+1203 => [
+"name" => "Each employee should strictly work on the workplace, but a healthy family-like environment should be established.",
+"name_bg" => "",
+],
+1204 => [
+"name" => "Each employee should strictly work on the workplace and not be distracted with any form of socialization there.",
+"name_bg" => "",
+],
+1205 => [
+"name" => "Each employee should work on the workplace, but more importantly they should feel like home and not be asked to do much.",
+"name_bg" => "",
+],
+1206 => [
+"name" => "A large office space.",
+"name_bg" => "",
+],
+1207 => [
+"name" => "A mission to fulfil.",
+"name_bg" => "",
+],
+1208 => [
+"name" => "At least 20 employees.",
+"name_bg" => "",
+],
+1209 => [
+"name" => "Regular employee meetings for discussions.",
+"name_bg" => "",
+],
+1210 => [
+"name" => "Regular pizza meetings for discussions.",
+"name_bg" => "",
+],
+1211 => [
+"name" => "Complete control over the employees.",
+"name_bg" => "",
+],
+1212 => [
+"name" => "Large salaries",
+"name_bg" => "",
+],
+1213 => [
+"name" => "Personal motivation",
+"name_bg" => "",
+],
+1214 => [
+"name" => "Adaptive attitude",
+"name_bg" => "",
+],
+1215 => [
+"name" => "Solid border between employer and employees",
+"name_bg" => "",
+],
+1216 => [
+"name" => "Low salaries",
+"name_bg" => "",
+],
+1217 => [
+"name" => "Motivation based on salary raises",
+"name_bg" => "",
+],
+1218 => [
+"name" => "The satellite fairing is only released outside of the atmosphere.",
+"name_bg" => "",
+],
+1219 => [
+"name" => "The rocket should begin inclining to match Earth’s curvature after a certain height.",
+"name_bg" => "",
+],
+1220 => [
+"name" => "Rockets generally have several stages and most are jettisoned before reaching space.",
+"name_bg" => "",
+],
+1221 => [
+"name" => "Satellites need to use their engines continuously not to fall from orbit.",
+"name_bg" => "",
+],
+1222 => [
+"name" => "The further you are, the higher the velocity needed.",
+"name_bg" => "",
+],
+1223 => [
+"name" => "The further you are, the lower the velocity needed.",
+"name_bg" => "",
+],
+1224 => [
+"name" => "Orbital velocity is a constant for a given body (does not depend on orbital radius).",
+"name_bg" => "",
+],
+1225 => [
+"name" => "Orbital velocity depends on the orbiter (and not on the orbited body or orbital radius).",
+"name_bg" => "",
+],
+1226 => [
+"name" => "About 120 degrees East from where it was spotted.",
+"name_bg" => "",
+],
+1227 => [
+"name" => "About 120 degrees West from where it was spotted.",
+"name_bg" => "",
+],
+1228 => [
+"name" => "About 120 degrees South from where it was spotted.",
+"name_bg" => "",
+],
+1229 => [
+"name" => "At the exact same spot.",
+"name_bg" => "",
+],
+1230 => [
+"name" => "About 120 degrees North from where it was spotted.",
+"name_bg" => "",
+],
+1231 => [
+"name" => "The cannonball",
+"name_bg" => "",
+],
+1232 => [
+"name" => "The satellite part",
+"name_bg" => "",
+],
+1233 => [
+"name" => "They have roughly the same energy",
+"name_bg" => "",
+],
+1234 => [
+"name" => "It depends more on the shape than on the velocity",
+"name_bg" => "",
+],
+1235 => [
+"name" => "Because the martian atmosphere disturbs the signal.",
+"name_bg" => "",
+],
+1236 => [
+"name" => "Because the Solar radiation and the martian atmosphere disturb the signal.",
+"name_bg" => "",
+],
+1237 => [
+"name" => "Because the signal takes too long to get between Mars and Earth.",
+"name_bg" => "",
+],
+1238 => [
+"name" => "Because no human could pilot such a descent.",
+"name_bg" => "",
+],
+1239 => [
+"name" => "The heavier the spacecraft, the higher the orbital velocity needed.",
+"name_bg" => "",
+],
+1240 => [
+"name" => "The lighter the spacecraft, the higher the orbital velocity needed.",
+"name_bg" => "",
+],
+1241 => [
+"name" => "Orbital velocity does not depend on the mass of the spacecraft.",
+"name_bg" => "",
+],
+1242 => [
+"name" => "It depends on the shape of the spacecraft, but not on its mass.",
+"name_bg" => "",
+],
+1259 => [
+"name" => "white",
+"name_bg" => "",
+],
+1260 => [
+"name" => "gray with 30% black",
+"name_bg" => "",
+],
+1261 => [
+"name" => "gray with 60% black",
+"name_bg" => "",
+],
+1262 => [
+"name" => "black",
+"name_bg" => "",
+],
+1263 => [
+"name" => "Two identical spacecraft are built - one for the testing and one for the actual flight.",
+"name_bg" => "",
+],
+1264 => [
+"name" => "The actual spacecraft that will be flown is the one tested.",
+"name_bg" => "",
+],
+1265 => [
+"name" => "Many different models of the spacecraft are built to test each of the systems",
+"name_bg" => "",
+],
+1266 => [
+"name" => "Two models of the spacecraft are built but the one flying has limited tests so it does not get damaged.",
+"name_bg" => "",
+],
+1267 => [
+"name" => "Tests are rarely needed for spacecraft since they are built by experts.",
+"name_bg" => "",
+],
+1268 => [
+"name" => "Thermal model",
+"name_bg" => "",
+],
+1269 => [
+"name" => "Structural model",
+"name_bg" => "",
+],
+1270 => [
+"name" => "Radio-electric model",
+"name_bg" => "",
+],
+1271 => [
+"name" => "Engineering model",
+"name_bg" => "",
+],
+1272 => [
+"name" => "Electrical components in spacecraft can never interfere with one another.",
+"name_bg" => "",
+],
+1273 => [
+"name" => "Convective heat transfer is a viable cooling method for the exterior of a spacecraft.",
+"name_bg" => "",
+],
+1274 => [
+"name" => "Misalignments of sun sensors or star trackers do not normally result in errors of satellite orientation.",
+"name_bg" => "",
+],
+1275 => [
+"name" => "The Radio-electric tests are performed in a chamber which absorbs electromagnetic waves.",
+"name_bg" => "",
+],
+1276 => [
+"name" => "Misalignments of maneuvering thrusters do not result in any problems.",
+"name_bg" => "",
+],
+1277 => [
+"name" => "Random frequency realistic vibrations are used and then each component is checked for damage.",
+"name_bg" => "",
+],
+1278 => [
+"name" => "Low level sine curve is used so components are not damaged.",
+"name_bg" => "",
+],
+1279 => [
+"name" => "Low level sine curve is used after random frequency realistic vibrations to check components for damage.",
+"name_bg" => "",
+],
+1280 => [
+"name" => "Low level sine curve is used at first then random frequency realistic vibrations and then low level sine curve again to compare with initial results.",
+"name_bg" => "",
+],
+1281 => [
+"name" => "No, the power received does not depend on color of the surface.",
+"name_bg" => "",
+],
+1282 => [
+"name" => "Yes, the power received depends on the color of the surface.",
+"name_bg" => "",
+],
+1283 => [
+"name" => "No, while the power received depends on the color of the surface there are no surfaces that can change their color.",
+"name_bg" => "",
+],
+1284 => [
+"name" => "Yes, by changing the color we change the power from the Sun which reaches the spacecraft.",
+"name_bg" => "",
+],
+1285 => [
+],
+1286 => [
+],
+1287 => [
+],
+1288 => [
+],
+1289 => [
+"name" => "Yes, but only if the axis passes through the centre of mass.",
+"name_bg" => "",
+],
+1290 => [
+"name" => "Yes, but only if the axis is one of the major axes.",
+"name_bg" => "",
+],
+1291 => [
+"name" => "Yes, but only if the axis is one of the minor axes.",
+"name_bg" => "",
+],
+1292 => [
+"name" => "Yes, but only if the axis is one of the major or minor axes.",
+"name_bg" => "",
+],
+1293 => [
+"name" => "Yes, but only if the axis is relatively close to the centre of mass.",
+"name_bg" => "",
+],
+1294 => [
+"name" => "Yes, but only if the spacecraft is cylindrical or spherical.",
+"name_bg" => "",
+],
+1295 => [
+"name" => "Magnetorquer",
+"name_bg" => "",
+],
+1296 => [
+"name" => "Reaction wheel",
+"name_bg" => "",
+],
+1297 => [
+"name" => "Gravity boom",
+"name_bg" => "",
+],
+1298 => [
+"name" => "Ion thruster",
+"name_bg" => "",
+],
+1299 => [
+"name" => "The surface on the Earth which it covers.",
+"name_bg" => "",
+],
+1300 => [
+"name" => "A characteristic signal at the end of every message.",
+"name_bg" => "",
+],
+1301 => [
+"name" => "The device which is used to point the antenna.",
+"name_bg" => "",
+],
+1302 => [
+"name" => "The relative gain of the antenna.",
+"name_bg" => "",
+],
+1303 => [
+"name" => "The directivity of the antenna.",
+"name_bg" => "",
+],
+1304 => [
+"name" => "The effective area of the antenna.",
+"name_bg" => "",
+],
+1305 => [
+],
+1306 => [
+],
+1307 => [
+],
+1308 => [
+],
+1309 => [
+],
+1310 => [
+"name" => "They can direct the power only at desired areas.",
+"name_bg" => "",
+],
+1311 => [
+"name" => "They can emit more powerful signals overall.",
+"name_bg" => "",
+],
+1312 => [
+"name" => "They can use shorter wavelengths than typical antennas.",
+"name_bg" => "",
+],
+1313 => [
+"name" => "They can use longer wavelengths than typical antennas.",
+"name_bg" => "",
+],
+1314 => [
+"name" => "They have lower directivity.",
+"name_bg" => "",
+],
+1315 => [
+"name" => "They increase the footprint area.",
+"name_bg" => "",
+],
+1316 => [
+"name" => "Spheroid",
+"name_bg" => "",
+],
+1317 => [
+"name" => "Paraboloid",
+"name_bg" => "",
+],
+1318 => [
+"name" => "Hyperboloid",
+"name_bg" => "",
+],
+1319 => [
+"name" => "Cone",
+"name_bg" => "",
+],
+1320 => [
+"name" => "Ellipsoid",
+"name_bg" => "",
+],
+1321 => [
+"name" => "Front feed antenna",
+"name_bg" => "",
+],
+1322 => [
+"name" => "Off-axis feed antenna",
+"name_bg" => "",
+],
+1323 => [
+"name" => "Cassegrain",
+"name_bg" => "",
+],
+1324 => [
+"name" => "Gregorian",
+"name_bg" => "",
+],
+1325 => [
+"name" => "All the points in that space that have the same phase.",
+"name_bg" => "",
+],
+1326 => [
+"name" => "All the points in that space that form a sphere of given radius around the source.",
+"name_bg" => "",
+],
+1327 => [
+"name" => "All the points in that space that are equally distant from the source points.",
+"name_bg" => "",
+],
+1328 => [
+"name" => "All the points in that space moving with the same velocity away from the source.",
+"name_bg" => "",
+],
+1329 => [
+"name" => "All the points in that space that are forming a plane which is a certain distance from the source.",
+"name_bg" => "",
+],
+1330 => [
+"name" => "Crystalline structure",
+"name_bg" => "",
+],
+1331 => [
+"name" => "Amorphous structure",
+"name_bg" => "",
+],
+1332 => [
+"name" => "It depends on the shape of the arm",
+"name_bg" => "",
+],
+1333 => [
+"name" => "They are equally resilient",
+"name_bg" => "",
+],
+1334 => [
+"name" => "A device which changes its produced current with deformation.",
+"name_bg" => "",
+],
+1335 => [
+"name" => "A device which changes its conductivity with deformation.",
+"name_bg" => "",
+],
+1336 => [
+"name" => "A device which changes its inductance with deformation.",
+"name_bg" => "",
+],
+1337 => [
+"name" => "A device which changes its color with deformation.",
+"name_bg" => "",
+],
+1338 => [
+"name" => "A device which changes its resilience with deformation.",
+"name_bg" => "",
+],
+1339 => [
+"name" => "Resistance and capacitance are the real and imaginary parts of the impedance.",
+"name_bg" => "",
+],
+1340 => [
+"name" => "Impedance and resistance are the real and imaginary parts of the capacitance.",
+"name_bg" => "",
+],
+1341 => [
+"name" => "Capacitance and impedance are the real and imaginary parts of the resistance.",
+"name_bg" => "",
+],
+1342 => [
+"name" => "They have no connection.",
+"name_bg" => "",
+],
+1343 => [
+"name" => "By manipulating atoms in pairs to create the individual cells required.",
+"name_bg" => "",
+],
+1344 => [
+"name" => "By 3d printing with the atoms on elementary level to create the individual cells required.",
+"name_bg" => "",
+],
+1345 => [
+"name" => "By masking pieces with different layers of different thin films and resins.",
+"name_bg" => "",
+],
+1346 => [
+"name" => "They are naturally found.",
+"name_bg" => "",
+],
+1347 => [
+"name" => "It is caused by random fluctuations in the crystal structure.",
+"name_bg" => "",
+],
+1348 => [
+"name" => "It is caused by external displacement of the respective centres of charge.",
+"name_bg" => "",
+],
+1349 => [
+"name" => "It is caused by spontaneous displacement of the respective centres of charge.",
+"name_bg" => "",
+],
+1350 => [
+"name" => "The effect has not been explained yet.",
+"name_bg" => "",
+],
+1351 => [
+"name" => "It is caused by external displacement of the respective centres of gravity.",
+"name_bg" => "",
+],
+1352 => [
+"name" => "It is linear.",
+"name_bg" => "",
+],
+1353 => [
+"name" => "It is linear, but there is an interval in which it can be well approximated as nonlinear.",
+"name_bg" => "",
+],
+1354 => [
+"name" => "It is nonlinear, but there is an interval in which it can be well approximated as linear.",
+"name_bg" => "",
+],
+1355 => [
+"name" => "It is highly nonlinear.",
+"name_bg" => "",
+],
+1356 => [
+"name" => "The cheapest one",
+"name_bg" => "",
+],
+1357 => [
+"name" => "The most reliable one",
+"name_bg" => "",
+],
+1358 => [
+"name" => "The most expensive one",
+"name_bg" => "",
+],
+1359 => [
+"name" => "All three",
+"name_bg" => "",
+],
+1360 => [
+"name" => "The fastest one",
+"name_bg" => "",
+],
+1361 => [
+"name" => "The one with the best reputation",
+"name_bg" => "",
+],
+1362 => [
+"name" => "Sublimation from the surface of layer of materials in vacuum.",
+"name_bg" => "",
+],
+1363 => [
+"name" => "Evaporation of liquids in vacuum.",
+"name_bg" => "",
+],
+1364 => [
+"name" => "Production of CO2 from certain elements whose surface is exposed to vacuum.",
+"name_bg" => "",
+],
+1365 => [
+"name" => "A protective coating technology used in space telescopes.",
+"name_bg" => "",
+],
+1366 => [
+"name" => "Production of O2 from certain elements whose surface is exposed to vacuum.",
+"name_bg" => "",
+],
+1367 => [
+"name" => "Yes, such technologies are being developed right now.",
+"name_bg" => "",
+],
+1368 => [
+"name" => "No, laser waves are not electromagnetic waves.",
+"name_bg" => "",
+],
+1369 => [
+"name" => "Yes, such technologies are used right now.",
+"name_bg" => "",
+],
+1370 => [
+"name" => "No, the theoretical power needed would require a nuclear reactor onboard.",
+"name_bg" => "",
+],
+1371 => [
+"name" => "To use higher resolution cameras.",
+"name_bg" => "",
+],
+1372 => [
+"name" => "To use lower resolution cameras.",
+"name_bg" => "",
+],
+1373 => [
+"name" => "To use both types of cameras for different purposes.",
+"name_bg" => "",
+],
+1374 => [
+"name" => "Not to use cameras at all but record in infrared.",
+"name_bg" => "",
+],
+1375 => [
+"name" => "Constellations are getting smaller but satellites are getting larger.",
+"name_bg" => "",
+],
+1376 => [
+"name" => "Satellites are getting smaller but constellations are getting larger.",
+"name_bg" => "",
+],
+1377 => [
+"name" => "Both satellites and constellations are getting smaller.",
+"name_bg" => "",
+],
+1378 => [
+"name" => "Both satellites and constellations are getting larger.",
+"name_bg" => "",
+],
+1379 => [
+"name" => "No, charged particles are generally not affected by magnetic fields.",
+"name_bg" => "",
+],
+1380 => [
+"name" => "Yes, charged particles are generally affected by magnetic fields.",
+"name_bg" => "",
+],
+1381 => [
+"name" => "Whether they are affected depends on the charge of the particles.",
+"name_bg" => "",
+],
+1382 => [
+"name" => "Whether they are affected depends on the mass of the particles.",
+"name_bg" => "",
+],
+1383 => [
+"name" => "By taking many pictures at the highest elevation above the object.",
+"name_bg" => "",
+],
+1384 => [
+"name" => "By taking three pictures per second at the highest elevation above the object.",
+"name_bg" => "",
+],
+1385 => [
+"name" => "By taking pictures from opposing angles.",
+"name_bg" => "",
+],
+1386 => [
+"name" => "By using three cameras on your satellite for the picture.",
+"name_bg" => "",
+],
+1387 => [
+"name" => "They generally require more time for exposition to be of good quality.",
+"name_bg" => "",
+],
+1388 => [
+"name" => "They generally require less time for exposition to be of good quality.",
+"name_bg" => "",
+],
+1389 => [
+"name" => "They generally require higher resolution to be of good quality.",
+"name_bg" => "",
+],
+1390 => [
+"name" => "They generally require lower resolution to be of good quality.",
+"name_bg" => "",
+],
+1391 => [
+"name" => "Complete satellite maps of the Earth.",
+"name_bg" => "",
+],
+1392 => [
+"name" => "Complete satellite maps of the Earth every month.",
+"name_bg" => "",
+],
+1393 => [
+"name" => "Complete satellite maps of the Earth every week.",
+"name_bg" => "",
+],
+1394 => [
+"name" => "Complete satellite maps of the Earth every day.",
+"name_bg" => "",
+],
+1395 => [
+"name" => "Complete satellite maps of the Earth every year.",
+"name_bg" => "",
+],
+1396 => [
+"name" => "Yes, but only if they are physically connected.",
+"name_bg" => "",
+],
+1397 => [
+"name" => "No, any telescope must be composed of a single mirror or lenses.",
+"name_bg" => "",
+],
+1398 => [
+"name" => "Yes, in fact there are such plans for the future.",
+"name_bg" => "",
+],
+1399 => [
+"name" => "No, while it is theoretically possible, the high precision needed for formation flying or docking is not achievable.",
+"name_bg" => "",
+],
+1400 => [
+"name" => "Higher individual complexity and less reliance on other machines or people.",
+"name_bg" => "",
+],
+1401 => [
+"name" => "Higher network complexity and more reliance on other machines.",
+"name_bg" => "",
+],
+1402 => [
+"name" => "Higher network complexity and more reliance on people.",
+"name_bg" => "",
+],
+1403 => [
+"name" => "Higher individual complexity with more reliance on people.",
+"name_bg" => "",
+],
+1404 => [
+"name" => "No, at least a second one is required for comparison.",
+"name_bg" => "",
+],
+1405 => [
+"name" => "Yes, moving objects will be blurry even at lower resolution.",
+"name_bg" => "",
+],
+1406 => [
+"name" => "No, if the exposition is low enough the blurring will not be detectable.",
+"name_bg" => "",
+],
+1407 => [
+"name" => "Yes, with the use of spectroscopy and different sensors.",
+"name_bg" => "",
+],
+1408 => [
+"name" => "They give the final thrust before releasing the satellite.",
+"name_bg" => "",
+],
+1409 => [
+"name" => "They are the main thrust source of the rocket.",
+"name_bg" => "",
+],
+1410 => [
+"name" => "They give the initial “kick” for the rocket.",
+"name_bg" => "",
+],
+1411 => [
+"name" => "They are only ignited if the rocket needs a boost and are generally not used.",
+"name_bg" => "",
+],
+1412 => [
+"name" => "They are mostly used for maneuvers on satellites.",
+"name_bg" => "",
+],
+1413 => [
+"name" => "Approximately as sine of that angle.",
+"name_bg" => "",
+],
+1414 => [
+"name" => "Approximately as cosine of that angle",
+"name_bg" => "",
+],
+1415 => [
+"name" => "Approximately as tangent of that angle.",
+"name_bg" => "",
+],
+1416 => [
+"name" => "Approximately as cotangent of that angle.",
+"name_bg" => "",
+],
+1417 => [
+"name" => "Approximately as the secant of the angle.",
+"name_bg" => "",
+],
+1418 => [
+"name" => "Approximately as the cosecant of the angle.",
+"name_bg" => "",
+],
+1419 => [
+"name" => "Ariane 5",
+"name_bg" => "",
+],
+1420 => [
+"name" => "Soyuz",
+"name_bg" => "",
+],
+1421 => [
+"name" => "Vega",
+"name_bg" => "",
+],
+1422 => [
+"name" => "Ariane 6",
+"name_bg" => "",
+],
+1423 => [
+"name" => "The Space Shuttle",
+"name_bg" => "",
+],
+1424 => [
+"name" => "Progress",
+"name_bg" => "",
+],
+1425 => [
+"name" => "less than 1%",
+"name_bg" => "",
+],
+1426 => [
+"name" => "1%",
+"name_bg" => "",
+],
+1427 => [
+"name" => "2%",
+"name_bg" => "",
+],
+1428 => [
+"name" => "5%",
+"name_bg" => "",
+],
+1429 => [
+"name" => "10%",
+"name_bg" => "",
+],
+1430 => [
+"name" => "15%",
+"name_bg" => "",
+],
+1431 => [
+"name" => "Drag effect due to the atmosphere.",
+"name_bg" => "",
+],
+1432 => [
+"name" => "Lift effect due to the atmosphere.",
+"name_bg" => "",
+],
+1433 => [
+"name" => "Gravitational acceleration due to the Earth.",
+"name_bg" => "",
+],
+1434 => [
+"name" => "All of the rest.",
+"name_bg" => "",
+],
+1435 => [
+"name" => "The flight path is optimized so contact is never lost.",
+"name_bg" => "",
+],
+1436 => [
+"name" => "There are specially positioned ships to be used as stations for such cases.",
+"name_bg" => "",
+],
+1437 => [
+"name" => "No one - the launcher is controlling itself for the duration of the signal loss.",
+"name_bg" => "",
+],
+1438 => [
+"name" => "No one - the launcher is fully automatic from the beginning of the launch.",
+"name_bg" => "",
+],
+1439 => [
+"name" => "The launcher should only go upwards (with no inclination) until it leaves the atmosphere.",
+"name_bg" => "",
+],
+1440 => [
+"name" => "The launcher should leave the launch pad as slowly as possible so any problems can be detected early.",
+"name_bg" => "",
+],
+1441 => [
+"name" => "The trajectory of the launcher should take it above the ocean as soon as possible to reduce possible damage.",
+"name_bg" => "",
+],
+1442 => [
+"name" => "The trajectory of the launcher is free of constraints and everyone should be careful not to interfere with it.",
+"name_bg" => "",
+],
+1443 => [
+"name" => "The trajectory of the launcher should never take it above water.",
+"name_bg" => "",
+],
+1444 => [
+"name" => "The trajectory of the launcher is only constrained by weather conditions.",
+"name_bg" => "",
+],
+1445 => [
+"name" => "Solid booster engine.",
+"name_bg" => "",
+],
+1446 => [
+"name" => "Liquid fuel engine using atmospheric temperature liquid fuel.",
+"name_bg" => "",
+],
+1447 => [
+"name" => "Ion engine.",
+"name_bg" => "",
+],
+1448 => [
+"name" => "Liquid fuel engine using cryogenic liquid fuel.",
+"name_bg" => "",
+],
+1449 => [
+"name" => "About 7.5 m/sec",
+"name_bg" => "",
+],
+1450 => [
+"name" => "About 7.5 km/sec",
+"name_bg" => "",
+],
+1451 => [
+"name" => "About 10.7 m/sec",
+"name_bg" => "",
+],
+1452 => [
+"name" => "About 10.7 km/sec",
+"name_bg" => "",
+],
+1453 => [
+"name" => "About 9.2 m/sec",
+"name_bg" => "",
+],
+1454 => [
+"name" => "About 9.2 km/sec",
+"name_bg" => "",
+],
+1455 => [
+"name" => "It will only be focused on the Orion launches.",
+"name_bg" => "",
+],
+1456 => [
+"name" => "It will be used entirely for commercial services.",
+"name_bg" => "",
+],
+1457 => [
+"name" => "It will be used for more customers and vehicles.",
+"name_bg" => "",
+],
+1458 => [
+"name" => "It will only be used for military applications.",
+"name_bg" => "",
+],
+1459 => [
+"name" => "They are becoming less flexible and more demanding of a specific configuration.",
+"name_bg" => "",
+],
+1460 => [
+"name" => "They are becoming mobile platforms that can be replaced depending on the vehicle.",
+"name_bg" => "",
+],
+1461 => [
+"name" => "They are not changing at all and will most likely not change.",
+"name_bg" => "",
+],
+1462 => [
+"name" => "They are becoming smaller and smaller in order to be used primarily for commercial launch vehicles.",
+"name_bg" => "",
+],
+1463 => [
+"name" => "They are planning to exterminate the animals there.",
+"name_bg" => "",
+],
+1464 => [
+"name" => "They do not really care if the animals get hurt.",
+"name_bg" => "",
+],
+1465 => [
+"name" => "They are tasked with keeping the animals away from their territory.",
+"name_bg" => "",
+],
+1466 => [
+"name" => "They have to ensure the safety of the animals.",
+"name_bg" => "",
+],
+1467 => [
+"name" => "Bus Segment, Communications Segment, Ground Segment",
+"name_bg" => "",
+],
+1468 => [
+"name" => "Propulsion Segment, Space Segment, Ground Segment",
+"name_bg" => "",
+],
+1469 => [
+"name" => "Space Segment, Launch Segment, Ground Segment",
+"name_bg" => "",
+],
+1470 => [
+"name" => "Spacecraft Segment, Communication Segment, Launch Segment",
+"name_bg" => "",
+],
+1471 => [
+],
+1472 => [
+],
+1473 => [
+],
+1474 => [
+],
+1475 => [
+],
+1476 => [
+"name" => "Payload",
+"name_bg" => "",
+],
+1477 => [
+"name" => "Power",
+"name_bg" => "",
+],
+1478 => [
+"name" => "Propulsion",
+"name_bg" => "",
+],
+1479 => [
+"name" => "Thermal",
+"name_bg" => "",
+],
+1480 => [
+"name" => "Electrical",
+"name_bg" => "",
+],
+1481 => [
+"name" => "Communication",
+"name_bg" => "",
+],
+1482 => [
+"name" => "Architecture deals more with non-measurable quantities, while engineering is more exact.",
+"name_bg" => "",
+],
+1483 => [
+"name" => "Engineering deals more with non-measurable quantities, while architecture is more exact.",
+"name_bg" => "",
+],
+1484 => [
+"name" => "There is no difference.",
+"name_bg" => "",
+],
+1485 => [
+"name" => "The difference is in the level of mathematical knowledge required for each discipline.",
+"name_bg" => "",
+],
+1486 => [
+"name" => "The combination of the qualities of the elements in a system.",
+"name_bg" => "",
+],
+1487 => [
+"name" => "The new qualities in a system that are not present separately for the elements.",
+"name_bg" => "",
+],
+1488 => [
+"name" => "The new quality of an old system that has not been used before in this way.",
+"name_bg" => "",
+],
+1489 => [
+"name" => "The creation of a new system that has to perform like an old one in a better way.",
+"name_bg" => "",
+],
+1490 => [
+"name" => "One implies division of the components the other does not.",
+"name_bg" => "",
+],
+1491 => [
+"name" => "Both imply division of the components but Hierarchy also ranks them.",
+"name_bg" => "",
+],
+1492 => [
+"name" => "Both imply division of the components but Decomposition also ranks them.",
+"name_bg" => "",
+],
+1493 => [
+],
+1494 => [
+"name" => "Solutions to the problem should be trivial.",
+"name_bg" => "",
+],
+1495 => [
+"name" => "Solutions to the problem should be as simple as possible.",
+"name_bg" => "",
+],
+1496 => [
+"name" => "Solution to the problem should be as complex as possible.",
+"name_bg" => "",
+],
+1497 => [
+"name" => "Solution to the problem should be beautiful.",
+"name_bg" => "",
+],
+1498 => [
+"name" => "All options lead to beneficial effects.",
+"name_bg" => "",
+],
+1499 => [
+"name" => "All options lead to non-beneficial effects.",
+"name_bg" => "",
+],
+1500 => [
+"name" => "All options lead to some beneficial and some non-beneficial effects.",
+"name_bg" => "",
+],
+1501 => [
+"name" => "The tradespace can be enumerated regardless of dimension.",
+"name_bg" => "",
+],
+1502 => [
+"name" => "No, all good tradespaces should be enumerated.",
+"name_bg" => "",
+],
+1503 => [
+"name" => "Yes, no tradespace can be completely enumerated.",
+"name_bg" => "",
+],
+1504 => [
+"name" => "No, any tradespace can be enumerated.",
+"name_bg" => "",
+],
+1505 => [
+"name" => "Yes, some tradespaces can only be partially enumerated.",
+"name_bg" => "",
+],
+1506 => [
+"name" => "The people in charge of the system that has a problem",
+"name_bg" => "",
+],
+1507 => [
+"name" => "The Mission director",
+"name_bg" => "",
+],
+1508 => [
+"name" => "The Communications Officer",
+"name_bg" => "",
+],
+1509 => [
+"name" => "The Network Controller",
+"name_bg" => "",
+],
+1510 => [
+"name" => "The Medical officer",
+"name_bg" => "",
+],
+1511 => [
+"name" => "The Flight director knows all the details of the mission",
+"name_bg" => "",
+],
+1512 => [
+"name" => "Mission director",
+"name_bg" => "",
+],
+1513 => [
+"name" => "Flight operations management",
+"name_bg" => "",
+],
+1514 => [
+"name" => "The Department of defense",
+"name_bg" => "",
+],
+1515 => [
+"name" => "Flight director",
+"name_bg" => "",
+],
+1516 => [
+"name" => "In the US",
+"name_bg" => "",
+],
+1517 => [
+"name" => "In Europe",
+"name_bg" => "",
+],
+1518 => [
+"name" => "In Russia",
+"name_bg" => "",
+],
+1519 => [
+"name" => "All of the others",
+"name_bg" => "",
+],
+1520 => [
+],
+1521 => [
+],
+1522 => [
+],
+1523 => [
+"name" => "All of them do",
+"name_bg" => "",
+],
+1524 => [
+"name" => "Input",
+"name_bg" => "",
+],
+1525 => [
+"name" => "Output",
+"name_bg" => "",
+],
+1526 => [
+"name" => "Presentation",
+"name_bg" => "",
+],
+1527 => [
+"name" => "Explanation",
+"name_bg" => "",
+],
+1528 => [
+"name" => "The parameters of the product are chosen by all the members in the very beginning, based on customer needs.",
+"name_bg" => "",
+],
+1529 => [
+],
+1530 => [
+],
+1531 => [
+"name" => "A coordinator works with many teams and gives them problems, depending on their expertise.",
+"name_bg" => "",
+],
+1532 => [
+],
+1533 => [
+"name" => "Because it can contaminate the air inside.",
+"name_bg" => "",
+],
+1534 => [
+"name" => "Because it can cause huge difference in pressure.",
+"name_bg" => "",
+],
+1535 => [
+"name" => "Because it can contaminate the Martian environment with biological samples.",
+"name_bg" => "",
+],
+1536 => [
+"name" => "Because it can contaminate the inside of the suit with biological samples from Mars.",
+"name_bg" => "",
+],
+1537 => [
+"name" => "Because oxygen reacts explosively with the Martian atmosphere.",
+"name_bg" => "",
+],
+1538 => [
+],
+1539 => [
+],
+1540 => [
+],
+1541 => [
+"name" => "None",
+"name_bg" => "",
+],
+1542 => [
+"name" => "Ariane V",
+"name_bg" => "",
+],
+1543 => [
+"name" => "They will not need as much radiation protection.",
+"name_bg" => "",
+],
+1544 => [
+"name" => "They will not need to be pressurized due to Mars\\\' atmosphere.",
+"name_bg" => "",
+],
+1545 => [
+"name" => "They will need to have their mass reduced.",
+"name_bg" => "",
+],
+1546 => [
+"name" => "They will need to have their frames as rigid as possible.",
+"name_bg" => "",
+],
+1547 => [
+"name" => "They will need to be more automated and connected with other mission components.",
+"name_bg" => "",
+],
+1548 => [
+"name" => "They will require internal magnetic fields.",
+"name_bg" => "",
+],
+1549 => [
+"name" => "Spacesuits are used on the ISS for EVAs.",
+"name_bg" => "",
+],
+1550 => [
+"name" => "Spacesuits can be put on within one hour in case of emergency.",
+"name_bg" => "",
+],
+1551 => [
+"name" => "Spacesuits have been used since the dawn of Manned Space Exploration.",
+"name_bg" => "",
+],
+1552 => [
+"name" => "Spacesuits have evolved many times over the years.",
+"name_bg" => "",
+],
+1553 => [
+"name" => "New spacesuits are being developed for Mars at the moment.",
+"name_bg" => "",
+],
+1554 => [
+"name" => "Yes, even they vent some part of the atmosphere.",
+"name_bg" => "",
+],
+1555 => [
+"name" => "No, they have to contain the atmosphere.",
+"name_bg" => "",
+],
+1556 => [
+"name" => "Yes, but only if they are not well manufactured.",
+"name_bg" => "",
+],
+1557 => [
+"name" => "No, they only outgas from their surface.",
+"name_bg" => "",
+],
+1558 => [
+"name" => "They have low pressure.",
+"name_bg" => "",
+],
+1559 => [
+"name" => "They make walking and grabbing things much harder.",
+"name_bg" => "",
+],
+1560 => [
+"name" => "They cannot be manufactured yet.",
+"name_bg" => "",
+],
+1561 => [
+"name" => "They are too highly individual.",
+"name_bg" => "",
+],
+1562 => [
+"name" => "The materials they are made of are too expensive.",
+"name_bg" => "",
+],
+1563 => [
+"name" => "Astronauts on Mars will have to take more decisions on their own.",
+"name_bg" => "",
+],
+1564 => [
+"name" => "Astronauts on Mars will have to follow current protocol and ask Mission Control for permission before any action.",
+"name_bg" => "",
+],
+1565 => [
+"name" => "Astronauts on Mars will be given less freedom and be monitored more strictly.",
+"name_bg" => "",
+],
+1566 => [
+"name" => "Astronauts on Mars will not differ much from astronauts in LEO today.",
+"name_bg" => "",
+],
+1567 => [
+"name" => "Robots should be left to explore the planets and astronauts should only give them commands.",
+"name_bg" => "",
+],
+1568 => [
+"name" => "Astronauts should be left to explore the planets.",
+"name_bg" => "",
+],
+1569 => [
+"name" => "Robots and astronauts should work together for the exploration effort.",
+"name_bg" => "",
+],
+1570 => [
+"name" => "Since it is too dangerous for astronauts, we should leave space only to robots.",
+"name_bg" => "",
+],
+1571 => [
+"name" => "Robots are much more effective than astronauts when it comes to exploration.",
+"name_bg" => "",
+],
+1572 => [
+"name" => "Astronauts will need only the most essential information and it should be relayed by radio.",
+"name_bg" => "",
+],
+1573 => [
+"name" => "Astronauts will need access to more and more information and more interfaces and displays should be available for that reason.",
+"name_bg" => "",
+],
+1574 => [
+"name" => "Astronauts will need access to more and more information and more radio links should be established for that reason.",
+"name_bg" => "",
+],
+1575 => [
+"name" => "Astronauts will need only the most essential information and current systems will suffice.",
+"name_bg" => "",
+],
+1576 => [
+"name" => "Astronauts who are waiting to go on a mission.",
+"name_bg" => "",
+],
+1577 => [
+"name" => "People who were rejected as astronauts.",
+"name_bg" => "",
+],
+1578 => [
+"name" => "Ex astronauts who are no longer allowed to fly.",
+"name_bg" => "",
+],
+1579 => [
+"name" => "Astronauts that perform missions on Earth.",
+"name_bg" => "",
+],
+1580 => [
+"name" => "People who pretend to be astronauts as a hobby.",
+"name_bg" => "",
+],
+1581 => [
+],
+1582 => [
+],
+1583 => [
+],
+1584 => [
+],
+1585 => [
+],
+1586 => [
+"name" => "Because electronics normally produce CO2.",
+"name_bg" => "",
+],
+1587 => [
+"name" => "Because in Oxygen rich environment sparks can easily cause fire.",
+"name_bg" => "",
+],
+1588 => [
+"name" => "Because electronics need Nitrogen to function properly.",
+"name_bg" => "",
+],
+1589 => [
+"name" => "Because Oxygen rich environment is too conductive compared to normal air.",
+"name_bg" => "",
+],
+1590 => [
+"name" => "Because oxygen forms rust on electronics and limits their lifetime.",
+"name_bg" => "",
+],
+1595 => [
+"name" => "No, antennas emit only electromagnetic waves.",
+"name_bg" => "",
+],
+1596 => [
+"name" => "Yes, antennas emit only visible light.",
+"name_bg" => "",
+],
+1597 => [
+"name" => "No, antennas emit only radio waves.",
+"name_bg" => "",
+],
+1598 => [
+"name" => "Yes, antennas emit electromagnetic waves.",
+"name_bg" => "",
+],
+1599 => [
+"name" => "The higher its frequency the lower its wavelength.",
+"name_bg" => "",
+],
+1600 => [
+"name" => "The higher its frequency the higher its wavelength.",
+"name_bg" => "",
+],
+1601 => [
+"name" => "Depending on the type of electromagnetic wave, it could be either of the answers.",
+"name_bg" => "",
+],
+1602 => [
+"name" => "Frequency and wavelength are independent for a free electromagnetic wave.",
+"name_bg" => "",
+],
+1603 => [
+"name" => "They are devices that amplify energy received/emitted from a source.",
+"name_bg" => "",
+],
+1604 => [
+"name" => "They are devices that focus energy received/emitted from a source.",
+"name_bg" => "",
+],
+1605 => [
+"name" => "They are devices that dampen energy received/emitted from a source.",
+"name_bg" => "",
+],
+1606 => [
+"name" => "They are devices that can either amplify or dampen energy received/emitted from a source.",
+"name_bg" => "",
+],
+1607 => [
+"name" => "The aperture should be doubled",
+"name_bg" => "",
+],
+1608 => [
+"name" => "The aperture should be halved",
+"name_bg" => "",
+],
+1609 => [
+"name" => "Its aperture should be decreased 4 times",
+"name_bg" => "",
+],
+1610 => [
+"name" => "It can already be used to receive",
+"name_bg" => "",
+],
+1611 => [
+"name" => "Its aperture should be increased 4 times",
+"name_bg" => "",
+],
+1612 => [
+"name" => "Vertical linear polarization",
+"name_bg" => "",
+],
+1613 => [
+"name" => "Horizontal linear polarization",
+"name_bg" => "",
+],
+1614 => [
+"name" => "Right handed circular polarization",
+"name_bg" => "",
+],
+1615 => [
+"name" => "Left handed circular polarization",
+"name_bg" => "",
+],
+1616 => [
+"name" => "A is more directive than B",
+"name_bg" => "",
+],
+1617 => [
+"name" => "B is more directive than A",
+"name_bg" => "",
+],
+1618 => [
+"name" => "It depends on their type",
+"name_bg" => "",
+],
+1619 => [
+"name" => "It depends on the medium in which the electromagnetic waves are emitted",
+"name_bg" => "",
+],
+]
+

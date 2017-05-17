@@ -1,0 +1,261 @@
+
+
+[
+9 => [
+"name" => "Introduction to Antennas exam",
+"name_bg" => "",
+],
+10 => [
+"name" => "Spacecraft Robotics exam",
+"name_bg" => "",
+],
+11 => [
+"name" => "Mission Rosetta",
+"name_bg" => "",
+],
+12 => [
+"name" => "Orbita Dynamics exam",
+"name_bg" => "",
+],
+13 => [
+"name" => "Exoplanets exam",
+"name_bg" => "",
+],
+14 => [
+"name" => "Space Weather exam",
+"name_bg" => "",
+],
+15 => [
+"name" => "Cosmology exam",
+"name_bg" => "",
+],
+19 => [
+"name" => "Energetic particles test",
+"name_bg" => "",
+],
+20 => [
+"name" => "Atmospheric escape exam",
+"name_bg" => "",
+],
+21 => [
+"name" => "Nuclear Fusion test",
+"name_bg" => "",
+],
+22 => [
+"name" => "Information Management exam",
+"name_bg" => "",
+],
+23 => [
+"name" => "Life in Space exam",
+"name_bg" => "",
+],
+24 => [
+"name" => "Astrobiology stories exam",
+"name_bg" => "",
+],
+25 => [
+"name" => "Space Biosciences exam",
+"name_bg" => "",
+],
+26 => [
+"name" => "Russian Space Exploration exam",
+"name_bg" => "",
+],
+27 => [
+"name" => "History of Navigation exam",
+"name_bg" => "",
+],
+28 => [
+"name" => "Space experiences exam",
+"name_bg" => "",
+],
+29 => [
+"name" => "Journey beyond the Sky exam",
+"name_bg" => "",
+],
+30 => [
+"name" => "Europe and the ISS exam",
+"name_bg" => "",
+],
+31 => [
+"name" => "Astronaut Training exam",
+"name_bg" => "",
+],
+32 => [
+"name" => "Astronaut Selection exam",
+"name_bg" => "",
+],
+33 => [
+"name" => "LRO exam",
+"name_bg" => "",
+],
+34 => [
+"name" => "Habitability of Mars exam",
+"name_bg" => "",
+],
+35 => [
+"name" => "Earth, Moon and Mars exam",
+"name_bg" => "",
+],
+36 => [
+"name" => "Orbital manipulation robotics exam",
+"name_bg" => "",
+],
+37 => [
+"name" => "Adaptive Control exam",
+"name_bg" => "",
+],
+38 => [
+"name" => "Space Exploration Robotics exam",
+"name_bg" => "",
+],
+39 => [
+"name" => "iCub exam",
+"name_bg" => "",
+],
+40 => [
+"name" => "Biosciences Challenges exam",
+"name_bg" => "",
+],
+41 => [
+"name" => "Space pharmacology exam",
+"name_bg" => "",
+],
+42 => [
+"name" => "Medicine Challenges exam",
+"name_bg" => "",
+],
+43 => [
+"name" => "Exoskeleton system exam",
+"name_bg" => "",
+],
+44 => [
+"name" => "Natural sensors exam",
+"name_bg" => "",
+],
+45 => [
+"name" => "Synthetic Biology exam",
+"name_bg" => "",
+],
+46 => [
+"name" => "Singularity exam",
+"name_bg" => "",
+],
+47 => [
+"name" => "Microspace exam",
+"name_bg" => "",
+],
+48 => [
+"name" => "The New Space Race exam",
+"name_bg" => "",
+],
+49 => [
+"name" => "New vs Old space exam",
+"name_bg" => "",
+],
+50 => [
+"name" => "European GN infrastructure exam",
+"name_bg" => "",
+],
+51 => [
+"name" => "PNT Infrastructure exam",
+"name_bg" => "",
+],
+52 => [
+"name" => "EGNOS exam",
+"name_bg" => "",
+],
+53 => [
+"name" => "Kill the Mission exam",
+"name_bg" => "",
+],
+54 => [
+"name" => "Asteroid Mining exam",
+"name_bg" => "",
+],
+55 => [
+"name" => "Management Standart exam",
+"name_bg" => "",
+],
+56 => [
+"name" => "Entrepreneurship approach exam",
+"name_bg" => "",
+],
+57 => [
+"name" => "Risk Management exam",
+"name_bg" => "",
+],
+58 => [
+"name" => "Concurrent Design exam",
+"name_bg" => "",
+],
+59 => [
+"name" => "How did that happen exam",
+"name_bg" => "",
+],
+60 => [
+"name" => "Spacecraft Technology exam",
+"name_bg" => "",
+],
+61 => [
+"name" => "Environmental tests exam",
+"name_bg" => "",
+],
+62 => [
+"name" => "Spacecraft GN&C exam",
+"name_bg" => "",
+],
+63 => [
+"name" => "Antennas for Space exam",
+"name_bg" => "",
+],
+64 => [
+"name" => "Nanotechnologies exam",
+"name_bg" => "",
+],
+65 => [
+"name" => "Newest Design Trends exam",
+"name_bg" => "",
+],
+66 => [
+"name" => "Advanced Technology exam",
+"name_bg" => "",
+],
+67 => [
+"name" => "Space Transportation exam",
+"name_bg" => "",
+],
+68 => [
+"name" => "Kennedy Space Center exam",
+"name_bg" => "",
+],
+69 => [
+"name" => "Satellite systems exam",
+"name_bg" => "",
+],
+70 => [
+"name" => "Systems Architecture exam",
+"name_bg" => "",
+],
+71 => [
+"name" => "Mission Control exam",
+"name_bg" => "",
+],
+72 => [
+"name" => "Space System studies exam",
+"name_bg" => "",
+],
+73 => [
+"name" => "Spacesuit Systems exam",
+"name_bg" => "",
+],
+74 => [
+"name" => "The Moonwalk Project exam",
+"name_bg" => "",
+],
+75 => [
+"name" => "Red Sands White Ice exam",
+"name_bg" => "",
+],
+]
+

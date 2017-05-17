@@ -1,0 +1,1344 @@
+
+
+[
+45 => [
+"name" => "Which of the following is true about the gravitational acceleration which a ball experiences due to the mass of the Earth?",
+"name_bg" => "",
+"description" => "",
+"description_bg" => "",
+],
+49 => [
+"name" => "Why are comets relevant to us ? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "After most of the material left over by the formation of the Sun (less than a few percent of the total mass of the Solar System) started forming planets, different pieces of that material (and especially of the outer layers of the accretion disc) were pushed to highly elliptic orbits and became the asteroids and small bodies that nowadays orbit the outer Solar System and are periodically attracted closer by a gravity interaction. As surprising as it may be, amino acids have been found in the tail of a comet and so there is a serious possibility that they were the ones to \"seed\" Earth with life.",
+"description_bg" => "",
+],
+50 => [
+"name" => "Based on current findings, approximately how old is the Sun (in years)?",
+"name_bg" => "",
+],
+51 => [
+"name" => "Why were the star trackers on Rosetta performing worse when the comet was closer to the Sun ?",
+"name_bg" => "",
+],
+52 => [
+"name" => "Using Kepler\'s 3d law and knowing that Jupiter is about 5.2 times more remote from the Sun than Earth is, calculate how much time it takes Jupiter to complete one of its orbits?",
+"name_bg" => "",
+"description" => "The square of a planet\'s period is proportional to its distance from the Sun by the power of 3, therefore you need to calculate sqrt(5.2^3) in order to get the period of Jupiter in years!",
+"description_bg" => "",
+],
+53 => [
+"name" => "Approximately how does the velocity needed for stable orbit vary with respect to the distance from the center of mass if we denote that distance with r ?",
+"name_bg" => "",
+],
+54 => [
+"name" => "How many parameters do you need to specify the orbital state of a satellite (its orbit and its location on it)?",
+"name_bg" => "",
+"description" => "Classically you can use its position and velocity (which corresponds to 2 vectors with 3 components each) or you can use the Keplerian orbital elements but the absolute minimum required is 6.",
+"description_bg" => "",
+],
+55 => [
+"name" => "Which of the following is an orbit perturbation that generally should NOT be taken into consideration for LEO?",
+"name_bg" => "",
+],
+56 => [
+"name" => "Could a Sun-synchronous orbit be established around the Earth if it was a perfect homogenеous sphere?",
+"name_bg" => "",
+"description" => "The effect that causes precession of the orbit and allows Sun-synchronous orbits to function is due to the J2 equatorial bulge. A perfect homogenous sphere would not have such a feature making such an orbit impossible without external forces.",
+"description_bg" => "",
+],
+57 => [
+"name" => "How does drag affect highly elliptical orbits ?",
+"name_bg" => "",
+"description" => "Since drag force is highest at the periapsis it tends to reduce velocity there and therefore makes the apoapsis lower, circularizing the orbit.",
+"description_bg" => "",
+],
+58 => [
+"name" => "Theoretically, can you build a rocket that uses light as a propellent (think about the solar sails)? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "While light (photons) has no rest mass, it is always moving at the speed of light and has effective mass and momentum that can in theory be used as a propellent. The energy of visible light, however, is too low to be of any practical use as such in the foreseeable future.",
+"description_bg" => "",
+],
+59 => [
+"name" => "Which of the following has an effect on the GEO satellites that requires corrections?",
+"name_bg" => "",
+],
+60 => [
+"name" => "What do we call a periodic orbit with respect to the surface of the Earth?",
+"name_bg" => "",
+"description" => "Periodicity implies that after a given numbers of ground track displacements, the new ground track will be the same as the first one - this is only possible if the relation between the angular displacement of ground tracks and 360 degrees is a rational number.",
+"description_bg" => "",
+],
+61 => [
+"name" => "Which of the following changes will occur if you increase your velocity at a given point of a circular orbit (while preserving the direction of motion)?",
+"name_bg" => "",
+"description" => "Out of energy conservation conditions - increasing your velocity at a given point will increase the radius at the opposite end.",
+"description_bg" => "",
+],
+62 => [
+"name" => "If a planet has an orbital velocity V and your spacecraft approaches it with orbital velocity v, what is the maximum velocity change you could gain out of the slingshot?",
+"name_bg" => "",
+"description" => "It only depends on the planetary velocity (think of the train metaphor for elastic impact).",
+"description_bg" => "",
+],
+63 => [
+"name" => "How do we find exoplanets most frequently?",
+"name_bg" => "",
+],
+64 => [
+"name" => "Why do you think are we finding many more large planets than smaller ones?",
+"name_bg" => "",
+],
+65 => [
+"name" => "What kind of stars are habitable planets most likely to orbit?",
+"name_bg" => "",
+"description" => "Most stars in the galaxy are smaller red dwarf stars and in addition their habitable zone is closer to the star where more rocky planets form. On the other hand, O and B class stars could not have planets, since they go supernova before planets even have time to form completely.",
+"description_bg" => "",
+],
+66 => [
+"name" => "What is the period of the solar cycle?",
+"name_bg" => "",
+],
+67 => [
+"name" => "Is there a connection between solar spots and highly active solar regions?",
+"name_bg" => "",
+],
+68 => [
+"name" => "What is the current sheet?",
+"name_bg" => "",
+],
+72 => [
+"name" => "The closest star to our Sun - Proxima Centauri is about 4.2 light years away. Approximately how many times the distance between the Earth and the Sun is the distance between the Sun and Proxima Centauri? (The light from the Sun takes about 8 minutes to reach the Earth.)
+The use of calculators is permitted.",
+"name_bg" => "",
+"description" => "One light year is the distance light travels in 1 year. Dividing 4.2 years (the time it takes light to travel from our Sun to Proxima Centauri) by 8 minutes (after converting both to the same unit) yields the answer.",
+"description_bg" => "",
+],
+74 => [
+"name" => "Which of the following is true?",
+"name_bg" => "",
+"description" => "Near the Solar maximum there are higher emissions of energetic particles and more solar spots. The three are correlated.",
+"description_bg" => "",
+],
+75 => [
+"name" => "The current record for energy of accelerated particle in the Large Hadron Collider in CERN is about 13 TeV. Estimate how many times more energetic is a cosmic ray particle with energy 10^20 eV compared to those, knowing that 1TeV = 10^12 eV?",
+"name_bg" => "",
+"description" => "Simply divide 10^20 by 13*10^12 - it gives you 7.7*10^6 which is about 8 million!",
+"description_bg" => "",
+],
+76 => [
+"name" => "Which of the following is an example of spatial diffusion?",
+"name_bg" => "",
+],
+77 => [
+"name" => "In a 1D random motion system with starting point 0 and step 1, where are you most likely to be after 20 iterations (steps)?",
+"name_bg" => "",
+"description" => "On each step you are equally likely to move away from or towards 0. Thus the highest percentage will always be that you move away half of the time and move back the other half making your total displacement 0.",
+"description_bg" => "",
+],
+78 => [
+"name" => "Which of the following mechanisms causes energy to be released and creates coronal mass ejections?",
+"name_bg" => "",
+"description" => "In regions where opposite magnetic field lines are close to each other they may “reconnect” and so release the energy stored in the external magnetic field, releasing the charged particles there as a coronal mass ejection.",
+"description_bg" => "",
+],
+79 => [
+"name" => "What do we call the Bow Shock?",
+"name_bg" => "",
+],
+80 => [
+"name" => "Approximately how does the atmospheric density vary with height - h ?",
+"name_bg" => "",
+],
+81 => [
+"name" => "Is the distribution of galaxies and clusters homogenous in the universe?",
+"name_bg" => "",
+],
+82 => [
+"name" => "Which of the following is true according to Hubble’s law ? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "Hubble’s law states that the further a Galaxy is, the faster it is moving away from us. That means that the wavelengths of any photons that Galaxy is producing will seem longer to us and thus the galaxy will appear redder.",
+"description_bg" => "",
+],
+83 => [
+"name" => "If pcrit is the critical density and p is the density of the Universe, which of the following inequalities corresponds to a Universe which will eventually collapse into a single point?",
+"name_bg" => "",
+"description" => "If the density is higher than the critical density, then gravity would be too strong and eventually force the universe to recollapse.",
+"description_bg" => "",
+],
+84 => [
+"name" => "Which of the following describes the CMB (Cosmic Microwave Background) best?",
+"name_bg" => "",
+"description" => "For atoms to form, the electron and the proton must be in a bound state (one with negative energy) and so after combining, they emit that energy. At a certain point in time, the Universe was cold enough to allow this process, which resulted in a huge emission near the ultraviolet end of the spectrum that we are now observing in the microwave spectrum because of the expansion of the Universe.",
+"description_bg" => "",
+],
+85 => [
+"name" => "Which of the following is true according to the lecture? (More than one answer may be correct!)",
+"name_bg" => "",
+],
+86 => [
+"name" => "Approximately what part of the Universe is in the form of normal baryonic matter (like protons and neutrons)?",
+"name_bg" => "",
+"description" => "The majority of mass-energy content in the Universe is in other forms, which we can not directly observe!",
+"description_bg" => "",
+],
+87 => [
+"name" => "Which of the following forces is currently not in the Standard Model of particle physics?",
+"name_bg" => "",
+],
+88 => [
+"name" => "What is the Jeans flux ?",
+"name_bg" => "",
+"description" => "Particles that gain high enough kinetic energy due to impacts can leave the atmosphere. The flux of those particles is called Jeans flux!",
+"description_bg" => "",
+],
+89 => [
+"name" => "Which of the following is true ?",
+"name_bg" => "",
+],
+90 => [
+"name" => "Generally what is the trajectory of a charged particle in a magnetic field ?",
+"name_bg" => "",
+"description" => "A particle with velocity perpendicular to the field will stay in circular orbit, but generally it may have velocity component parallel to the field lines as well, thereby making the curve a helix.",
+"description_bg" => "",
+],
+91 => [
+"name" => "Which of the following is generally true about plasma? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "While individual plasma cells have charge, on the large scale it is neutral. The charge, however, makes it interact with electromagnetic fields.",
+"description_bg" => "",
+],
+92 => [
+"name" => "Which of the following celestial bodies produce their energy through nuclear fusion ?",
+"name_bg" => "",
+],
+93 => [
+"name" => "Can you transmit information without any distortion in practice ?",
+"name_bg" => "",
+],
+94 => [
+"name" => "Why are electronics a challenge in Space ? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "The high radiation conditions and the lack of atmosphere (and thus convective heat transfer) makes electronics prone to overheating and requires radiative methods for cooling and many more backups which in turn makes them much bulkier and results in less computational power for the same volume and mass.",
+"description_bg" => "",
+],
+95 => [
+"name" => "What is the role of mathematical models in space?",
+"name_bg" => "",
+],
+96 => [
+"name" => "If you use complex numbers (with real and imaginary parts) to model and solve a real mathematical problem, which of the following is true ?",
+"name_bg" => "",
+"description" => "Measurable quantities are always real numbers. A complex number’s real and imaginary parts may be used to represent real quantities separately (forming a sort of vector), but while this may simplify the calculations, the final measurable outcome is always real.",
+"description_bg" => "",
+],
+97 => [
+"name" => "Which of the following methods are used the most in practical problems connected to the Space sector that require exact solutions?",
+"name_bg" => "",
+"description" => "The qualitative methods give you a description of the situation but not exact answers. Analytical methods give you exact answers but for real problems they are too complicated and numerical methods are used in practice.",
+"description_bg" => "",
+],
+98 => [
+"name" => "How do you verify a model?",
+"name_bg" => "",
+],
+99 => [
+"name" => "Which of the following describes redundancy best?",
+"name_bg" => "",
+"description" => "The basis of this concept is backup - a way to complete the mission even if components fail.",
+"description_bg" => "",
+],
+100 => [
+"name" => "What is the main difference between the frequentist and the Bayesian approaches?",
+"name_bg" => "",
+"description" => "The frequentist approach determines the constants of the distribution once and fits the model to a \"frozen\" distribution, while the Bayesian approach modifies that distribution while using it.",
+"description_bg" => "",
+],
+101 => [
+"name" => "Which of the following is the most important role of the expert?",
+"name_bg" => "",
+],
+102 => [
+"name" => "Life outside of the \"Golden\" zone of habitability is ... ?",
+"name_bg" => "",
+"description" => "Since there are many bodies (primarily moons of gas giants) in the outer Solar System that have sub-surface liquid water, life there is quite possible.",
+"description_bg" => "",
+],
+103 => [
+"name" => "What causes the periodic increase in atmospheric density on Mars?",
+"name_bg" => "",
+"description" => "Mars has a relatively short precession period and due to the high inclination in certain points of that precession the poles can be pointing at the Sun, which causes large amounts of CO2 and water to be evaporated and increases the atmospheric density.",
+"description_bg" => "",
+],
+104 => [
+"name" => "Which of the following is true according to Gernot Gromer?",
+"name_bg" => "",
+],
+105 => [
+"name" => "Which of the following is true about the Gale crater (where Curiosity landed) ?",
+"name_bg" => "",
+],
+106 => [
+"name" => "Are plants expected to grow in low gravity environment?",
+"name_bg" => "",
+],
+107 => [
+"name" => "Is it possible that there is life on moons like Enceladus, given the fact that they are way outside of the habitable zone of the Sun?",
+"name_bg" => "",
+"description" => "Enceladus and Europa are just two examples of outer Solar System moons which almost certainly have liquid subsurface water, since geysers of water have been observed on them. What is more, Enceladus already shows a large amount of organic molecules present in that subsurface water, which may indicate it is the best place outside of Earth, where life may be present!",
+"description_bg" => "",
+],
+108 => [
+"name" => "Which of the following is absolutely necessary for life based on our understanding right now?",
+"name_bg" => "",
+"description" => "While we are used to a biosphere that uses water as a liquid solvent, it being water is not necessarily a requirement - other liquids may facilitate different life.",
+"description_bg" => "",
+],
+109 => [
+"name" => "Could life survive a trip in space on a comet or an asteroid?",
+"name_bg" => "",
+"description" => "Tardigrades for example hibernate and can last inside a comet for a very long time with no liquid water and very low temperatures.",
+"description_bg" => "",
+],
+110 => [
+"name" => "How is bacteria different in zero gravity environment ?",
+"name_bg" => "",
+],
+111 => [
+"name" => "Which of the following is true about animal hibernation?",
+"name_bg" => "",
+],
+112 => [
+"name" => "Can ionising radiation be used as a source of power for organisms?",
+"name_bg" => "",
+],
+113 => [
+"name" => "Which of the following is among the benefits of induced hibernation for spaceflight?",
+"name_bg" => "",
+],
+114 => [
+"name" => "Which of the following are reasons for mission failures in the 60s and 70s to Mars and Venus (both on the Soviet and American side)? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "The main factors were the harsh interplanetary environment and problems at landing, caused primarily by changes in the models of pressure, density, composition of atmosphere, etc.",
+"description_bg" => "",
+],
+115 => [
+"name" => "Were the results of the first Venus landers expected ?",
+"name_bg" => "",
+"description" => "Up to that moment it had been estimated that Venus and Earth are quite similar but with the new data from the probe’s descent it was discovered that the atmosphere on Venus has really high concentrations of CO2, very high temperature and pressure, which made it incredibly inhospitable.",
+"description_bg" => "",
+],
+116 => [
+"name" => "Why, according to acad. Marov, did the Soviet program fail to complete much of its goals? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+117 => [
+"name" => "Which of the following is a primary exploration site for the near future in Roscosmos’ plan ?",
+"name_bg" => "",
+],
+118 => [
+"name" => "What are the goals of the ExoMars mission (a joint mission by ESA and Roscosmos)? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "The main goals of the mission are to look for traces of life and to study the martian climate, some of the other given possibilities may be fulfilled as a consequence of those primary goals but are not such themselves.",
+"description_bg" => "",
+],
+119 => [
+"name" => "Which of the following is true about the Russian Space Program according to acad. Marov?",
+"name_bg" => "",
+"description" => "While a manned lunar mission is envisioned in the future, it is not a priority at this point and there are many robotic missions to be completed first both to the Moon and planets in the Solar System.",
+"description_bg" => "",
+],
+120 => [
+"name" => "How recent is the use of Celestial bodies for navigation?",
+"name_bg" => "",
+"description" => "Ancient Greeks used this method for navigation. Many other cultures, however, have used it as well.",
+"description_bg" => "",
+],
+121 => [
+"name" => "If you see the North star (Polaris) at 46 degrees of elevation above the horizon, what is your current longitude?",
+"name_bg" => "",
+"description" => "Latitude can be determined by the elevation of a celestial body, but not longitude!",
+"description_bg" => "",
+],
+122 => [
+"name" => "What was the newly invented device that allowed ships to travel safely between Europe and America?",
+"name_bg" => "",
+"description" => "Clocks before Harrison’s were accumulating large error since they were mostly pendulum based and were affected by the ship’s motion. That large error in time resulted in large error in space and lead to many crashed ships on the shores.",
+"description_bg" => "",
+],
+123 => [
+"name" => "How does Paolo Nespoli describe flying in the Space Shuttle?",
+"name_bg" => "",
+],
+124 => [
+"name" => "Approximately how much time does it take for the Shuttle to reach Low Earth Orbit ?",
+"name_bg" => "",
+],
+125 => [
+"name" => "Which relation is the most accurate according to the videos ?",
+"name_bg" => "",
+],
+126 => [
+"name" => "Which of the following procedures are followed before a launch according to the video?",
+"name_bg" => "",
+],
+127 => [
+"name" => "Can a serious problem arise from faulty thermal protection of the Shuttle ?",
+"name_bg" => "",
+"description" => "As the Columbia disaster pointed out - if even a small portion of the thermal protection segments are damaged the whole shuttle will disintegrate on reentry!",
+"description_bg" => "",
+],
+128 => [
+"name" => "Is a new generation of shuttles planned by NASA for the near future?",
+"name_bg" => "",
+],
+129 => [
+"name" => "Approximately how much time does a full mission to the ISS take for an astronaut (including training, the mission itself and post-flight)?",
+"name_bg" => "",
+],
+130 => [
+"name" => "Approximately how large is the ISS?",
+"name_bg" => "",
+],
+131 => [
+"name" => "What is the main purpose of the Cupola ?",
+"name_bg" => "",
+],
+132 => [
+],
+133 => [
+"name" => "Why are astronauts training for so many off-nominal situations?",
+"name_bg" => "",
+],
+134 => [
+],
+135 => [
+],
+136 => [
+"name" => "Which of the following will take you out of the astronaut competition?",
+"name_bg" => "",
+],
+137 => [
+"name" => "Based only on the Qualified initial Applications received (5351), roughly what is the success rate for becoming an astronaut ?",
+"name_bg" => "",
+],
+138 => [
+"description" => "The LCROSS mission determined that there is Water Ice on the Moon. While the lowest detected temperature in the Solar System so far is on a permanently shadowed part of the Moon, the Moon itself is not the coldest body in the system.",
+"description_bg" => "",
+],
+139 => [
+"name" => "What is the charging mechanism that creates a capacitor-like configuration in the lunar surface?",
+"name_bg" => "",
+"description" => "The Moon\'s magnetic field is too weak to significantly alter the trajectories of cosmic particles. Cosmic electrons are the ones buried deeper than the protons, thus creating a capacitor-like configuration in the surface.",
+"description_bg" => "",
+],
+140 => [
+"name" => "Which of the following is NOT true ?",
+"name_bg" => "",
+"description" => "The sparking in the soil can occur only when there is a high enough flux of energetic particles from the Sun - that threshold has only been surpassed a few times for the past few years, so the process is certainly not continuous.",
+"description_bg" => "",
+],
+141 => [
+"name" => "Which of the following is a result of the Miller-Urey experiment ?",
+"name_bg" => "",
+],
+142 => [
+"name" => "Could there be organic material on comets ?",
+"name_bg" => "",
+],
+143 => [
+"name" => "Which of the following are reasons for the loss of water and atmosphere on Mars ? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "The lower surface gravity and lack of plate tectonics makes atmosphere and water escape easily and inhibits the creation of more gasses, that could heat the planet and melt existing water ice.",
+"description_bg" => "",
+],
+144 => [
+"description" => "Mars has a relatively short precession period and due to the high inclination in certain points of that precession, the poles can be pointing at the Sun, which causes large amounts of CO2 and water to be evaporated and increases the atmospheric density.",
+"description_bg" => "",
+],
+145 => [
+"name" => "How do scientists know what type of ice they are observing on the surface of Mars (water ice or CO2 ice) ?",
+"name_bg" => "",
+"description" => "The rate at which the two types of ice are melting and then evaporating differs!",
+"description_bg" => "",
+],
+146 => [
+"name" => "Based on our current understanding, which of the following are absolutely necessary for life? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+147 => [
+"name" => "Why are polar and volcanic expeditions important for Space?",
+"name_bg" => "",
+],
+148 => [
+"name" => "Which of the following celestial bodies may hold most information about Earth\'s very early history?",
+"name_bg" => "",
+"description" => "Because of Earth\\\'s active geology, the Moon has better clues for the earliest periods of the Earth\'s history!",
+"description_bg" => "",
+],
+149 => [
+"name" => "Which of the following is true about the Moon?",
+"name_bg" => "",
+],
+150 => [
+"name" => "How many geological periods have there been on Mars?",
+"name_bg" => "",
+"description" => "The main periods are Noachian, Hesperian and Amazonian.",
+"description_bg" => "",
+],
+151 => [
+"name" => "Finish the sentence: The surface layers of rocks in some areas on Mars suggest ...?",
+"name_bg" => "",
+],
+152 => [
+"name" => "Which of the following is a major contributor to Mars’ thin atmosphere?",
+"name_bg" => "",
+],
+153 => [
+"name" => "What is the main principle behind stereo vision? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "Cover one of your eyes and look at a close object, then cover the other one - the two images seem displaced. Now repeat the same for an object that is far away - the two images are quite the same. Your brain compares the images of your two eyes and creates the perception of \\\"depth\\\" of the image - the same principle that computer stereo vision uses!",
+"description_bg" => "",
+],
+154 => [
+"name" => "Which of the following is performed with current GN&C methods ?",
+"name_bg" => "",
+],
+155 => [
+"name" => "Which of the following maneuvers CAN NOT be performed if the on-board actuators do not use propellent?",
+"name_bg" => "",
+"description" => "All of the rest require only attitude change which can be done with magnetorquers, gyros, gravity gradient etc. and do not require propellent since they do not change the motion of the centre of mass of the object.",
+"description_bg" => "",
+],
+156 => [
+"name" => "Which of the following can be used to keep a tether under stress when capturing another object in it?",
+"name_bg" => "",
+],
+157 => [
+"name" => "What is the difference between optimal and suboptimal trajectory?",
+"name_bg" => "",
+],
+158 => [
+"name" => "Are adaptive attitude control algorithms better than traditional ones?",
+"name_bg" => "",
+"description" => "While they perform much better in off-nominal conditions (as shown by the plots), the performance is only slightly better in nominal conditions, so for them the improvement is only minor.",
+"description_bg" => "",
+],
+159 => [
+"name" => "Which of the following is an important application of free flier robots that we are currently unable to perform?",
+"name_bg" => "",
+],
+160 => [
+"name" => "If you operate an electrical screwdriver in space which of the following is true?",
+"name_bg" => "",
+],
+161 => [
+"name" => "Which of the following matrices describes the transition between the velocities of two sets of coordinates?",
+"name_bg" => "",
+],
+162 => [
+"name" => "Which of the following is true for isolated bodies in zero gravity?",
+"name_bg" => "",
+],
+163 => [
+"name" => "Finish the sentence: If an astronaut pushes himself against a bulkhead and starts spinning inside the Space Station ...:",
+"name_bg" => "",
+"description" => "If you apply the same laws that are discussed in the video (namely Newton\'s 3d law), you will reach a conclusion, that the total angular momentum must be conserved in an isolated system. Therefore, the station must be spinning in the opposite direction of the astronaut. Since the difference in masses is huge, the effect will be barely noticeable but nevertheless present.",
+"description_bg" => "",
+],
+164 => [
+"description" => "The Earth is the base from which robotic hands extend, thus it can be seen as a special case of a free-flier robot with an enormous mass. Because of that, although its rotation is affected by that of every movement on its surface, its mass is large enough to make this effect negligible.",
+"description_bg" => "",
+],
+165 => [
+"name" => "What is the difference between indirect and direct adaptive attitude control?",
+"name_bg" => "",
+],
+166 => [
+"name" => "Why do we need adaptive attitude control systems when we already have systems that work well? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "While current systems work well for known parameters and low misalignments, for capturing an unknown object (like an asteroid or a damaged spacecraft) one needs adaptive control algorithms.",
+"description_bg" => "",
+],
+167 => [
+"name" => "Theoretically, how many steps are necessary for an EXACT solution in the adaptive attitude control which is based on iterative methods?",
+"name_bg" => "",
+"description" => "The approach asymptotically approaches the exact solution, which means that it requires an infinite amount of steps to truly reach it. In practice of course, we only need to be close enough to the exact solution, specified by the measurement capabilities and computational power we have.",
+"description_bg" => "",
+],
+168 => [
+"name" => "Which of the following are good places to find water ice on the Moon?",
+"name_bg" => "",
+],
+169 => [
+"name" => "Which of the following describes the traditional rover chassis system (rocker bogie system) ?",
+"name_bg" => "",
+],
+170 => [
+"name" => "Which of the following is used to describe the rocker bogie system contact dynamics ?",
+"name_bg" => "",
+],
+171 => [
+"name" => "Which of the following are among the key state variables for planetary rovers ? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+172 => [
+"name" => "Which of the following are among the basic methods of modelling soil? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+173 => [
+"name" => "Which of the following is generally NOT a viable method for terrain mapping for planetary and lunar rovers.?",
+"name_bg" => "",
+],
+174 => [
+"name" => "What is the main motivation behind building humanoid robots?",
+"name_bg" => "",
+],
+175 => [
+"name" => "Which of the following is a passive sensor ?",
+"name_bg" => "",
+],
+176 => [
+"name" => "Which of the following matrices describes the transition between the rates of change of two sets of coordinates?",
+"name_bg" => "",
+],
+177 => [
+"name" => "What is the main principle behind robot skin?",
+"name_bg" => "",
+],
+178 => [
+"name" => "What is the benefit of the Kernel approximation method that the iCub uses?",
+"name_bg" => "",
+],
+179 => [
+"name" => "Can you program an algorithm which does not know the exact mass configuration of the robot?",
+"name_bg" => "",
+],
+180 => [
+"name" => "Which of the following describes machine recognition best?",
+"name_bg" => "",
+],
+181 => [
+"name" => "How does the iCub recognition success rate change if we introduce more objects? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "As the database grows - so do the options, that’s why recognising one object from the other becomes harder. However, more sightings of a single object increases the success rate.",
+"description_bg" => "",
+],
+182 => [
+"name" => "Which of the following is true about the current version of the iCub ?",
+"name_bg" => "",
+],
+183 => [
+],
+184 => [
+"name" => "How would you place the sequence of a typical attitude control algorithm?",
+"name_bg" => "",
+],
+185 => [
+"name" => "Which of the following is true? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+186 => [
+"name" => "Which of the following is a challenge in the development of today’s spacecraft ?",
+"name_bg" => "",
+],
+187 => [
+"name" => "Which of the following are the main problems for the human body in space? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "There is no physical effect connected to velocity (and no experiment to determine it nor any absolute velocity). While the danger of micro-asteroids exists, they are not directly associated as a problem for the human body, but rather as a risk to the entire space mission.",
+"description_bg" => "",
+],
+188 => [
+"name" => "Which of the following are advantages of hibernation? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "Hibernation would minimize the human body consumption of food and water during a space mission, improving significantly the total amount of required resources onboard the spacecraft. Furthermore, it will eliminate the psychological problems of confinement, experienced during the long spaceflight missions.",
+"description_bg" => "",
+],
+189 => [
+"name" => "Which of the following is a viable method to produce artificial gravity today?",
+"name_bg" => "",
+"description" => "When rotating, a spacecraft produces centrifugal force, which is a pseudo-force caused by the different reference frames and it could be used to mimic gravity with no additional energy.",
+"description_bg" => "",
+],
+190 => [
+"description" => "While tests in labs have proven successful with different organisms, the hibernation has yet to be tested on humans. When awaken, after the induced hibernation, the body might experience diverse physiological problems.",
+"description_bg" => "",
+],
+191 => [
+"name" => "How can we slow or increase metabolism to make hibernation more survivable according to the video?",
+"name_bg" => "",
+],
+192 => [
+"name" => "Which type of drug degradation can produce toxic substances?",
+"name_bg" => "",
+],
+193 => [
+"name" => "Can vibrations cause any change in drug properties?",
+"name_bg" => "",
+],
+194 => [
+"name" => "Why are biopharmaceuticals currently not widely used in Space?",
+"name_bg" => "",
+],
+195 => [
+"name" => "Why, according to the video, is it crucial for the human race to colonize other planets in the near future?",
+"name_bg" => "",
+],
+196 => [
+"description" => "When rotating, a spacecraft produces centrifugal force which is a pseudo-force caused by the different reference frames and can be used to mimic gravity with no additional energy.",
+"description_bg" => "",
+],
+197 => [
+"name" => "Which properties of medicines onboard ISS can be visually inspected?",
+"name_bg" => "",
+],
+198 => [
+"name" => "Imagine you are on a 2-year mission to Mars. In which of these scenarios will you need an exoskeleton system?",
+"name_bg" => "",
+],
+199 => [
+"name" => "Which of the following is true for Exoskeleton systems ? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+200 => [
+"name" => "What is the current stage in exoskeleton production?",
+"name_bg" => "",
+],
+201 => [
+],
+202 => [
+"name" => "If you have placed a cup on your skin, after one minute you will be receiving signals from?",
+"name_bg" => "",
+],
+203 => [
+],
+204 => [
+"name" => "How are Von Neumann machines different from ordinary robots?",
+"name_bg" => "",
+],
+205 => [
+"name" => "Which is true? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+206 => [
+"name" => "Could biotechnology provide viable self-sustaining system in the near future?",
+"name_bg" => "",
+],
+207 => [
+"name" => "If you were to do 9 linear steps and 9 exponential steps starting with 2 and using 2 as a step, where would the two paths take you?",
+"name_bg" => "",
+"description" => "Starting with 2 means on your 0th step you have 2.",
+"description_bg" => "",
+],
+208 => [
+"name" => "If it takes just 3GBs of space to store a human, why are we not transporting humans on flash drives?",
+"name_bg" => "",
+"description" => "Think about which is more as raw data - what is in your brain or what is in your DNA ?",
+"description_bg" => "",
+],
+209 => [
+"name" => "Which of the following is referred to as singularity in the video ?",
+"name_bg" => "",
+],
+210 => [
+"name" => "Which of the following applies to the first satellites?",
+"name_bg" => "",
+"description" => "You must have seen a picture of Sputnik!",
+"description_bg" => "",
+],
+211 => [
+"name" => "Which is the general trend with cost per passenger on different craft?",
+"name_bg" => "",
+],
+212 => [
+"name" => "Which of the following applies to the current mindset with microsatellites? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "Think about the difference between a PC and a smartphone and how the two are an analogy to traditional and micro satellites.",
+"description_bg" => "",
+],
+213 => [
+"description" => "The surface area of an object is proportional to the square of its linear dimension, while its volume is proportional to the linear dimension by the power of three. Therefore, larger satellites require external panels, while most smaller satellites can use only their own surface.",
+"description_bg" => "",
+],
+214 => [
+"name" => "If you have a satellite A comprised of 5 parts which are 99.99% reliable and satellite B comprised of 50 parts which are 99.999% reliable, which is more reliable as a whole ?",
+"name_bg" => "",
+"description" => "The total reliability is the product of all different reliabilities (since they are independent events). For satellite A you have 0.9999^5 while for satellite B you have 0.99999^50. The two are equal up to the 5th decimal place in percentage representation, so the satellites will be roughly of the same reliability.",
+"description_bg" => "",
+],
+215 => [
+"name" => "Which of the following reflects the idea of the videos best ?",
+"name_bg" => "",
+],
+216 => [
+],
+217 => [
+"name" => "Which of the following is NOT a current application of satellites?",
+"name_bg" => "",
+"description" => "While internet from space is possible, a huge constellation of satellites would be required to provide connection all around the Earth.",
+"description_bg" => "",
+],
+218 => [
+"name" => "Which of the following can not be monitored through the Copernicus project satellites?",
+"name_bg" => "",
+],
+219 => [
+"description" => "Forecasting is as old as the invention of barometers - it was noted that pressure changes indicate weather changes. However, the accuracy of prediction was not even close to that, which satellites and modern weather stations give us today!",
+"description_bg" => "",
+],
+220 => [
+"name" => "How can we improve weather forecast on a regional scale ?",
+"name_bg" => "",
+],
+221 => [
+"name" => "Which is most suitable for continuous video feed from orbit ?",
+"name_bg" => "",
+],
+222 => [
+"name" => "What would you say about the technology in your smartphone compared to that in a traditional satellite?",
+"name_bg" => "",
+"description" => "Space grade technology requires ways to radiate excess heat, shielding from energetic particles in space, redundancy, etc. So while your phone may have all that is needed for a small satellite to operate (and more), it will not last even five minutes in space due to its low reliability!",
+"description_bg" => "",
+],
+223 => [
+"name" => "Can you build a solar powered UAV (unmanned aerial vehicle) in practice?",
+"name_bg" => "",
+],
+224 => [
+"name" => "Which of the following is true about drones application? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "While satellites are above the atmosphere, drones are in atmosphere and normally quite low so they can measure specific atmospheric parameters that can complement weather forecasting data and provide much more accurate prognosis on a local level.",
+"description_bg" => "",
+],
+225 => [
+"name" => "Which of the following is a trait of the “old space”?",
+"name_bg" => "",
+],
+226 => [
+"name" => "Which of the following is a trait of the “new space”?",
+"name_bg" => "",
+],
+227 => [
+],
+228 => [
+"name" => "How many satellite signals are required (as a minimum) in theory to compute one\'s position on the ground?",
+"name_bg" => "",
+"description" => "If we had perfect clocks, 3 satellites would be enough, but in practice the time error introduced by user clock is countered by using the 4th satellite\'s data! Still, the more satellites - the better the result!",
+"description_bg" => "",
+],
+229 => [
+"name" => "Which of the following is NOT a GNSS (global navigation satellite system)?",
+"name_bg" => "",
+],
+230 => [
+"name" => "Which is true about the GNSS market?",
+"name_bg" => "",
+],
+231 => [
+"name" => "Can PNT infrastructure which does not depend on satellites be used in practice?",
+"name_bg" => "",
+],
+232 => [
+"name" => "What is the difference between jamming and spoofing?",
+"name_bg" => "",
+],
+233 => [
+"name" => "Which is among the motivations for Europe to want its GNSS infrastructure not to be controlled by any military?",
+"name_bg" => "",
+],
+234 => [
+"name" => "What is the difference between a GPS system and a GPS augmentation system?",
+"name_bg" => "",
+],
+235 => [
+],
+236 => [
+"name" => "Which of the following is a non-integrity event ?",
+"name_bg" => "",
+],
+237 => [
+"name" => "Which of the following reflects the main idea of the video?",
+"name_bg" => "",
+],
+238 => [
+"name" => "According to the video we should ... ?",
+"name_bg" => "",
+],
+239 => [
+"name" => "Which of the following reflects the presenter’s opinion about science-fiction and its connection to the Space Sector?",
+"name_bg" => "",
+],
+240 => [
+"name" => "Which of the following is NOT a reason why asteroids are a good place to start mining?",
+"name_bg" => "",
+],
+241 => [
+"name" => "Is it true that orbital maneuvers further from the Earth require much less fuel even for higher distance in comparison to those closer to the Earth?",
+"name_bg" => "",
+"description" => "The change of potential energy is proportional to the difference of the inverse radiuses, which means that the further you are, the smaller it gets. As a result, making a large maneuver further from the Earth (or any gravitational body) can take less fuel than making a small one near it!",
+"description_bg" => "",
+],
+242 => [
+"name" => "What is the positive behind launching many smaller telescopes instead of a single large one? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "While there is a theoretical maximum of resolution for telescopes within the atmosphere, there isn’t such outside of the atmosphere. Even small telescopes there can perform better than larger ones here for the same reason - lack of disturbances in the medium out of which our atmosphere is made. Redundancy is a key concept, since even if several of the telescopes fail separately - the rest will still operate and track for asteroids!",
+"description_bg" => "",
+],
+243 => [
+"name" => "Which of the following is a characteristic for Space projects?",
+"name_bg" => "",
+],
+244 => [
+"name" => "Which of the following are among the Project Management Targets? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+245 => [
+"name" => "Which of the following is true about risk analysis?",
+"name_bg" => "",
+],
+246 => [
+"name" => "Which of the following is true according to the video?",
+"name_bg" => "",
+],
+247 => [
+"name" => "What does the video say about small vs. large teams and companies?",
+"name_bg" => "",
+],
+248 => [
+],
+249 => [
+"name" => "How would you arrange the four main steps for risk management?",
+"name_bg" => "",
+],
+250 => [
+"name" => "What are the dimensions of the matrix by which risks are divided?",
+"name_bg" => "",
+],
+251 => [
+"name" => "Under what percentage is risk typically labelled low/high?",
+"name_bg" => "",
+],
+252 => [
+"name" => "Which of the following is true about the risk depending on team expertise assignment?",
+"name_bg" => "",
+],
+253 => [
+"name" => "Which of the following would you include in a Risk Register update? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "While all 5 are connected to the Risk Register, 1, 2 and 4 are inputs to it while 3 and 5 are later found from the data in it!",
+"description_bg" => "",
+],
+254 => [
+"name" => "Which of the following can be done from OUTPUT data from the Risk Register update? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+255 => [
+"name" => "Which of the following captures best the ideas behind concurrent design? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+],
+256 => [
+"name" => "Which of the following subsystem design nodes require inputs and which require outputs?",
+"name_bg" => "",
+],
+257 => [
+"name" => "Which is the most common method via which information is shared among the concurrent design developers?",
+"name_bg" => "",
+],
+258 => [
+"name" => "What was the reality of the space sector about 30 years ago according to the video?",
+"name_bg" => "",
+],
+259 => [
+"name" => "What is the opinion of the author about satellites with entertainment purposes ?",
+"name_bg" => "",
+],
+260 => [
+],
+261 => [
+"name" => "Which reflects the presenter’s ideas about work environment?",
+"name_bg" => "",
+],
+262 => [
+"name" => "Which of the following is integral to any company according to the video?",
+"name_bg" => "",
+],
+263 => [
+"name" => "Which of the following are success factors according to the video?",
+"name_bg" => "",
+],
+264 => [
+"name" => "Which of the following is NOT true?",
+"name_bg" => "",
+],
+265 => [
+"name" => "What is the general dependency between orbital radius and orbital velocity for a stable circular orbit?",
+"name_bg" => "",
+],
+266 => [
+"name" => "If you see a GEO satellite in the sky at a given point, approximately where will it be in 8 hours from your perspective?",
+"name_bg" => "",
+"description" => "Since the satellite is in GEO orbit, it is stationary with respect to the Earth so observers from the Earth will see it at the same spot all the time!",
+"description_bg" => "",
+],
+267 => [
+"name" => "Knowing that the Kinetic Energy of an object is proportional to its mass times its velocity squared, which of the following objects can cause more damage: a 20 kg cannonball moving at 200m/sec or 50 gram satellite part moving at 7.5km/sec (LEO orbital velocity)?",
+"name_bg" => "",
+"description" => "If you calculate the kinetic energy, the satellite part turns out to have roughly 3-4 times as much. The shape matters of course (since it determines the pressure that the material will experience), but the satellite part will surely cause more damage.",
+"description_bg" => "",
+],
+268 => [
+"name" => "Why did the Curiosity rover team develop such complex automated reentry system instead of simply flying the vehicle?",
+"name_bg" => "",
+"description" => "Light travels at 300 000 km/sec which means that even if Mars is at its closest point to Earth the signal takes about 5 minutes to get there and 5 more to get back - by the time the pilot will be receiving the first data, the lander would have already “landed”.",
+"description_bg" => "",
+],
+269 => [
+"name" => "How does the orbital velocity of a spacecraft depend on its mass?",
+"name_bg" => "",
+],
+274 => [
+"name" => "If you want a certain side of your satellite to be colder what paint should you use for it?",
+"name_bg" => "",
+"description" => "White surfaces reflect more so they are more suited to keeping temperature lower!",
+"description_bg" => "",
+],
+275 => [
+"name" => "How are tests generally performed for a spacecraft? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "Each of the systems (propulsion, electrical, structural etc.) is tested separately with different pieces of the full spacecraft assembled.",
+"description_bg" => "",
+],
+276 => [
+"name" => "Which of the models is equipped with many vibrational sensors and accelerometers?",
+"name_bg" => "",
+"description" => "The structural model is the one which tests the structure of the spacecraft and thus its reliability against vibrations and external forces.",
+"description_bg" => "",
+],
+277 => [
+],
+278 => [
+"name" => "How are vibrational tests carried out?",
+"name_bg" => "",
+"description" => "Initial results are required to compare with after the realistic vibration. For that reason the sequence includes two nominal sine curve vibrations before and after the realistic simulation.",
+"description_bg" => "",
+],
+279 => [
+"name" => "Theoretically, can you continuously manipulate the color of the different sides of the spacecraft in order to manage its thermal output and input ?",
+"name_bg" => "",
+"description" => "The power received depends on the color (white reflects all, while black absorbs all) and there are materials that can change their color based on the voltage applied to them.",
+"description_bg" => "",
+],
+280 => [
+],
+281 => [
+"name" => "Can you stabilize a spacecraft by rotating it around one of its axes?",
+"name_bg" => "",
+],
+282 => [
+"name" => "Which of the following actuators can be used for an orbital change?",
+"name_bg" => "",
+"description" => "All of the others can only change the orientation of the spacecraft.",
+"description_bg" => "",
+],
+283 => [
+"name" => "What do we call the “footprint” of an antenna?",
+"name_bg" => "",
+],
+284 => [
+],
+285 => [
+"name" => "Why are spot beam antennas more effective than regular ones?",
+"name_bg" => "",
+"description" => "While typical antennas may \\\"waste\\\" signal power over areas that do not use it, spot beam antennas can very specifically fit their footprint to maximize efficiency.",
+"description_bg" => "",
+],
+286 => [
+"name" => "Which of the following surfaces of revolution has the property that all reflected rays pass through the same point called focus?",
+"name_bg" => "",
+],
+287 => [
+"name" => "Which of the following antenna configurations has a concave secondary reflector?",
+"name_bg" => "",
+],
+288 => [
+"name" => "Which of the following defines the wavefront for an electromagnetic wave propagating in free space?",
+"name_bg" => "",
+],
+289 => [
+"name" => "Which is more resilient for the deorbiter application- amorphous structure or crystalline structure?",
+"name_bg" => "",
+],
+290 => [
+"name" => "How would you describe a piezo resistor?",
+"name_bg" => "",
+],
+291 => [
+"name" => "What is the relation between resistance, capacitance and impedance ?",
+"name_bg" => "",
+],
+292 => [
+"name" => "How are smart materials typically produced ?",
+"name_bg" => "",
+],
+293 => [
+"name" => "How can you best describe the cause of piezoelectric effect on atomic level ?",
+"name_bg" => "",
+"description" => "Due to the charge centre displacement, interior electric field is created which gives rise to potential difference and vise versa.",
+"description_bg" => "",
+],
+294 => [
+"name" => "Which of the following is generally true for the dependency between pressure and voltage for piezoelectric components ?",
+"name_bg" => "",
+"description" => "While the graph is nonlinear, close to the equilibrium point it can be approximated as linear (in the zone in which no permanent deformation of the structure can occur).",
+"description_bg" => "",
+],
+295 => [
+"name" => "If you have three possible launch vehicles for your satellite, which one do you build it for ?",
+"name_bg" => "",
+],
+296 => [
+"name" => "What is outgassing ?",
+"name_bg" => "",
+],
+297 => [
+"name" => "Is it possible to use laser communication between satellites ?",
+"name_bg" => "",
+],
+298 => [
+"name" => "Which is generally the best choice for observation satellites ?",
+"name_bg" => "",
+],
+299 => [
+"name" => "Which is the general trend according to the video ?",
+"name_bg" => "",
+],
+300 => [
+"name" => "Can you use a magnetic field to deflect charged particles from the Solar Wind ?",
+"name_bg" => "",
+],
+301 => [
+"name" => "How can you construct a 3d image of an object from a single satellite’s photos in a single pass ?",
+"name_bg" => "",
+],
+302 => [
+"name" => "Which of the following is true about photographs taken at low light conditions ?",
+"name_bg" => "",
+],
+303 => [
+"name" => "Which of the following will be completed by 2020s according to the video ?",
+"name_bg" => "",
+],
+304 => [
+"name" => "Could many separate small telescopes be used as a single big one?",
+"name_bg" => "",
+],
+305 => [
+"name" => "Which of the following is generally a trend for future machines ?",
+"name_bg" => "",
+],
+306 => [
+"name" => "Can a single photograph reveal small moving objects in the frame ?",
+"name_bg" => "",
+],
+307 => [
+"name" => "What is the role of the solid boosters?",
+"name_bg" => "",
+],
+308 => [
+"name" => "Approximately how does the efficiency of a rocket depend on the latitude angle (assuming that you are launching in equatorial orbit)?",
+"name_bg" => "",
+"description" => "In order to establish an equatorial orbit from a latitude differing from 0 we require a secondary burn in-orbit with delta v approximately proportional to twice the sine of the angle. So the smaller the angle is the less the delta v required will be and thus the higher the efficiency. Thus highest efficiency is achieved for the angle equaling 0 degrees - the highest value of cosine, and the lowest efficiency is achieved for the angle equating 90 degrees - where the cosine equals 0.",
+"description_bg" => "",
+],
+309 => [
+"name" => "Which of the launchers is seen as the most reliable based on statistics?",
+"name_bg" => "",
+],
+310 => [
+"name" => "Approximately what is the ratio (in %) between payload and fuel in a typical rocket?",
+"name_bg" => "",
+"description" => "It is stated in the video. You can make a quick calculation to find out approximately how much fuel is needed to send 1 kg into space. If you compare the amount of fuel with the cost you will find out why launching payload is so expensive.",
+"description_bg" => "",
+],
+311 => [
+"name" => "Which of the following forces and torques should be taken into account for the trajectory of the launcher?",
+"name_bg" => "",
+],
+312 => [
+"name" => "If the tracking station responsible for the control of the launcher loses contact, who is in charge of the launcher control?",
+"name_bg" => "",
+"description" => "The launcher is an automatic machine which requires no human control after the final checks.",
+"description_bg" => "",
+],
+313 => [
+"name" => "Which of the following is true about launch constraints ?",
+"name_bg" => "",
+],
+314 => [
+"name" => "Which of the following engines is NOT controllable and can NOT be shut down and turned on again?",
+"name_bg" => "",
+],
+315 => [
+"name" => "Approximately what is the required orbital velocity for circular orbit in LEO (Low Earth Orbit) ?",
+"name_bg" => "",
+],
+316 => [
+"name" => "Which is true about the future of the Kennedy Space Center according to the video?",
+"name_bg" => "",
+],
+317 => [
+"name" => "How are the launching platforms changing to facilitate the changes implied in question 1?",
+"name_bg" => "",
+],
+318 => [
+"name" => "What does the lecturer say about dealing with the wildlife on the territory of the Kennedy Space Center?",
+"name_bg" => "",
+],
+319 => [
+"name" => "Which are the three segments that a space system can generally be divided into?",
+"name_bg" => "",
+],
+320 => [
+],
+321 => [
+"name" => "Which of the following systems is NOT part of the spacecraft bus?",
+"name_bg" => "",
+],
+322 => [
+"name" => "What is generally the difference between architecture and engineering?",
+"name_bg" => "",
+],
+323 => [
+"name" => "What is emergence?",
+"name_bg" => "",
+"description" => "Emergence is the phenomenon of creation of new functions that are not direct sum of the individual elements\' functions.",
+"description_bg" => "",
+],
+324 => [
+"name" => "What is the difference between decomposition and hierarchy?",
+"name_bg" => "",
+"description" => "As the name implies - Hierarchy requires element rankings and not just division!",
+"description_bg" => "",
+],
+325 => [
+"name" => "Which of the following captures the idea behind elegance best?",
+"name_bg" => "",
+"description" => "Everything should be as simple as possible, but not simpler.",
+"description_bg" => "",
+],
+326 => [
+"name" => "Which of the following indicates good tradespace metrics? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "Having only beneficial or only non-beneficial options suggests lack of independent basis - a typical tradespace gives options as trade-offs and each decision that benefits one sphere will tend to have a negative effect on another.",
+"description_bg" => "",
+],
+327 => [
+"name" => "Is it possible that a tradespace which is good cannot be fully enumerated?",
+"name_bg" => "",
+],
+328 => [
+"name" => "In the case of emergency when the flight director does not know what to do, who does he listen to ?",
+"name_bg" => "",
+],
+329 => [
+"name" => "Who has the final say in a decision during a mission?",
+"name_bg" => "",
+],
+330 => [
+"name" => "Where is the control center for the ISS ?",
+"name_bg" => "",
+],
+331 => [
+"name" => "Which one of the following subsystems does NOT have a separate WorkBook?",
+"name_bg" => "",
+],
+332 => [
+"name" => "Which of the following worksheets is NOT contained within a workbook?",
+"name_bg" => "",
+],
+333 => [
+],
+334 => [
+"name" => "Why should the escape of particles from within the suit be limited on a planet like Mars?",
+"name_bg" => "",
+],
+335 => [
+"name" => "Which of the following vehicles is secure enough to allow us to launch astronauts without spacesuits?",
+"name_bg" => "",
+],
+336 => [
+"name" => "Why is a modification required for the new space suits intended for Mars as compared to the ones used on ISS now? (Make sure you select all of the correct options—there may be more than one!)",
+"name_bg" => "",
+"description" => "Due to Mars\' gravity, a standard EMU would be far too heavy for efficient walking on the planet, in addition, work in a system of systems would enhance performance for the unit.",
+"description_bg" => "",
+],
+337 => [
+],
+338 => [
+"name" => "Is there atmospheric loss for spacesuits?",
+"name_bg" => "",
+],
+339 => [
+"name" => "What is the main challenge with Skinsuits ?",
+"name_bg" => "",
+],
+340 => [
+],
+341 => [
+"name" => "Which of the following reflects the general idea with robots and astronauts for the future exploration of planets?",
+"name_bg" => "",
+],
+342 => [
+"name" => "Which is true regarding information and telemetry displays for future astronauts according to the video?",
+"name_bg" => "",
+],
+343 => [
+"name" => "What are analog astronauts?",
+"name_bg" => "",
+"description" => "Analog astronauts are the ones training on Earth for the next steps of Space Exploration.",
+"description_bg" => "",
+],
+344 => [
+],
+345 => [
+"name" => "Why is it harder to build electronics for oxygen rich environment?",
+"name_bg" => "",
+"description" => "Even a single spark in an Oxygen rich environment may cause a fire (as was the case with the Apollo 1 capsule) so it is more secure if the electronics are on the outside.",
+"description_bg" => "",
+],
+347 => [
+"name" => "Can you create an antenna which emits red light?",
+"name_bg" => "",
+"description" => "Visible light is also an electromagnetic wave and so can be emitted or received by antennas. In fact reflector telescopes can be seen as a type of parabolic antennas for visible light.",
+"description_bg" => "",
+],
+348 => [
+"name" => "Which of the following is true for a free electromagnetic wave ?",
+"name_bg" => "",
+"description" => "Wavelength times frequency is equal to the speed of light in the given environment, so whenever one of them is higher - the other one has to be lower, since the speed of light is a constant for the environment.",
+"description_bg" => "",
+],
+349 => [
+"name" => "Which of the following best describes passive antennas ?",
+"name_bg" => "",
+],
+350 => [
+"name" => "Suppose that you have built a passive antenna with 30cm aperture to transmit with, how should you modify it in order to receive with it?",
+"name_bg" => "",
+"description" => "The reciprocity principle states that each passive antenna can be used as both a transmitter and a receiver!",
+"description_bg" => "",
+],
+351 => [
+"name" => "If you are transmitting using right handed circularly polarized EMWs, which of the following can you use to receive at the same time?",
+"name_bg" => "",
+"description" => "Electromagnetic waves that are linearly polarized or of the same type of circular polarization would interfere with the ones that are being transmitted!",
+"description_bg" => "",
+],
+352 => [
+"name" => "If you have two antennas (A and B), out of which A has a half power beamwidth twice as large as that of B, which of the following is true about their directivity ?",
+"name_bg" => "",
+"description" => "The larger the HPBW, the lower the directivity (the antenna emits in more directions the same amount of power - less signal strength).",
+"description_bg" => "",
+],
+]
+

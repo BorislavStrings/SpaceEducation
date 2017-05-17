@@ -1,0 +1,128 @@
+
+
+[
+19 => [
+"name" => "Space Science",
+"name_bg" => "",
+"questions" => "Why do satellites stay in orbit?
+What would the energy of the future be?
+How did the Universe begin?
+Is there life on other worlds and how to find it?
+How to survive in Space?",
+"questions_bg" => "",
+],
+21 => [
+"name" => "Robotics and AI",
+"name_bg" => "",
+"questions" => "Can spacecraft operate autonomously?
+How do design a Mars rover?
+What is Artificial Intelligence?",
+"questions_bg" => "",
+],
+22 => [
+"name" => "Space Medicine",
+"name_bg" => "",
+"questions" => "How to survive in Space?
+How to live on Mars?
+Space challenges for astronauts?
+How to build an Iron man suit?",
+"questions_bg" => "",
+],
+23 => [
+"name" => "Space Applications",
+"name_bg" => "",
+"questions" => "How is space technology evolving?
+What is space infrastructure?
+Resources in space and how to get them?
+The impact of Space on Earth?",
+"questions_bg" => "",
+],
+24 => [
+"name" => "Engineering",
+"name_bg" => "",
+"questions" => "How to build a spacecraft?
+How do rockets work?
+Surviving space launch - how hard could it be?
+Surviving space - user guide for spacecraft
+How do spacesuits work?",
+"questions_bg" => "",
+],
+25 => [
+"name" => "Astrophysics",
+"name_bg" => "",
+"questions" => "",
+"questions_bg" => "",
+],
+26 => [
+"name" => "Space Physics",
+"name_bg" => "",
+],
+27 => [
+"name" => "Astrobiology",
+"name_bg" => "",
+],
+28 => [
+"name" => "History of Space Exploration",
+"name_bg" => "",
+],
+29 => [
+"name" => "Manned Space Exploration",
+"name_bg" => "",
+],
+30 => [
+"name" => "Robotic Space Exploration",
+"name_bg" => "",
+],
+31 => [
+"name" => "Robotics",
+"name_bg" => "",
+],
+32 => [
+"name" => "AI",
+"name_bg" => "",
+],
+33 => [
+],
+34 => [
+"name" => "Biotechnology and Biosciences",
+"name_bg" => "",
+],
+35 => [
+"name" => "Enterpreneurship",
+"name_bg" => "",
+],
+36 => [
+"name" => "Satellite applications",
+"name_bg" => "",
+],
+37 => [
+"name" => "Introduction to Engineering",
+"name_bg" => "",
+],
+38 => [
+"name" => "Spacecraft engineering",
+"name_bg" => "",
+],
+39 => [
+"name" => "Rocket Science",
+"name_bg" => "",
+],
+40 => [
+"name" => "Spacecraft systems",
+"name_bg" => "",
+],
+41 => [
+"name" => "Space Suits",
+"name_bg" => "",
+],
+44 => [
+"name" => "Space Exploration",
+"name_bg" => "",
+"questions" => "History of space exploration?
+What is the future of space exploration?
+How to become an astronaut?
+How to get to Mars?",
+"questions_bg" => "",
+],
+]
+
